@@ -1,0 +1,16 @@
+baseURL = "/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+languageCode = "en-US"
+metaDataFormat = "yaml"
+paginate = 25
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+brand = "Digital Health News"
+description = "Netspective Media"
+
+[permalinks]
+post = "/:year/:month/:day/:slug/"
