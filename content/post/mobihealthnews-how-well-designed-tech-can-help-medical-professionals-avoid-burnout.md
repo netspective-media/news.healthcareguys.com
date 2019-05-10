@@ -5,11 +5,11 @@ categories:
 date: 2019-05-08T11:29:28Z
 description: How should doctors and nurses spend their time?
 dropmark.editURL: http://radhikan.dropmark.com/616548/19124717
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/9ab61abac024fb52aa54f6e3eae5cc19372148bd57402f733bca2c8acd7305ae/thumbnail/patientwithdoc712_8.jpg?Expires=1557430062&Signature=AS9IVJdN7U3YRtKppIg56w52XS1WdHnzFeD2po-IzznFg~B8nOWV9sXfp4Z7q1VAowYBjEaPrAt45JWcNg8OL6nF1U4SuVdA~gsEXxzWAnzmtKY0vNp8cg8RZJhw0BWWNVXVf2tLk22rkJq5RHCpszb9wX67ZFlKMLD8rVG6JCUtbdrc0P2PmUEBs3y5rY8jS7Ko2BZnWsZ7QSzXfZ8KKm041l8CJ~MbHKlch-rXL8KaiJv7WZtqP-tmjCZLSS7nfZhesCp9eQnIbn6281EE171b7rESFxz8IgnmczP~g8Io~-dPXzW7pH4WCuCym5~ysyjEo7P443TtWQdjKEvn7g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-how-well-designed-tech-can-help-medical-professionals-avoid-burnout.jpg
 link: https://www.mobihealthnews.com/content/how-well-designed-tech-can-help-medical-professionals-avoid-burnout
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-how-well-designed-tech-can-help-medical-professionals-avoid-burnout
-socialScore: 22
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

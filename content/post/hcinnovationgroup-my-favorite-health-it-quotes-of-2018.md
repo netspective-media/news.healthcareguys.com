@@ -7,11 +7,10 @@ description: Covering the healthcare informatics beat can be challenging, but it
   its perks, one of which is the opportunity to interview genuinely impressive clinical
   and business leaders who are working to solve some of the thorniest issues in healthcare.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17161269
-featuredImage: ""
 link: https://www.hcinnovationgroup.com/home/blog/13030973/my-favorite-health-it-quotes-of-2018
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-my-favorite-health-it-quotes-of-2018
-socialScore: 18
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

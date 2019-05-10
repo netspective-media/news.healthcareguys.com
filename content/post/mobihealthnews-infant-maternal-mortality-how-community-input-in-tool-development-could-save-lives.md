@@ -6,11 +6,11 @@ date: 2019-03-04T13:40:30Z
 description: Adorned with balloons and celebratory flowers, the maternity ward is
   often seen as the beacon of hope at a hospital.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18127936
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/285f5fe54704b0a8e1de958c45fc393d8de2e90b5dd160a72b534189f294727e/thumbnail/Indepthtechnolgoyaddressinginfantandmaternalmortality.jpg?Expires=1557430063&Signature=Ra49x0w5s-D0I~qoYMmqLrzq3~iP-kN7uK-EzpJRXwIfOTlpNaezU56sKwzvRnkGTZer7qhI0vBA2uBSW8yIzyFecqcZ2TRvNvvxDBcIDmmj3MSSl9exSZjZj-nbx6zr~SCBBcQq559dBI6jsoMlyUxvAl1TlgLTqmWL3xLXnQIuYhSSko5NrpfGKOMB5mxTqDd1F3kE3Fwtqy-V3woq3pJDvxcjk8fp7mDS3hMyl8cr7tTf-w9LSvtH2CWB9A0~RredCUEqgFW6KDmVFYCP~n-qKTH-aUXj1xllzzmJxFj66-ufSJtfOU-vgq4V2P~Gab1mogvaNf3HZX1Byc6CCQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-infant-maternal-mortality-how-community-input-in-tool-development-could-save-lives.jpg
 link: https://www.mobihealthnews.com/content/infant-maternal-mortality-how-community-input-tool-development-could-save-lives
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-infant-maternal-mortality-how-community-input-in-tool-development-could-save-lives
-socialScore: 17
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

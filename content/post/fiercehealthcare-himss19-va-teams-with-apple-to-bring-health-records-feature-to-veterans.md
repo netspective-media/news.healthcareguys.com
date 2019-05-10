@@ -5,11 +5,11 @@ categories:
 date: 2019-02-13T09:40:12Z
 description: The U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17823372
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/24db3b925ae3c98c745f4fcc4dc1e08250aaaaa0600fe777843b0a550f82c9bc/thumbnail/iPhone_X_Apple_Health_Records_screen_01232018.jpg?Expires=1557430063&Signature=YNAhUOynvBJ8W1upFOLafDsAIOQoEV4LDeVGZyBqNOS4uIeIRKd0wKXrg7b23~cMKyShKIltIZBXJqiNZs8LzDHYWOpuO04H52QBr~3LqgM79WdnwG9wdwwFXPgMorJxObCbwtqdH2NsgUUaty6iA7i51EkkXZ5yyZQuKyeLm-fqeKxz6z25fq8NbC8QKSStA7mrtckpayfj3mexMa9AOhbcbvuQLhorU20rXpJyQIhoZ20eS8xi57yNLMVyr~3qfr7BiXH9uNWut6pRh4bqfglKWts-OSSOs0k1u0bn9-jOwU~CkbKBZY2s9ObVd5~tEDHUllgQVct4kAiWLVc2IQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-himss19-va-teams-with-apple-to-bring-health-records-feature-to-veterans.jpg
 link: https://www.fiercehealthcare.com/tech/himss19-va-teams-apple-to-bring-health-records-feature-to-veterans
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-va-teams-with-apple-to-bring-health-records-feature-to-veterans
-socialScore: 20
+socialScore: 13
 socialScoreSimulated: true
 source:
   name: Dropmark

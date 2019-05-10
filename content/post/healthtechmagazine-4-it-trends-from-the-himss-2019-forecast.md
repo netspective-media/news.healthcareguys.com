@@ -6,11 +6,11 @@ date: 2019-03-26T11:09:17Z
 description: Healthcare is zooming forward at an accelerated rate of change, facilitated
   by a number of factors that make traditional healthcare models impossible to maintain.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18310526
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/84869f9f04c74fc2292270ff42d712edf0d7799c2260e7eecc8f70dce46fb09a/thumbnail/HT_HIMSS_4_2019_GettyImages-574878335.jpg?Expires=1557430062&Signature=UU3pWZGLwb9umWca6KaSFPOf0N5YDjGYiznfCY4kKdufWfuXROzHrhqXAnIU60~foeLO-lqgsP3wNoEItXShfKpS0DwGr6gF2s53wEklN0kzqNxzO4IiwAZnVC6FzdKP9LMEPi3aGDcNOaIf43CFgqJd1Ik-TQhBiC75Uhvvr22wQ-yPAzEs4wZ2iNMV0u813zM0DW-bjAiaTBRa5iZKpA6JlZRFbTDFQUDSf2Ju3hjALkiPjuCG2j5L677nG2ShViyDg1XB4eXO2ef0NgduildWAbpYnYTL1koJEdaVU4J618-OfiB8mId6kWk-OVcoBev-Dul5ErkCaHQKZRItsA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-4-it-trends-from-the-himss-2019-forecast.jpg
 link: https://healthtechmagazine.net/article/2019/03/4-it-trends-himss-2019-forecast
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-4-it-trends-from-the-himss-2019-forecast
-socialScore: 40
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

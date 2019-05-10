@@ -8,11 +8,11 @@ description: Zocdoc, the scheduling website used by health providers, including 
   that charges for every new patient booking, despite objections from some longtime
   providers.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17600637
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c0ecb1bfa4925b4f9f5df828d33b66397b15cda7b8d48202e000e2ba815bb02a/thumbnail/104008954-2ED1-SB-UnsickPaid-101116.1910x1000.jpg?Expires=1557430063&Signature=OyOx9XQAFZepb4pjDDCMAvMJ0NjZ0fu3TzBoB0~AYlUmD0rKl9R~ZKl6NrroTWlC6ZWdf6jMB3zkm3OjaWkei3kbALuDpUsN6eeIlWFPs~hIdb~76qpg1gSbD28oJPvwk~dehIeT~uBAGKVtpuJE6d5yz-epzM7B32ixgBsWj6YWxKlRLxUmgLKWN-1OTXJiHaK4rXYlmmuvRMFoOywucbxGv3ytX~DrPtgjudbwzHB-TG~RkZzQ2tv7-3vQEbUOycZ4ZF68RmaAFJ5DJBDXmHEv70hGWkA~90tP2zTfOK9cKwho0g0JRiAd~lNs-bCHLiEXDDprg55uZjwIjrKVvw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/cnbc-zocdoc-changes-to-per-patient-booking-fee.jpg
 link: https://www.cnbc.com/2019/01/29/zocdoc-moves-ahead-with-its-new-business-model-change.html
 linkBrand: cnbc.com
 slug: cnbc-zocdoc-changes-to-per-patient-booking-fee
-socialScore: 49
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

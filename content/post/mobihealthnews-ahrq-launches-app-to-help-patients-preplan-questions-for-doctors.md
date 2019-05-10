@@ -7,11 +7,11 @@ description: Figuring out the right questions to ask a doctor during a short vis
   can be stressful, but the Agency for Healthcare Research and Quality is attempting
   to help remedy this issue with a new app called Question Builder.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18214959
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/ad002858109b2ba2761be8bbbea7c8d2bef3f292a1f606027fe47ee44145c301/thumbnail/QB_Desktop_BG_Dual_Phone.png?Expires=1557430063&Signature=fQ-ZWp3VknDHJrf2AlVdhmZ0p8apgmHbqrOjPIbnKdM~58MUeISp9G62rKr~PaiCszIqzMJ1vCcWF~0XOKKBuUa2Dtk0E6PiQexCsh8p4psh3zHfSYj~p7hSvbS7UIg5g1WrF5D80DHw44QkZ6EZoiksOZmXkM01oddJFgnEzB2I43LuaOK8H17qN5bHMFTxPFZpu2wLqzoKfTXl8AHR3LPW1s1XGaYEYhh3EYVkTV3fGlxfKZrfR7qCFq02yx5O-~ehmM8GDAYFuWDNfPra9lkLRvYxQ684jNyxmXgCVD9jLlr0R8a3MmhPdHQBXk64ZGlNRqUzNpR0yugCSr1FMQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-ahrq-launches-app-to-help-patients-preplan-questions-for-doctors.png
 link: https://www.mobihealthnews.com/content/ahrq-launches-app-help-patients-preplan-questions-doctors
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ahrq-launches-app-to-help-patients-preplan-questions-for-doctors
-socialScore: 8
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ description: Beats Medical is an app designed specifically for those with Parkin
   and provides allied health therapy exercises; physiotherapy, speech and language
   therapy, occupational therapy.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17322103
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/587703969968e854cdc12a74c77a74e0014aeff1f2bc977b9c9afe8be1f995e8/thumbnail/Parkinsons%20app.JPG?Expires=1557430063&Signature=CHcKaCeQrbKWTCFieQNzFEMbMDaBVL5CMyvZDJgODzDw8og-d91oKPTiUIrpsFznsp2cA4DnMc~bHy6OGmimi-gQwN4K7hNVJyZV0onPcm0xxZFDyzwV~2eGRESqGL7NWVMZkV7As8E2huH6Amr5eYvbmKYaf0lDaZ~fur0iyB1uLLxGw5S2ykwtEsiVebnu5fa86vfN5q3bxs9Yw5ClJUui49A1jcoKlOQRRDosKgKd~dbzlp1xyNWMG0CkjlzR1jnK~oxYVVYz68wYbTLq4q2ZLuAs4rz3eFHEopylBQePCHaGNgqUbaecL1aY7WEkmW1stu64NroWIELkidKd~A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: https://cdn2.dropmarkusercontent.com/353804/587703969968e854cdc12a74c77a74e0014aeff1f2bc977b9c9afe8be1f995e8/thumbnail/Parkinsons%20app.JPG?Expires=1557446529&Signature=XJGST0BmqEf4akKZe49pHsUvCUo5b3-apZ-itZQ7Ur0pGg87BQZ7JaiGzvEdhMtAoJCLqpG~CJUQvcRKyzPknTzfjeLxzJc-CGKSc36PrksYDAaUv2UbZTn3oeNGmP89S~bAlDGmV7zrJW2N9hwjWkO53D5ulqNQDVuJTW-v5jd85w86WLnD0wdboQ1tDdXizjZlyID2Nh1-FW7Dm57aU2sIRtKoNqsGJrFsnnd0ArIr-j-rDrBtMtlGf8vCAOaQree5RDjOmXw1zs4DMhbbBoVPxbHUzxhynuiwGOrLUwgvjkFiHA2Ab4eAA8tiAoIW3jCqVjNB8YvjES3Rb-3Lyw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
 link: https://www.digitalhealth.net/2019/01/beats-medical-parkinsons-uks-app-library/
 linkBrand: digitalhealth.net
 slug: digitalhealth-beats-medical-added-to-parkinson-s-uk-s-app-library
-socialScore: 24
+socialScore: 46
 socialScoreSimulated: true
 source:
   name: Dropmark

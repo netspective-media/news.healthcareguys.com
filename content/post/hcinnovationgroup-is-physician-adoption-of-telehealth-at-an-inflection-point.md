@@ -5,11 +5,11 @@ categories:
 date: 2019-04-18T09:22:11Z
 description: A survey of 800 U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18485194
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/a03c87f3a10af0e25c3450cf440726f867be7053de3b0b69360e80627274c045/thumbnail/telemedicine_video.5cb63833615c9.jpg?Expires=1557430062&Signature=NY2WqL~nDEsfamVa3q8c5mwAJVD7Wxd0q5e~ioE9yTEJnDJaKBdiqPQmV92mmanJh1iPe6RsOINaw-DCYiwe0i69SpqFg~PZYFXyHBfz8~M9X1oaOODUVvfGnM3pPUU0pphImSG-mjJYu~BqTqDVxKsvKa1AVh3lfbBClBO9aJgbruNxAOA-PVQU6pQ2locDdf2r4Hygb1sqa1stOrVjJF4qJrFf1ZmP7q0MoWtqfQEfu5joodACLvIiDQKWogmNpnqNwWXp9iJO4SPR1ijI8~gB06Q1HLhudGdSRGLdZ1E0leYvKDgAVBCUOd8WXiuMWKwes8NN8m3PELbB9sQz2w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-is-physician-adoption-of-telehealth-at-an-inflection-point.jpg
 link: https://www.hcinnovationgroup.com/population-health-management/telehealth/news/21076616/is-physician-adoption-of-telehealth-at-an-inflection-point
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-is-physician-adoption-of-telehealth-at-an-inflection-point
-socialScore: 12
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

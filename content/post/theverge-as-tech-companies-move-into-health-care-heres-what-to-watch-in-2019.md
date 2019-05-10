@@ -7,11 +7,11 @@ date: 2019-01-04T11:03:26Z
 description: From Amazon and Apple opening clinics to Uber launching a medical transit
   program, technology giants spent 2018 moving into the health care space.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17216336
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/6adc0e62419d5178b59704e15b5e50193109555d47555f685152398db72ebd9f/thumbnail/tech%20in%20healthcare%202019.JPG?Expires=1557430064&Signature=EWTaN9hHvrYMBR2~9m81kLq6jiD4aZcM~Yz3mK34~XZVkU~nkJKreYP~Bs2sEoo9G~NNQ7PihnwfqACyvwdQT-TZ7Ayv1CL3EegN3eZHD7K2h4n7cFO7KcPyl~dWxM4Q32PqIqzSAEYT8TzHgKv5qXT3JyRY7jmyB-mXHrjCQNABycPe4Riw8vqRt2QPpAefULGpSDQRkakv3e5rUUVZ8wytS4UOs6WOPIM9i6oMWMAO6sXb9kN37ZTCH2IB8~xaYX4XJscFvZ45GIwocuZhvl3STaXhQi-6ncJPKPF7UprKhPsg0EMwt69YlOBY98LxUTLNyczBf7675~OISjTIXA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/theverge-as-tech-companies-move-into-health-care-heres-what-to-watch-in-2019.JPG
 link: https://www.theverge.com/2019/1/3/18166673/technology-health-care-amazon-apple-uber-alphabet-google-verily
 linkBrand: theverge.com
 slug: theverge-as-tech-companies-move-into-health-care-heres-what-to-watch-in-2019
-socialScore: 39
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

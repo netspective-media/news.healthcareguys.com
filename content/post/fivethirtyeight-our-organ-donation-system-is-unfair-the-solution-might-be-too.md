@@ -6,11 +6,11 @@ date: 2019-04-08T08:21:18Z
 description: At any given time, there are about 13,000 people waiting for a liver
   transplant in the United States.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18403503
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/1690b258707ef430eb723c69f5876e7404f5c73d43530638b18700726b3c2565/thumbnail/GettyImages-147200068-16x9.jpg?Expires=1557430062&Signature=VXN28xXJgowrmjuKYVG0XNvDb3d2YQRyT7RvO~6eCTITgSsP6-02-wXR3FbLR2WoRRrocw7Rz3LyCZzsUBPhNrZzL6gqHlnJxkoWrraG5DTMGuAoQrTWyrLlOx1dVWMh0T-16n96hyIIwAJ~MHiFOF9JurkSbZyuAU3nlajXb~xBAMkufeW046tFV5ELyz1A8N3i~BTgFe5Rig5ioVyOFf4jFkApA6uEGaNkGz0ihzHZn1DJfqOKKK1b28d70nuJaCwg6xwmN-GuCP8kN-rR88FEHRMibpCOnf~aFp1Isehd~pLF4FZ08TmpYAdCzkRkN537xGBIvStwqhJ9pqu8Dw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fivethirtyeight-our-organ-donation-system-is-unfair-the-solution-might-be-too.jpg
 link: https://fivethirtyeight.com/features/our-organ-donation-system-is-unfair-the-solution-might-be-too/
 linkBrand: fivethirtyeight.com
 slug: fivethirtyeight-our-organ-donation-system-is-unfair-the-solution-might-be-too
-socialScore: 2
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

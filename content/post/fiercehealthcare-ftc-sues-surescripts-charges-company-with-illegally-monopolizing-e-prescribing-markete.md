@@ -9,7 +9,7 @@ description: In its latest move to rein in what it views as anticompetitive tact
   health information company Surescripts charging the company with illegally monopolizing
   the e-prescribing market.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18536855
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/119704e727e59c995758b97a639d536cc495b3b5f63007028b5908505e3f468b/thumbnail/GettyImages-831745014.jpg?Expires=1557430062&Signature=GfpTrfYU-R~CCoU2O9iXGPFUDyrSBpQRXs5xubxfolQmJM5N5TdVxaN~CecUj5lArKe0T-SNwlLpwtH7UOwkIo0jxl8veWmzjKOnCkXjp4aRQ22fwhsUQlVYtaimBaEb-b2ko5Ka2vE5bXz3S-8WXTkSd3azmxt2jY8et0nQodpQqjNJeFn9Ia204g9KEYVGleT8xTzofIKkTHGMBLiY8Eb0awQt9WPPryfmwobOnX3J5wlgZBPIEFTwTKRd-egqRYbDQDoDKSnKZV~46Gc6Li0Pj~Ea4fHMbplOa8p8xlQpJIJwmU2Cjw~qLZQlLMrHAyL-7P4-fN~2Dz6yHkqnbA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-ftc-sues-surescripts-charges-company-with-illegally-monopolizing-e-prescribing-markete.jpg
 link: https://www.fiercehealthcare.com/tech/ftc-sues-surescripts-charges-company-illegally-monopolizing-e-prescribing-market
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-ftc-sues-surescripts-charges-company-with-illegally-monopolizing-e-prescribing-markete

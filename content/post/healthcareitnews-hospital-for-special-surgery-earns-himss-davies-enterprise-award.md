@@ -7,11 +7,11 @@ date: 2019-02-07T10:57:02Z
 description: The orthopedic specialty hospital leveraged health information and technology
   to improve processes and ultimately patient care outcomes.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672686
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/625ffc5c5b0c0f2ff9085f4597da29b82ac4e72e799840570b888240904a390b/thumbnail/020519DaviesAwardHSS712.jpg?Expires=1557430063&Signature=L3oPSEgNXPiIEFHr8WbAV1dcXKE20FqrW~BlBiRfz4jyFobKCHaLeopRPlbG5kUeB6ItopyRsjRL~ukf9XuGUDabKmQn3HxKXUZqf-q9MF3V4AfObxGbHaWJL9RNBnQZv7sgkN1f61KYAUu8ooOceGUWIlEa~sO-GIc-RMml6ObVGWomQbS2hMx57g17hn7aVOlnftY7GZ4xCGAcA-GDYaRuW8u-rgiOya0276aK5-KfqfQg6sGs3NdQLZ4kcGQJMSAPnC4hMREZUpQsudkJiqc4mbF0sSIKbW6UtdekdJa~hQDwlHE6cePCgZyvO6yRtAlK6w1lc5dfiYgrz-MgFQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-hospital-for-special-surgery-earns-himss-davies-enterprise-award.jpg
 link: https://www.healthcareitnews.com/news/hospital-special-surgery-earns-himss-davies-enterprise-award
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-hospital-for-special-surgery-earns-himss-davies-enterprise-award
-socialScore: 48
+socialScore: 30
 socialScoreSimulated: true
 source:
   name: Dropmark

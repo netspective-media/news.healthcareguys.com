@@ -6,11 +6,11 @@ date: 2019-05-07T13:56:42Z
 description: Today, on National Nurses Day, the praise is pouring in for nurses across
   the U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19113433
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/3dd3b7d0f494c42fdb99d4e1ec06754acd9977aaf5c44405150914726d21e6a3/thumbnail/NurseSuperheroInScrubs.5cd0a0a3a7e80.jpg?Expires=1557430062&Signature=dAUrMhVyju3ViSWBl57s5JfJmpSxEiZAuPXc9l~fLFFE6siSQiTO2QmZBidMhX4yNIVaY-d~UdKu2DqxaudNT3wTLVn3-imH8ArE0SD-Ix9h-3~pnR9DKoiO91O~UmNczjjFXNDdjVycnqpD6bmN9sKMm4pPEc9G2eWPVzEctQzmJFVpAHfMv2qrWoXYSmUKY2BAOfOv8r5Bh0Ep0js64Ys-WhZ3C2Ae0kraI~7j4hap8HYwDJWs7Gkg96fIvWhD7bczj506W7S-HEyOtTnD6wup2YzFGoSd~BeawqST6VkL1ENaZ4bx~wVgFuwOKXY-~O9SRZJcRR~dJkp~IXHjyw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-on-national-nurses-day-a-charge-for-the-future.jpg
 link: https://www.hcinnovationgroup.com/population-health-management/care-management/blog/21079417/on-national-nurses-day-a-charge-for-the-future
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-on-national-nurses-day-a-charge-for-the-future
-socialScore: 38
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

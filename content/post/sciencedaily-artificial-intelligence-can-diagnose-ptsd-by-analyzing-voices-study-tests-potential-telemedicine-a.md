@@ -6,11 +6,10 @@ date: 2019-04-23T10:29:24Z
 description: A specially designed computer program can help diagnose post-traumatic
   stress disorder (PTSD) in veterans by analyzing their voices, a new study finds.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18520561
-featuredImage: ""
 link: https://www.sciencedaily.com/releases/2019/04/190422082232.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-can-diagnose-ptsd-by-analyzing-voices-study-tests-potential-telemedicine-a
-socialScore: 38
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -5,11 +5,10 @@ categories:
 date: 2019-03-14T11:08:31Z
 description: Are we living in Minority Report?
 dropmark.editURL: http://radhikan.dropmark.com/616548/18215015
-featuredImage: ""
 link: https://healthblawg.com/2019/03/ibm-facial-recognition.html
 linkBrand: healthblawg.com
 slug: healthblawg-ibm-s-facial-recognition-database-dangers-of-hyperbole-healthblawg
-socialScore: 41
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

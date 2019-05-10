@@ -6,11 +6,11 @@ date: 2019-01-18T11:21:52Z
 description: Brian Van Winkle, MBA, focuses on transforming health care by accelerating
   the adoption of digital technologies throughout the ecosystem.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329028
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/799f9c86989b565fb4d425f5fe9062701f7385154316bcf308d171a09b89150e/thumbnail/Node%20health.JPG?Expires=1557430063&Signature=Lf2TLEvbkCut5fO5OOdCNh-yEzWe25bvBEVIc-yPZyz-mCg2Pg9mCBOL2nQXEObBLMPoqk0JGWlbP-T6v8OOOiepARIn5WRh7XJSIy0tYwE9MOoHY6V5vhNy76rYuMWdx3-XXOQn9QIM-dRj6VQnfhW2EYnUCsyvfP0GP3gVlebZpXf5sKU1VYtcON3np72egQXWU2x6Q79LNRuA1AoOThGoQ34GkD6VWm4yJIhVB6W-CIGeWb944rzVm5ClqGCQVzTl2yXGCcUDusbe0fLbQgzzVUfhV3aY7MTQ7nTuv7C0CrE5819-c--RjIxHKIdp1FM9IWovSPvjs~5C1Er0ow__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthvalue-libsyn-the-node-health-digital-medicine-conference-with-jay-erickson-brian-van-winkle-and-shahid-shah.JPG
 link: http://healthvalue.libsyn.com/ep211-node-conference-overview
 linkBrand: healthvalue.libsyn.com
 slug: healthvalue-libsyn-the-node-health-digital-medicine-conference-with-jay-erickson-brian-van-winkle-and-shahid-shah
-socialScore: 30
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

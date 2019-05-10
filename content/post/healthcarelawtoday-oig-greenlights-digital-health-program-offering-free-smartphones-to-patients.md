@@ -10,11 +10,10 @@ description: Last week, the federal HHS Office of Inspector General (OIG) gave t
   could use the smartphones to track their drug therapy adherence via a mobile digital
   health app.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17654298
-featuredImage: ""
 link: https://www.healthcarelawtoday.com/2019/02/04/oig-greenlights-digital-health-program-offering-free-smartphones-to-patients/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-oig-greenlights-digital-health-program-offering-free-smartphones-to-patients
-socialScore: 12
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

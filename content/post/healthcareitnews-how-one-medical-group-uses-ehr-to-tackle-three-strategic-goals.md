@@ -6,11 +6,10 @@ date: 2018-12-17T14:35:20Z
 description: Prime Care Family Practice in Prince George, Virginia, is using its ambulatory
   EHR to help deliver optimal care while gaining efficiencies and trimming costs.
 dropmark.editURL: http://radhikan.dropmark.com/616548/16971452
-featuredImage: ""
 link: https://www.healthcareitnews.com/news/how-one-medical-group-uses-ehr-tackle-three-strategic-goals
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-one-medical-group-uses-ehr-to-tackle-three-strategic-goals
-socialScore: 7
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

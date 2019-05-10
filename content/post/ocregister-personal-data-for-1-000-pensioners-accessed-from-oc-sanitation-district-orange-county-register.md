@@ -6,11 +6,11 @@ date: 2019-03-18T10:42:08Z
 description: Birth dates and Social Security numbers for 1,000 Orange County Sanitation
   District retirees were accessed in a phishing scheme, the district confirmed Monday.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18242863
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/b855b3d26a177533d7be34c9fccb87ec5ac57744b5e4e2db401f97fdbfbef580/thumbnail/0429-bus-techgirl-03-1.jpg?Expires=1557430063&Signature=QfgzktzmJg0JruNCMoV0xwcDHe~riOI-fMyMl3RoNco2WVhQfLVFf3EjD2XBNdcMvQzEr83E7XQv5IgFFxujFxj7nj~kT-jzay8PLBC-sNQsSEHSnxLU8RcPohg4sVx6o0gj9G3MAxXDvMiF7XX6yv4TtYsDWR-XMptJV1WdDF-qx6F9uJFVOtucxmCWeYyPwoKA-1RWmhP-4FHn1bO5KjUESPoJ2zGCRcfHS~zDTFZEe69kH9e0I5BBt7g87wOllV~UypbHJlRvJmZzbLlgmGNKLQ55KJeXHAbdQDO0pWLQbGINMG5MyjyN-hw17OiAmzCSTDTkhps4CLXCFXpvsg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/ocregister-personal-data-for-1-000-pensioners-accessed-from-oc-sanitation-district-orange-county-register.jpg
 link: https://www.ocregister.com/2019/03/11/personal-data-for-1000-pensioners-accessed-from-oc-sanitation-district/
 linkBrand: ocregister.com
 slug: ocregister-personal-data-for-1-000-pensioners-accessed-from-oc-sanitation-district-orange-county-register
-socialScore: 29
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,10 @@ description: At HIMSS next week, I'll be doing 5 presentations about the future 
   healthcare IT, focusing on patient directed data exchange, internet of things, and
   telemedicine.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17680288
-featuredImage: ""
 link: http://geekdoctor.blogspot.com/2019/02/remote-patient-monitoring-and-self.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-life-as-a-healthcare-cio-remote-patient-monitoring-and-self-responsibility
-socialScore: 20
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

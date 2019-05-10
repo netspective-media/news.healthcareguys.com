@@ -6,11 +6,11 @@ date: 2019-03-14T10:58:31Z
 description: Each year the nonprofit ECRI Institute highlights its top 10 patient
   safety concerns for the year.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18214957
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/ef15095fc55c806bb9c85277fcbb265fdc7398048329ce3cb19d82fe12c47384/thumbnail/og_default.jpg?Expires=1557430063&Signature=NRhExGyzB-2OixswzgorjXW2HJfgYGB98MOSRddYYUQICRCdzB0j0mE7KuBfwxUe6UEYh63PAyBfhAe10TjVlLincTiOa5TA0FgY3M8AKyuWX6ujqgjPGiAyYWOaGqeSq5h1PPJKGmIjMhdUlVuT3Z1rQWPjAYT0rh0WY39d7nL02XCkmfOroh1dRbeQ45rSejlmJG5Ar2s4FEQ4fbxyJYyWXlEQvFviTP3UNyA81eUHGtZ95~QctSaVrpQwdY~t3eJdI6657Ua4R~X0huazL6N0PiUsEImDGLstpPmWcKbixS5pyYsGV2~zMS79VGI2ItDdPPlPVUzd5eS8xYKVlQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-ehr-related-issues-top-patient-safety-concern-list.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/patient-safety/news/21071783/ehrrelated-issues-top-patient-safety-concern-list
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-ehr-related-issues-top-patient-safety-concern-list
-socialScore: 37
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

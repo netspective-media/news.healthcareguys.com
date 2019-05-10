@@ -7,11 +7,11 @@ description: Computers which are capable of teaching themselves to predict prema
   death could greatly improve preventative healthcare in the future, suggests a new
   study by experts at the University of Nottingham.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18348398
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/672f13e8da2c07ec7780925df6323fa4cd8952f7f9781224d4a471d9d2a4ba34/thumbnail/190327142032_1_540x360.jpg?Expires=1557430062&Signature=LFmv4XQhowtFNVviw5ZGWltXjD6oasKAJUaGZcRXYh-D6qQjDXpFNN73oRnA8hXD~TM-icIhNeExy~vz3oZnrfh28A1hJPE35CSwS~jhfjwxH0vjte4U5-f7YZfrg67m9TGEISmvSy2-wLsh8sDvpgz2MxC8th7jhWHxIUVlmSXSeYrLkF67L6yTLP~pw4UCIap8meFsbjIkF2IzWaCinkJcTZJVrtMeIDf30qN56xTJFwV-NbVI0tJOc357uOsHZVrwU-aocpuGuPNRU2uq6tSmPJpXnJyF3u5CPYXC1O8qLW3DkyqBFlm6rhbONtWGiXQxMSjnOdRMk2r--W5VOw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/sciencedaily-artificial-intelligence-can-predict-premature-death-study-finds-sciencedaily.jpg
 link: https://www.sciencedaily.com/releases/2019/03/190327142032.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-can-predict-premature-death-study-finds-sciencedaily
-socialScore: 36
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

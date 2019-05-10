@@ -8,11 +8,11 @@ description: For healthcare organization IT teams tasked with keeping personal h
   information secure, there’s perhaps nothing more pressing than remaining compliant
   with security and privacy regulations.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18047004
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/08254648b3fbfe8557cb579354c5d4c481463a387636fb7efec1bd1d216965a7/thumbnail/HT_HIPAA_GettyImages-879773576.jpg?Expires=1557430063&Signature=WWhe4LnCW6AsH35s4LnceJwv~FTJN-c9NQq~1Pg-sk5upZvCaEiOkay68qSM6BAvgLzVo6NvxIVmq0jNalqK9GDHO2KrcA9dSGxSWyBsP0ACLNR~LagUHxmLeu0vpJHTmhfokht~8pedqqOdoZd~Zf75Qhw8xp2KVwpyoWoGvWnWlr4vMNEE4d3wpdYrpLXWvUo46ZfPYAc0QrZlz7s7RTz5mUeCQtBe8kIw0G0vTk34QAY2uykl14XNAxvjWKyWOW7ykPD-iAix6iVm6hAGpcSd2-i7gMi3LkJDHCHA4WmwCriFgamvRwbVWZr6m86rkl8bnftt906emIQn68rLjQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-4-important-elements-of-the-2019-hipaa-compliance-checklist-healthtech.jpg
 link: https://healthtechmagazine.net/article/2019/02/4-important-items-your-2019-hipaa-compliance-checklist-perfcon
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-4-important-elements-of-the-2019-hipaa-compliance-checklist-healthtech
-socialScore: 13
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

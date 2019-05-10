@@ -6,11 +6,11 @@ date: 2019-04-02T10:28:32Z
 description: 'When he invented the telephone, Alexander Graham Bell’s first words
   to his assistant were: “Come here, Mr.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/18357048
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/60f8a443ad2b1d84d5eddd217f3f81a54e7658a465111b563778acf2c7f2d703/thumbnail/HT_Telehealth_NPHW_GettyImages-1130153295.jpg?Expires=1557430062&Signature=KIncaDtto8zz0dltO2pRXkCeOVNjAvry4HRs3CL4kHrZaLTDBgech3pzihGi9nJfllt8VDSPxfd3sASaAHnqx1pr0SRnMA9MxS4tsEQ8NZRBREo8IPEkU8cj068Dc4b-f20tn32ZcBrOqzLnPhY8dOXXxGSznsHB6H4RzZ7Jg5SZDyV8KhiCdxME1QkicRpFWGCuNe1cHUiULNDrCbvJ~m2LVLewqFF2PuaWRkXmk2Q6YhKoq-31Wr4Mq50mOVcR-yZhUGN8I32KKT7GXAoLBhbdEF~nYVF91Hg5YmCWTawluye-4tK-KNlklyksfkCY7Tc~9pUyTxgE9q7oX-GHrQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-5-ways-telehealth-is-taking-modern-healthcare-to-the-next-level.jpg
 link: https://healthtechmagazine.net/article/2019/04/5-ways-telehealth-taking-modern-healthcare-next-level
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-5-ways-telehealth-is-taking-modern-healthcare-to-the-next-level
-socialScore: 35
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

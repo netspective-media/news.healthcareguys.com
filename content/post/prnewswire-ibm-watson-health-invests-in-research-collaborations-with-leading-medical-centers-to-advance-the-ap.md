@@ -5,11 +5,11 @@ categories:
 date: 2019-02-14T12:24:48Z
 description: ARMONK, N.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17836287
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/fd1f77cc36221652dd5ccc5a3c089a3636c741d51e8b685667e8e8c544bc8612/thumbnail/ibm_logo.jpg?Expires=1557429812&Signature=PopZlkfO2hWQg-Kp0wT9XfceeB8pLjJBAQ0rGVCyN2-504aB4YN2BHjPmTyxr8zHckOYfwUmnprDaTPzLtPP7gY3OsguOLN0bFXny~XtFLbxW9rEyxtJ4IUIf4YqQbOo2EHAlyCwXZ1wGcE0txfyFdONFVzTyaWvI9idYk64a4G97yb2dUVKWrmLpZhxeKLCr0RBwn506QCds2SXux6VLxZwCsxr~Egh5O8nY-MI3SeZQsVodHjrfOV30MccLo-yFZC2F2LDbwuy0gichZdXTyjV0bnrSTHIPHrGO7lnOW3hko~XzV~FEj~-7dcfF5hBGa4-dnaGKPh4yVh-AmIevw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/prnewswire-ibm-watson-health-invests-in-research-collaborations-with-leading-medical-centers-to-advance-the-ap.jpg
 link: https://www.prnewswire.com/news-releases/ibm-watson-health-invests-in-research-collaborations-with-leading-medical-centers-to-advance-the-application-of-ai-to-health-300795155.html
 linkBrand: prnewswire.com
 slug: prnewswire-ibm-watson-health-invests-in-research-collaborations-with-leading-medical-centers-to-advance-the-ap
-socialScore: 37
+socialScore: 13
 socialScoreSimulated: true
 source:
   name: Dropmark

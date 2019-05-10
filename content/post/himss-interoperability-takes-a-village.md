@@ -8,7 +8,7 @@ description: From early in my career to my current role as a consultant, I’ve 
   interoperability and how champions of the cause are able to educate others on its
   importance and encourage them to take action.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18190850
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/011d0c65071ac805ff267dc595e6187f37271db21cefa2d409ba4674ab5a2ec0/thumbnail/Interoperability-Takes-a-Village-1024x512.jpg?Expires=1557430063&Signature=N81fpX0tiZtjdcrsKZcekYgsoDnFJxKfJQY322b5tUay9a7b6kIendkwmGwvuO5CjkWqug8wHP9kF-N0bGN5RvY4QyQyh3DrNF31EwZRJe8f39qXn5JW7HUaJ-x5JFauQarQwExRYgUN~0JCstuDBLroAuJclBu3l~DqtY0KauONfXzIHwn2Pw~L9EthVImXIosPb4AbBuLfM~zdm4YL8SVG7ITN6ubwZmHrsC4pdhFTeWJiAFKn0NvIQZ1oJiAJSvqiB8jo8y59NNBPf14lvQ5n5GP7RfOTfd4vBx4FFxgSxbhO5~eOcBew1uHaWZaJfs4q486qhDm0AChp4f3meg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-interoperability-takes-a-village.jpg
 link: https://www.himss.org/news/interoperability-takes-a-village
 linkBrand: himss.org
 slug: himss-interoperability-takes-a-village

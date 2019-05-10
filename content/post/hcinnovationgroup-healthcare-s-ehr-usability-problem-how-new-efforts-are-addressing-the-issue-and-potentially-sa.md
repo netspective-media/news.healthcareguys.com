@@ -6,11 +6,11 @@ categories:
 date: 2019-02-27T10:35:27Z
 description: Raj Ratwani, Ph.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18093391
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/b4380d92b1e0b7c57bf1ff60381e744b6fd658cb9b296622c08967697dce1176/thumbnail/EHR_usability_.5c75884d222ac.jpg?Expires=1557430063&Signature=UTH9EPsPDiR1rpHqJWL7KHxYGd~ERSuQDaZ7fyR4NyuEfnSYZAcIcYOnHqfYFh3MsI1efDeUkKcIPcbU0d~ol8OtXOj85~Fxjs8QM3SX9swx2mxRzg2EfROgNvmK2VACFko1Q~hFLsVgFA4nx5TX0sodaDwAVkHOra831sk4NDi55n-h5TavD35h4epNyB36WToPQFeTeeSIhp1BrTbN8OwlC18tStonsOAvrsPtJgdNBflM3bXH57R5PNYhCvM9xVjNHEE~I5XC2lqqqPF2GTZFP4ukFRi~FmeDlbqk6e0Nkmn99QPYgbnVA0-Oz7BKCGPAIps3ID4YFUlX1wKOcQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-healthcare-s-ehr-usability-problem-how-new-efforts-are-addressing-the-issue-and-potentially-sa.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/electronic-health-record-electronic-medical-record-ehr-emr/article/21069997/healthcares-ehr-usability-problem-how-new-efforts-are-addressing-the-issueand-potentially-saving-lives
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-healthcare-s-ehr-usability-problem-how-new-efforts-are-addressing-the-issue-and-potentially-sa
-socialScore: 2
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

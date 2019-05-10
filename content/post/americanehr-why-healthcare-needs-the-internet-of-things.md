@@ -8,11 +8,10 @@ description: The IoT consists of smart objects or devices with cloud connectivit
   capabilities – devices that can perform a function, collect data and transmit that
   data to a network where it can be used by humans to accomplish a goal.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17611114
-featuredImage: ""
 link: http://www.americanehr.com/blog/2019/01/why-healthcare-needs-the-internet-of-things/
 linkBrand: americanehr.com
 slug: americanehr-why-healthcare-needs-the-internet-of-things
-socialScore: 2
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

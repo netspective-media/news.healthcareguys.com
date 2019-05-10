@@ -6,11 +6,11 @@ categories:
 date: 2019-01-11T12:03:58Z
 description: What do power banks and cows have in common?
 dropmark.editURL: http://radhikan.dropmark.com/616548/17270387
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d987110cd3cc70470a7e2f99a2c7b1c08ca029aaa2caa818330a3ebd4fe9612e/thumbnail/Medical%20futurist.JPG?Expires=1557430063&Signature=Crmz9bYoLHM0z-vILu8uwE8ZM1aFr4UvTpmJNNZbNps~EfgzuVXhpeeLnTbJeKK~0-I5HfCKIF3M7KmaBBL5UExUdTDYx5qsMHrPhxH7f0NmTL6lrdGzSOf39U7IcVwyHpyEN-4NkkzVjfDWTstzjFEzcAeclprRPfF5SU8gQVml5V-WtnVH21fcd4FREqVXtgfBoWp4lvO2XTHwF0HnoxczTnwgar1ILIo~aDjBcS8RVgVmtrsbO4mTOklWNNsFUPAKDIFrrX3r0ZONsGvC30A22a8h20KdHCP0i-yqm4lcTwnDbqfmQNrU26TzpRoETK2wm2A5C1Kn-ZqCAwHedw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-the-good-the-bad-and-the-weird-health-tech-from-ces-2019.JPG
 link: https://medicalfuturist.com/the-good-the-bad-and-the-weird-health-tech-from-ces-2019
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-good-the-bad-and-the-weird-health-tech-from-ces-2019
-socialScore: 24
+socialScore: 46
 socialScoreSimulated: true
 source:
   name: Dropmark

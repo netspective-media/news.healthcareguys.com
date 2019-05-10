@@ -8,11 +8,11 @@ description: 'HIMSS today published "2019 Healthcare Trends Forecast: The Beginn
   of a Consumer-Driven Reformation," a report that features commentary and analysis
   from leaders across HIMSS, Healthbox, Health 2.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/17611103
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/eeb9f4aae18026e0ec33cd92ea02258cbb55eb2c0deb679ff9d9a85a7e1dd77b/thumbnail/013019HIMSSTrends712.jpg?Expires=1557430063&Signature=JYSc-z25CUm5LYpq~0-8Vef8CyfFh~dserhv6Rip-sFyubgWRx9yE5ETX6MBXyOMOHHePAS4D2t-mFdDyOx~gsafGLp~WJMxLIhtW1FKcgoWyFQBbeoHKNC7l1uK2IaOfoMHmG9PQWdEtyRUKmJZT2MaMojnFIqJA5F81~H4HlEfexxK-HAbzlPzP7JI9rtZ1o~t7zE3X1hy9m-s881fWdB8LEY4d6UTNLVzhP72I2EMllFASFmEGu7mcyk9vI6je7aYJVU6CDesaYxy7MOxUyIjjLVcTx65jQ6RTIHZns8-6W6HqdKD59O27YG2xJksevtC6FMPlIrezYBqy3VBYw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-himss-makes-4-healthcare-predictions-for-2019.jpg
 link: https://www.healthcareitnews.com/news/himss-makes-4-healthcare-predictions-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss-makes-4-healthcare-predictions-for-2019
-socialScore: 6
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

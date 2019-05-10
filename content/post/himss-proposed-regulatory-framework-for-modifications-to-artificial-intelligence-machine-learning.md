@@ -9,11 +9,11 @@ description: On April 2 the Food and Drug Administration (FDA) released a discus
   framework for modifications to artificial intelligence/machine learning (AI/ML)
   -based software as a medical device (SaMD).
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389464
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/0034ebb2ed178baff01cf82856a38e50b030a41b214c4b27b41f1658b4d4b963/thumbnail/Proposed-Regulatory-Framework-for-Modifications-to-Artificial-Intelli.jpg?Expires=1557430062&Signature=DeDSvDZXkNQvaO7CCgFsgH5syuAcwjCXpfNcyUO0NFWRIK4bv4h-imHKJY3aBVrPoTdQ-Iq8kZA6tIzTvfezuyMFhhevQyK9n2CHYR9nVsL2vZfhCg2-KnlrsknqDhG3cl90aAGPOZ2-RBW~lio~zaug1WKNpAl4OKFp~3xPG9uH144038UG~r5veB9ipTC-l6HvYtvYKG6cOAXyZqhYeSJiSv2pgnmXXL~CUzMPadnq6uqVAQio0w8gFj3D7nYTKNPlRNzhMWNJhCzGUPDrfaPwAN-YjKFlavzTys9QS29zpV83syaTtMqnEjAgBAj4N1suOhtk5XEgHcMS-BI7Lw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-proposed-regulatory-framework-for-modifications-to-artificial-intelligence-machine-learning.jpg
 link: https://www.himss.org/news/proposed-regulatory-framework-modifications-artificial-intelligencemachine-learning
 linkBrand: himss.org
 slug: himss-proposed-regulatory-framework-for-modifications-to-artificial-intelligence-machine-learning
-socialScore: 6
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

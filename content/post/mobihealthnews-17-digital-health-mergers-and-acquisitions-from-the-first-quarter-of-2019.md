@@ -6,11 +6,11 @@ date: 2019-04-08T07:03:18Z
 description: The first quarter of 2019 started off strong with 17 digital health mergers
   and acquisitions, including five over the course of two days at the end of February.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18403204
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/00132e6fccdfae775c9f618004c7fe4c7f8b85bd9a10c27ef8c8e7daea54a2b7/thumbnail/geneva_0.png?Expires=1557430062&Signature=JusCjE8ttM01UNcRW1sjWEXW~-FYseB2LrLiupobLCdRLqqejtzuf-e4Vqjo82bFLfYItY74SD2RCcz4OMU-wN3mY~1pV2fZkpuD8Z3vVN7JGNRbMVxDJh0fy0CiNHvjYJ-WevIiURdREtIhZ-55H3J6GNIxqT8zKZcmM7S~e3dBozYVD1KPgTL386f9T8FFc-njtXo-K19oWgbGYvi-8XwUD58I~Pjhq~vXlOa5M4WcSm0kvMN0JmEKXdCaophDaKpsTD6CvuUkvJkF6q3LFFnlOVpvPeGSpAqCzQAGBvioCRKMKw3~BEwtCbwFNa5O60Bd2kvMBu2iKhezimI9Rg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-17-digital-health-mergers-and-acquisitions-from-the-first-quarter-of-2019.png
 link: https://www.mobihealthnews.com/content/17-digital-health-mergers-and-acquisitions-first-quarter-2019
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-17-digital-health-mergers-and-acquisitions-from-the-first-quarter-of-2019
-socialScore: 9
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

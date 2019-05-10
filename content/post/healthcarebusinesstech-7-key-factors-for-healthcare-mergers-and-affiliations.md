@@ -7,11 +7,11 @@ description: 'When you search for the word “merge,” Google brings up a defin
   related to “coming together”: two or more entities joining to help each other address
   a common problem or need.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/18700302
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/02f58fbb8e2ecc293de49bd2cdcbe5e719b570ae1bc50c9544f4d08f7a66a2c1/thumbnail/GettyImages-925101084.jpg?Expires=1557430062&Signature=YD3hA5tM72JdO65GoQac8fs3U59gX5X2mlnBEpQsKAjGpjgveRVVXTox35KfjTCyGrqUiov8aOhO-vjWSlmrguK6mJnMKX7hnm96~1Yhl8o6QUVQIGxa6KsWDcU5qlJpXt8ujk0NKOF5OCk1BOwb5mh9c0ArE7sEM2RfGZQ7uY1IghV1~zYRibWvSnjIH3cuRlJlVVX0vD~WpUtoGv8oaDzVAtk2Za0a438xpKsDW2qofoxKykfBiQoDu5T1JmCV9S8JhwDbapUFYP2jSsJNXN2SDp5BQRdaGM9G9lPWYZlXMHc6PJKLvZGQnnjlRxnebR4tFfSjVTrd4suiENfvow__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcarebusinesstech-7-key-factors-for-healthcare-mergers-and-affiliations.jpg
 link: http://www.healthcarebusinesstech.com/7-key-factors-for-healthcare-mergers-and-affiliations/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-7-key-factors-for-healthcare-mergers-and-affiliations
-socialScore: 21
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

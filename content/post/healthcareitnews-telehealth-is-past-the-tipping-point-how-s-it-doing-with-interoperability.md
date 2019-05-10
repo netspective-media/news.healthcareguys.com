@@ -7,11 +7,11 @@ description: A new survey from the American Telemedicine Association assesses th
   current state of data exchange standards for remote care and offers best practices
   for health systems looking to capitalize on its potential.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18477633
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c342b8d1c437490a6bafcc8010c01140153292d5fc1da312e67b192edc7236e3/thumbnail/Telemed-HITN.png?Expires=1557430062&Signature=ZBg3WivAwaZei9rj1c6qrvqUaA4YKRwHhRt3wuppp9xWe1wylCMrMm-BffcazsRM11o2pynkftqNyBwSYUiPO5LZjcfjSz-heZeVFGyZqNqd6qDIw4acTTm1QLAxivr4JVot0OIsuhtPWpTpQlCbukItiLPddD3jEZMEhdoNalomIg3TtcTnvdfWPfnsfpqEjV12vZqwQnrYF2PiFcz7DR2hsKQFDzLvM6xrOvpClmg5H1u~YVlsBw2goZzD8TwRHPDg689cngcPngP8nOrOg~r-oFXqBaVu3Ikbd5Ldv9UaYf6FqXbmefzfvtZeKFQoWTUe0KoSRo~yJoGF06dx2Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-telehealth-is-past-the-tipping-point-how-s-it-doing-with-interoperability.png
 link: https://www.healthcareitnews.com/news/telehealth-past-tipping-point-hows-it-doing-interoperability
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-telehealth-is-past-the-tipping-point-how-s-it-doing-with-interoperability
-socialScore: 31
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

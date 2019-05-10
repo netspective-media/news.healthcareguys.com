@@ -6,11 +6,11 @@ date: 2018-12-24T14:23:49Z
 description: Currently, the healthcare field has extended beyond the mere requirements
   of healthcare facilities.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17161327
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/621316ff8cd4eec5add02d7cab63ee46d89825294df88bc1c0444d141e4a14a8/thumbnail/software%20testing.JPG?Expires=1557430064&Signature=M2s6BctgvxIQnhTYtdTcGrRRGqa12jTIHRcgo8Ru8Nrsd9XWlosKr0w9rxyppXDqgOw2Kd6Uj0EkPygQ8RatD~p3UMlH7~Th8CCSXQIlH89PR5HmZcdzHoyOAofUTnqCDWgQzD-2xokA1yUWWp1lFL32TOfUGhKWUurHkXhy1RFrbprIfiE6QOTkJU8lt109hu7CNj8xJ~ZZoZoWN8KaPc2maTalG4gHpKNSgOEyffS0ik0qbhsltpWXPqlnhjpdYDT28fA6MtgKSCM7-YjJp5fTHZANL~qooGOJIXRJ6e1--gz5a4Q9P9Uj89HWXWXPVpOAZeQo34qkpxoN7ZyC-w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthitoutcomes-6-ways-software-test-management-solutions-can-enhance-healthcare-apps.JPG
 link: https://www.healthitoutcomes.com/doc/ways-software-test-management-solutions-can-enhance-healthcare-apps-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-6-ways-software-test-management-solutions-can-enhance-healthcare-apps
-socialScore: 23
+socialScore: 19
 socialScoreSimulated: true
 source:
   name: Dropmark

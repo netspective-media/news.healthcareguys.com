@@ -6,11 +6,11 @@ date: 2019-04-05T10:16:04Z
 description: The first quarter of 2019 is behind us and both Rock Health and Startup
   Health have released their funding report for the quarter.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389345
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/79113332c00c3a63c7dab2b414263209cea626f719f19659bfea3960a2ae58a3/thumbnail/rockhealthfunding.jpg?Expires=1557430062&Signature=MYZRX~Ji7I5r0zXabe7Qh7L2pGMV-G5tnl4Ts8lA3qtMqRuRxARPxU49yVhXtnEwRLgyd3tcrxX8wZTNiIl2TeSv-z~BeuHTnIqcwh4wfD1R2-7s6oVm77V0eF73lvgEQGH7ceQVsavmz98sakfi140QytOMHl7yNe6nxC4JwjYJncX~ALBnA2h3hcuBB5Hq0q5C7OQybxGSSgjYpfBr1mHmIUyGIUbGt0FvNaY7fgwXEjQBlb25gH-BSRV2OQVHntlnpyCb597iFrZop2o6BQ7UAWAjWOnuRtmsxW68QDWMSTHJsHJeDyUwmbOhs6k9yi5M92LUQQZOOuOefqnLjA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-rock-health-startup-health-s-q1-numbers-show-expected-slowdown-in-digital-health-investment.jpg
 link: https://www.mobihealthnews.com/content/rock-health-startup-healths-q1-numbers-show-expected-slowdown-digital-health-investment
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-rock-health-startup-health-s-q1-numbers-show-expected-slowdown-in-digital-health-investment
-socialScore: 27
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: The Office of the National Coordinator for Health IT (ONC) has issu
   its latest report on interoperability standards, following the close of comments
   last October 1.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17315272
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/3d718d7271a1315671fce270185956bd428a547d99ffefaf718cfeb1a0889102/thumbnail/ONC.JPG?Expires=1557430063&Signature=DqlEBFg10s5PgKXCjruWNGv7hzI9aI9fu5VY0jZOX7WvveL9~ylXMsdQc0q3SgWFcuZvmUO1TZXzPV00bLJRWa8AFr1iEuOOF8J3mv4cuXeQ0CdmylhDev78UQh0G0DEkDRQ~dnNTZf5lDa4Z03i20g6bnw5Q6QOSK7NpP1JSVfOWthrvMNxlVVZcZirUgfzXf7D3R3mFsGaONiisQAZ2xMgY0Uw~rb2hwvjdoeceVhnbJh2sgOwy1L0I-joMZvK71EhoyUU0SsgBMGJ7-E~~aUO2Q2mVuGwte0JJGETxD8GAglAS68Adeq7qXOd94rS7nie8csKsqPRIrEcBUkD2Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-onc-releases-interoperability-standards-advisory-reference-2019.JPG
 link: https://www.healthcareitnews.com/news/onc-releases-interoperability-standards-advisory-reference-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-onc-releases-interoperability-standards-advisory-reference-2019
-socialScore: 10
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

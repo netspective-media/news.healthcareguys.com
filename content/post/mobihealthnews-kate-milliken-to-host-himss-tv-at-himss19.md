@@ -10,7 +10,6 @@ description: Skip to main content Toggle navigation Global Edition EuropeUK Glob
   patient advocate for those managing MS, as well as what shell be doing with HIMSS
   TV at HIMSS19 in Orlando.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329061
-featuredImage: ""
 link: https://www.mobihealthnews.com/content/kate-milliken-host-himss-tv-himss19
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-kate-milliken-to-host-himss-tv-at-himss19

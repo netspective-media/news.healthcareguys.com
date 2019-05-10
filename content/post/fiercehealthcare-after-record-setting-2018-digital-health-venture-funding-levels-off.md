@@ -7,11 +7,11 @@ description: After hitting record levels in 2018, venture funding for digital he
   companies leveled off in the first quarter of 2019, dropping 19% compared to the
   first quarter of 2018, according to a new report.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18477590
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e723aadcb8a6875939dbfd39334eff4f85f7242aa4203a8d82edbd76e871640b/thumbnail/GettyImages-950986656.jpg?Expires=1557430062&Signature=djBLWV4lCmRkDWP5c9YoNJjlod-gnZgjCZLcokp-EuqL9WQb2UHQNALbsemOnVl-tB2peQhbMSe5fipHWu-FH4XIekOjGHnU4pVx1Quma4dTZMZpmGBKRvodujCPNm2uBkMz-7KVzgU0Kp-PSjY63um2LnbzE4eRUzc9BEhJaSmXDtIzuzI01etO9ZF~N0Ej83VlPCTFS20ryhk~07UTZMgtzYpSagfhPwh9wei-AOjMyF1BuNe8czBSuaJRSaxA2mJv3a~wrnDAknq~aydpgMfWX~DZ5hUZyaEMSzptg-SXMmW7T0eHJpErt0F71JJxVzplyqlNa0sIuPel1JeqNA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-after-record-setting-2018-digital-health-venture-funding-levels-off.jpg
 link: https://www.fiercehealthcare.com/tech/after-record-setting-2018-digital-health-venture-funding-levels-off
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-after-record-setting-2018-digital-health-venture-funding-levels-off
-socialScore: 23
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

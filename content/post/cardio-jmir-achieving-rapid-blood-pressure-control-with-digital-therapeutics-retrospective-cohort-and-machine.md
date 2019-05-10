@@ -7,11 +7,11 @@ description: Behavioral therapies, such as electronic counseling and self-monito
   dispensed through mobile apps, have been shown to improve blood pressure, but the
   results vary and long-term engagement is a challenge.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18700340
-featuredImage: https://cdn2.dropmarkusercontent.com/353731/b918afbd9cda29ecfd05ec90beaa99dacfb35a01d57c10800d0af6aa44b670bd/thumbnail/2cbdb8dad5f12c2d265fad75eab27602.png?Expires=1557430062&Signature=djrN7FZIuOL1nmPO2t8WaOpVY7UyipY3ubYKEgeJQEN3utEN4egdUp-kRWWRyFSQpm8TArHOPkKDfWfq1s~8PxGTSqZhvZaBQqCkQPQ~OASyeBt4VhG9B6y5Yc1p1u7dmbGgIDvLtJ7JsydW5d9Th44gdz-fmJAIJ5S21VJhnkLQQrGFUjVtgjHsWf8N0j3P7thJC1s0IX67sq1kVrvyzeE0GgNMoUqIVN1jh5zVDne9~9z2IOv6tK~CTkMsXNmaYTSv~GBco17td-K4rZGqCs707AtfBhpTvuPkED1pweO2wlKu1Bmx~hA~SAQEVOyiAPbGDoGCZiwNyrpV~bxF5Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/cardio-jmir-achieving-rapid-blood-pressure-control-with-digital-therapeutics-retrospective-cohort-and-machine.png
 link: https://cardio.jmir.org/2019/1/e13030/
 linkBrand: cardio.jmir.org
 slug: cardio-jmir-achieving-rapid-blood-pressure-control-with-digital-therapeutics-retrospective-cohort-and-machine
-socialScore: 16
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

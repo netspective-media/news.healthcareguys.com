@@ -6,11 +6,11 @@ date: 2019-03-31T00:34:22Z
 description: A software testing tool plays an important role in enhancing the quality
   of any software.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18254715
-featuredImage: https://cdn2.dropmarkusercontent.com/353731/ecab1ebbdbd9fa378b557c0d48eba559b71db74028fb5fd86969fee27a7d1fa0/thumbnail/data_and_medicine.jpg?Expires=1557430062&Signature=cXGBAbg4mcoLVAWKSorH4iwxyoTN-mrKZ2JUPx2ML-yx5fab8X1O58b-hwDnhpXwvwB4KRkn~VQRwoO6kBWbkh8Sm4TfN~pvj3f8PmH3SeFoivEdnEeWAhbDZzGZffuLI33SN6o5OhlDv1G1qbD~9hvxCG0Ui6F6lNdmH9llqFwx~OiP7Ah7gfgpDMGVpqukw0eunspIejTQanJvN8zih5TEGXx8bCAaVVDPTVOAn7a7RIGAaUH8Y13zDdxNmS4yuDs6yeslFtznPWgOShVqPpScFj-EqAs80eosTVfutquNIsdXpe~exa0jS43s9ozM1SaGY~UOT6OUkCmOLyxqwA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthitoutcomes-the-significance-of-a-software-testing-tool-in-the-healthcare-industry.jpg
 link: https://www.healthitoutcomes.com/doc/the-significance-of-a-software-testing-tool-in-the-healthcare-industry-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-the-significance-of-a-software-testing-tool-in-the-healthcare-industry
-socialScore: 33
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

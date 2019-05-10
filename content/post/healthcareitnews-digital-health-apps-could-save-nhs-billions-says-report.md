@@ -8,11 +8,11 @@ description: The study found the use of telehealth and digital consultations rem
   than half (56 percent) of cases, and a hospital appointment in 3 percent of cases
   if digital health through app-based tech was rolled out across the population.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146391
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5228eb4cd69bb92cc9740ac47d187f774c2560bbad2d10ac36f54e066b2dea2a/thumbnail/telehealth1712_1_3.png?Expires=1557430063&Signature=Y8lVdV2YLi3LFdQfSZ1Yl17XkKHZAq0M0aEX18Ca-e5zyfsYgbPkuRlImPwiJCuP1483xNGznbBw1teV9SI4ZSN2woaU37qv0sAXTWVPSBX2Jtwjx5iefiOX5vSU0RGL4pqnBcCDAqOAPLgAUByWyvi8VZJR5BZ0RI3MnPMQOhbifTix7YaJ5vAheqe1ih4iw23ABU7HFbEZaYuGAfddUlzTug6oA1W87NsA6hDtneoAnfSvOgMU7dfuEEO7bJKiyQclCPxj5IZSsji99mhHck1NbuPXp~jZRpvLU3DCnRJZW0NUOS0ejMZ9KZMEYqRISljXQKpC~5o-94i1hIfruw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-digital-health-apps-could-save-nhs-billions-says-report.png
 link: https://www.healthcareitnews.com/news/digital-health-apps-could-save-nhs-billions-says-report
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-digital-health-apps-could-save-nhs-billions-says-report
-socialScore: 45
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

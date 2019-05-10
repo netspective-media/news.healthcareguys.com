@@ -8,11 +8,11 @@ description: Nurses are much more satisfied with their EHRs (electronic health r
   than physicians, with some of the strongest satisfaction points related to patient
   care, according to a new report from KLAS Research.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18348219
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/814c5677326423571b01e55a672ef3f26dfbea77d9afe6baeffaa04e2003d1c7/thumbnail/og_default.jpg?Expires=1557430062&Signature=ideyYypo00D2yoOi-8qGe-D0lolnveR1b9OGD6NwIAj~LUmXF7-emH0P5uIgBJMWasaCnRFl0fQ9G8pMR0UFdU-24DR7w86l4RrdRl-fuR37wzhjov2pDq9SB2z0rW8ml5bmwROw~UyRlOnbEOVN6G1bidwLl-0h2jOFMe9HfnLu~aXKn65gkrAQj5uuUdqyZhBqZr~UMGQ29XS4PohsZ3cEZX~x6qNNBBsgom~PLMdb-za4koe-7S6dHRsVOxtSoAVlodg6r2wCWbh3dA32HGQYkuzFNh0XeP5vmii14FsrtNu~NZcwRwu0ZrGUhQpX5NkiKfPUpt5U~ylbr2j-eQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-nurses-far-more-satisfied-with-ehrs-than-physicians-klas-report-finds.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/nursing/news/21073897/nurses-far-more-satisfied-with-ehrs-than-physicians-klas-report-finds
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-nurses-far-more-satisfied-with-ehrs-than-physicians-klas-report-finds
-socialScore: 47
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

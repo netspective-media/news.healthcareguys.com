@@ -5,11 +5,11 @@ categories:
 date: 2019-01-10T14:29:38Z
 description: Wearable fitness trackers are here to stay, and so is the data they generate.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17263552
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/974878485ce178532f47c1b32efd8c5baea82751abc534bdd7888f35c11f0a82/thumbnail/wellness%20fitness%20tracker.JPG?Expires=1557430063&Signature=N1GrCCkdYiLKToqpaDRirfJcAs6Esbo4LXr6B3uTGMMWwHVE30J~AiRqdRmMfskcHyTtJdxwY9zr7Z3G3snsGFZ8DZJaS93RiH-kh7BBtoAssNY6sbxSgg6fPHWBZpfxV0lRHAQTsdp6uUNpnTMOmUKc9MlqYVB8oYQ7hh8cGq4Eg4Lq390jAnn-HHMhom4GHo1XS5a7mHjWNlCm8OMgA49U~45m160zunLJT-e9uJN2RQa9bw1ZkJFqW02S8p-kp5zTtQtgNjergxwytegJlqzPDUDE9sfTt4jT~soTe6p6nPu6D4gFexsF7KWXsTMAT5zk76KVxH5xXVQjF4VYNg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-professionals-and-patients-grow-more-comfortable-with-wearable-health-data.JPG
 link: https://healthtechmagazine.net/article/2019/01/healthcare-professionals-and-patients-grow-more-comfortable-wearable-data
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-professionals-and-patients-grow-more-comfortable-with-wearable-health-data
-socialScore: 5
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

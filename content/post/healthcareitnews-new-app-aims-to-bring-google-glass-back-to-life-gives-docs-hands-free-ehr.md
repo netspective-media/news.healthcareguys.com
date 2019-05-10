@@ -7,11 +7,11 @@ description: Contrary to what some have said, “Google Glass is not dead,” ac
   to EHR consultant Carl Osborne, creator of the app seeCOLe (short for, see Clinical
   data On Lens).
 dropmark.editURL: http://radhikan.dropmark.com/616548/18128016
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/9781689aa20123b75a1dfcdcf40b617b954ebaecc492fffd2e385b3b145eb313/thumbnail/CO-HITN.png?Expires=1557430063&Signature=Cd3cksWSJ1DSOJ8WEzsxYw60qdfYrI7DV5CoPizJmr0tuqB0BGrtNfUFwTYXOP0q2uFZerEQ1TqowNNOgDMF4IKW7~AZqilqfgycLY~MF~2r0HmqomZ2N10OYvtkHn7uc9bpo9ucjalxwbig4krl07k5gs1oyLcm8eBxLJzaNR-k9lpy4PxAZO36YpcctHHOkS4QP8qK9vuhOhGQxyUHpAyoYU-UemC7t76XUTCzilQlAkz3kzaZQgtbbKfG1aWZK0xpoRuJ3wslKER8Gr~owVibO4N-xIgw7Fh7SbaF5J-fQ8-s5Bj4al-b2KvKJM~HLP8jc3shSuIiDDK5qP24ew__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-new-app-aims-to-bring-google-glass-back-to-life-gives-docs-hands-free-ehr.png
 link: https://www.healthcareitnews.com/news/new-app-aims-bring-google-glass-back-life-gives-docs-hands-free-ehr
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-new-app-aims-to-bring-google-glass-back-to-life-gives-docs-hands-free-ehr
-socialScore: 22
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

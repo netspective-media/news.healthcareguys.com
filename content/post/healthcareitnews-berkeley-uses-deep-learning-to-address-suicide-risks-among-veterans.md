@@ -8,11 +8,11 @@ description: Researchers from Berkeley Lab at the University of California have 
   Veterans Administration tackle medical and psychological challenges of returning
   service members.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389402
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/9a86f4477874c1a950d9689eed5d45e08c008759b79e7f61cc4af5d8bd33e0bd/thumbnail/Tech-HITN.png?Expires=1557430062&Signature=iO--e5yZ8-AQTZ~A9STOQ~madq155ef6r44duclxj5LgBr4yBiTNjYvCXdcmOiy3u4hfBdY5QkFkdrK1JKqsQOig0F8VcuMg-AvDVPJrU67-D4Hv7M3Iw~2Fn6qWApANtQgS5rY2ibZzVvAa0Hu8MU~D4thG9oFQbWGSbqwsGK-vfCgOXPtvpSNobYE~CILGnvin5wUoPb2fgr2t1QbFBiLfUY6UhXSnni3Vp3vSdFRXmHPL6LBlynZq23SxPFglQ3H4RWaeYYW6ZoiF0b6vV0QJxwZGwg2JUBhGibmG5GGVIxpjDEBLkGKP1NDLFNLaowejZVhbhGhcUXm3ULRnNg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-berkeley-uses-deep-learning-to-address-suicide-risks-among-veterans.png
 link: https://www.healthcareitnews.com/news/berkeley-uses-deep-learning-address-suicide-risks-among-veterans
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-berkeley-uses-deep-learning-to-address-suicide-risks-among-veterans
-socialScore: 11
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

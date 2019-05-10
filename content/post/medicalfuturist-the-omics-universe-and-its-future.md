@@ -6,11 +6,11 @@ date: 2019-01-07T14:10:25Z
 description: 'The OMICS acronym crawled into the hive mind of the life science community
   as the Marvel universe onto the movie screens: slowly but successfully.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/17235781
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5914c6be0c35dd7cc355eea9ce13ce5e56ff5e263cde4c029499a7ce932f9a2d/thumbnail/integrated%20omics.JPG?Expires=1557430064&Signature=HOyFKJ5pXQQ1RpKdv3qpl9F0X7cNJoFY-oFE8leX-lougaC0ExprUK3ahwIsfAKsw2nB8nuLnnUxN6j2m~uzG7k03Zcir8PK81wZL3R71Uow7-5X2qW5L7tmA1MahVR0jcR73mx0n5G8nwbwtfovYykirEXth3vGtXsZ-KWhr48Q1xZlErYdTBMDWyJr6drswQkklbM8nKGC8q4vwl7hqGMmR0U00oBx9stN39pnbQi72jKTI7XnM~MyYr5BESyXdUBnxt~VME1BTyoy5RT4tRHlsAJA3wQSglx~eaMkO6QHOdlE48NUOgJP2ajMM-d3C44SqAYrcMpING2jJLzMIg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-the-omics-universe-and-its-future.JPG
 link: https://medicalfuturist.com/the-omics-universe-and-its-future
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-omics-universe-and-its-future
-socialScore: 29
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

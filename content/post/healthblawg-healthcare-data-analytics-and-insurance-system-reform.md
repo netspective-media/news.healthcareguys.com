@@ -3,11 +3,11 @@ archetype: bookmark
 date: 2019-02-11T13:08:44Z
 description: The U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17705083
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/94cc228ff5c91aaee05c575a65fa9fb7bff339bb2dcee035b4aea49f6ed5df92/thumbnail/AI-1024x547.jpg?Expires=1557430063&Signature=aWYJduLHXcDkAUjEVi7ai63nYiBbEenJlWMy4NHNhUY2bMSS0gMYQ3t3c~cteZ2DilTzCDmqsSO1bSUFYSgaawyHHjemFmog2nKgGFzhj-0bV~KoTfUqerPy~9EvaZfPBaogfM4EjdhLmYCh0Q9N5yQV8IiL4NzDfKiixLOOjzl1-8mIilrLPlVfJebCpcZgNWdAQQtYpZ4lGISPv-1mD1akHJOGKxpxTNGC2xKIxX754Pr7w3AKXGAHi67Wo673YG5deRc2spwzR2VbZPhc4fuK4tCk5EIhkp0Yis027dRP834Aylp~joG9rxNTX2UrwfIjGRtMFbYnr0I06p8Oew__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthblawg-healthcare-data-analytics-and-insurance-system-reform.jpg
 link: https://healthblawg.com/2019/02/data-analytics-insurance.html
 linkBrand: healthblawg.com
 slug: healthblawg-healthcare-data-analytics-and-insurance-system-reform
-socialScore: 3
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

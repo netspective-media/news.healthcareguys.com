@@ -6,11 +6,10 @@ date: 2019-03-22T10:01:54Z
 description: Bosses are more likely to receive a pay rise after their firm suffers
   a cybersecurity breach, according to a study by the UK's Warwick Business School.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18284825
-featuredImage: ""
 link: https://brica.de/alerts/alert/public/1251280/data-breaches-result-in-ceo-pay-rises-study-shows/
 linkBrand: brica.de
 slug: brica-data-breaches-result-in-ceo-pay-rises-study-shows
-socialScore: 16
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

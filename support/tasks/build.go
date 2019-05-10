@@ -56,11 +56,14 @@ func main() {
 	}
 
 	input := &model.BookmarksToMarkdownPipelineInput{
-		BookmarksURL:   "https://shah.dropmark.com/616548.json",
-		Flavor:         model.MarkdownFlavorHugoContent,
-		Repository:     defaultRepositoryName,
-		SettingsBundle: model.DefaultSettingsBundleName,
-		Strategy:       model.PipelineExecutionStrategyAsynchronous}
+		BookmarksURL:       "https://shah.dropmark.com/616548.json",
+		Flavor:             model.MarkdownFlavorHugoContent,
+		Repository:         defaultRepositoryName,
+		SettingsBundle:     model.DefaultSettingsBundleName,
+		Strategy:           model.PipelineExecutionStrategyAsynchronous,
+		ContentPathRel:     "content/post",
+		ImagesCachePathRel: "static/img/content/post",
+		ImagesCacheRootURL: "/img/content/post"}
 
 	task, err := pipeline.NewBookmarksToMarkdown(config, input)
 	if err != nil {

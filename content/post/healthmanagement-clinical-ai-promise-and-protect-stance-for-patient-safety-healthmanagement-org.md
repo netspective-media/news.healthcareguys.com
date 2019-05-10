@@ -6,11 +6,11 @@ date: 2019-03-06T12:50:01Z
 description: Health policy analysts have published a Policy Forum piece calling for
   more stringent regulations for Artificial Intelligence (AI) medical applications.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146315
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/44168840c8c0427ecd5c6e7a02a746e5dbb634d04d5fd15656045bac31a410f8/thumbnail/00114207_cw_image_wi_5cb109caa6d0307411a44dd7c0a61d17.jpg?Expires=1557430063&Signature=RBjjZlCNckJjsvCNoREdnBcb9fTGk5F8omDPCW4s-3161W~XdUMChl291RD2QrDmJ3oEU1O7R0CYTl1DVuWSWshrTOyU7920qT9iqUeMnoZs6vKnEnblrRnBw99JXrEYg8N3VD5WwCi5PURJzzTfrxFgfEjKwdECWLg7bl485fVbCPbR8946oHUjSpQ1wZZYFGw412hm~wcHNVc5pMCTsiYNeANCiurTiTDrchR9-0iFFhpCCFsIjn12bRArqzaI-b1Y4mBGzWnfgL0xF7Br8MEbAfUFuB1~vt8kZdwmPNsXMhM2RE39U155jrIjhlkWByCeyenAPgkQy2YvRfi5Qw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-clinical-ai-promise-and-protect-stance-for-patient-safety-healthmanagement-org.jpg
 link: https://healthmanagement.org/c/it/news/clinical-ai-promise-and-protect-stance-for-patient-safety
 linkBrand: healthmanagement.org
 slug: healthmanagement-clinical-ai-promise-and-protect-stance-for-patient-safety-healthmanagement-org
-socialScore: 8
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

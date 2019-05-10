@@ -11,11 +11,11 @@ description: By combining deep learning algorithms and statistical methods, inve
   the footprint of a new hominid who cross bred with its ancestors tens of thousands
   of years ago.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329092
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e6ccd49c01b5f43a2703b205eec0d1e459b09c9e286dcc2a692f308ddc337656/thumbnail/AI.JPG?Expires=1557430063&Signature=iMXKc3aLXMlVM9m-JFohqDhDdbZMaZpUYQC0b30SwS5FkgUKZYI4oMs1Z60fKx~ty4wMOUI7x0FL1KOL-P2bWt6-2nYVBGhmEc2WX9pi~Z2Gv9gbkKIEOYvnHyLvidjHyfznyjhwTShi5rY0TaF8lwyW8oeAO0ohKCnyRpWt6j~XKxqCTMmSpAsfVdUdJJcfs~kD35Kc7BmP3sA-la8SYGdyjWCmPfE2~pAft8lfUdND95lbKRxMGmHNTP4pmcVc0reudrUuvPmUGCuQfB~DYEqPHW9IAsJ1bXMltYhSF4AbdJ0v48eKdAXyavLWm0dO~vHfOd~TO78-0amdmj61sg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/sciencedaily-artificial-intelligence-applied-to-the-genome-identifies-an-unknown-human-ancestor.JPG
 link: https://www.sciencedaily.com/releases/2019/01/190116122650.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-applied-to-the-genome-identifies-an-unknown-human-ancestor
-socialScore: 36
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

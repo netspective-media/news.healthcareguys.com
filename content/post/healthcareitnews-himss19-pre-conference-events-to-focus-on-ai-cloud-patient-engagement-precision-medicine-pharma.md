@@ -8,11 +8,11 @@ description: Among the day-long (and half-day) specialty forums and summits offe
   and other HIMSS Media brands Healthcare Finance News and MobiHealthNews that offer
   deep dives into some of the most important tech topics facing the industry today.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17270470
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/6ec333181589d97fc56fba65dbe4431331a31d36bdb9b0b379e9cb06e02dde61/thumbnail/HIMSS19%20GE.JPG?Expires=1557430063&Signature=j11R3fbluEY2sEshwxfNqjMXqzqCiqfRjzYyWRuE18YOVFVSkARvlWzakRO-amUi6xaC9Tr8syV3qRuNzJmOQoJ34CNDGoYtTFt0UdyGZGf9Gspm3eMon27f0E0KW1OPgOMW1YmuhjtoLd7njk8jnPcoL-AnKNqWt3p5Ek89PNdJGpwiTdJxqAA~owhFlyv9LiFyiiKY0fl-j9p0XCfut3MdbwurwnBp0bHuRNS-CRdGZN7KgdaR7GT0~MnrAYSErRZhxMealwrD04-FlS-aT8PrkLMpw9BUlJNCEN2A8otc2c5xUrtxzK~Yc7uto15OC-XOFYrtmZ6liPy8AHz7pg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-himss19-pre-conference-events-to-focus-on-ai-cloud-patient-engagement-precision-medicine-pharma.JPG
 link: https://www.healthcareitnews.com/news/himss19-pre-conference-events-focus-ai-cloud-patient-engagement-precision-medicine-pharma-and
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-pre-conference-events-to-focus-on-ai-cloud-patient-engagement-precision-medicine-pharma
-socialScore: 1
+socialScore: 49
 socialScoreSimulated: true
 source:
   name: Dropmark

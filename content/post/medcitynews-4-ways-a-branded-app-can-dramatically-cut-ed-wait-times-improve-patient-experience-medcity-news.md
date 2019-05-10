@@ -5,11 +5,11 @@ categories:
 date: 2019-03-21T13:14:08Z
 description: Drive around any medium or large U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18277957
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/8ecd7b5a71e83a7d71bd0e73fac41447e2129afebfa31bdf574d63567fab10c1/thumbnail/GettyImages-941762326.jpg?Expires=1557430062&Signature=AQM47ik1kDhkt0jCznj-cYWnZJf0Y~8r8TSIPxeK0goD8dgs16lyg1Em~yieDGKzQ3N~2Iw5TlwdZ3AwUGsbpDPzJzvI~A~zI5-BXKLmTHJWrzbbWEmEac-pVPGM6QMUiFqR5rEpXKTmmDuuVe0AlnCO9ukad2M-WQZtUqjv60g2Rv1MvKQ0wUTrP9J~V58gxNoO8RLjptW7BRJGADPkLDZYAJN1x6e-N-k8iElgWxSso9ePNFBy4p46gUEBrG2KsnlIsHSqgQ3Ggrw65zwnadJr16cGpT9PGjZKgIDSf-5N8fM4-~kKmsyn80mdIb7dPg2GqUtIcgN0Md~hLZNTlQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medcitynews-4-ways-a-branded-app-can-dramatically-cut-ed-wait-times-improve-patient-experience-medcity-news.jpg
 link: https://medcitynews.com/2019/03/4-ways-a-branded-app-can-dramatically-cut-ed-wait-times-improve-patient-experience/
 linkBrand: medcitynews.com
 slug: medcitynews-4-ways-a-branded-app-can-dramatically-cut-ed-wait-times-improve-patient-experience-medcity-news
-socialScore: 24
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

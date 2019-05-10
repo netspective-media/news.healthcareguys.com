@@ -5,11 +5,11 @@ categories:
 date: 2019-03-21T13:13:06Z
 description: Healthy looks a little bit different on everyone.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18277956
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c306675de85c2f53963ade0cb52170ab5a2d6a6f51423f91230bc9b0cafdb4b0/thumbnail/AIhealth.jpg?Expires=1557430062&Signature=dlcaFBCO8Y~s~bNd6NdLdr1H-pzuqcNiyhD-YozgUA0-j7I8l1qjEKkwQLxKFplYx2C-fxW7J~BhkzM6uZqQIwWVnl2AQ~axgZJL0HhjGmwcuwFQgAXE1e3AShmAQd1URIfeiBEc-0IMeY2iQrgjraPlOX6~RDMVD2y5oDBk36p7xyT4LW~aU-rc1smgDpHClTA4MsfFHl-K9Zxf88FQKUz4r5gJnMWJg7YwfKEVTXd7olHvdlhmRt8RYOKPe2tTFhAJmgoCZYSUfIMfeu1jlA4q96XsPfPUSBES1-CePsEJzVc4unKplCcwSTPzL-VlmtdkXlrXrwO6JGznfPyNtA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-dr-eric-topol-talks-ai-s-potential-to-personalize-medicine-curb-mistakes-bring-back-the-human-to.jpg
 link: https://www.mobihealthnews.com/content/dr-eric-topol-talks-ais-potential-personalize-medicine-curb-mistakes-bring-back-human-touch
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-dr-eric-topol-talks-ai-s-potential-to-personalize-medicine-curb-mistakes-bring-back-the-human-to
-socialScore: 48
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

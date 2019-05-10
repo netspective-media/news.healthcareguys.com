@@ -5,11 +5,11 @@ categories:
 date: 2019-01-31T10:35:22Z
 description: Addressing global infectious diseases has been an ongoing challenge.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17611099
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/871feee3835d831b3799cb749f3531889cbbba0d1285b2ff748898fccbcc551d/thumbnail/0612-hitn-dat-brief3_1.jpg?Expires=1557430063&Signature=D0duZS3gnlI3Z34BRwpVXxVUoUuts866gkNrDNQ~wy3B3CyIa-AAN1kmlXU3KIwAw6JvpZGYVknd8pYPG8YjFtY46VUkGkj5gYCzmLordDFf58Rvu76CaS7afikOKJ6Mhv5vLwgd071XLNvzEg98MsUo4BaqmMSqduagZxPwmrqQ-aK9NDZFkgHMliFXaTLsBDxfTggQyESfURTlcJsbwL8ZLxmwjvOlMyDKJb-v6C7fKg-UClKGZDq6cQDSdfLBp8zHy48vOMlyd-XM1Y74wJvCZFN0nMenFyDgCTi0oNQCp-am3fRgsNIPefjm~~q5rX5v~9jy9-frYgqX06ws7w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-an-early-look-at-a-cdc-project-digitizing-infectious-disease-guidelines-to-work-in-ehrs.jpg
 link: https://www.healthcareitnews.com/news/early-look-cdc-project-digitizing-infectious-disease-guidelines-work-ehrs
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-an-early-look-at-a-cdc-project-digitizing-infectious-disease-guidelines-to-work-in-ehrs
-socialScore: 44
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

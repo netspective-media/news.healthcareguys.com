@@ -7,11 +7,11 @@ description: Leveraging data effectively can go a long way toward improving heal
   outcomes, and emerging technology is setting the stage for the development of digital
   tools that can help providers improve patient care and decision-making via data.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18215029
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/0c1f51c749b366f94a8e38afc7c5ae12d35451f71a0aadf78ad0adaf655eedb6/thumbnail/HT_HHS_Disease_GettyImages-1011263576.jpg?Expires=1557430063&Signature=CyrlZ3L-I8ojnocfN3XSZcVhYPhyDIu4Cy-WXt4HL3jywXzLK437Je0-8ptzyZFqHhDQNqnLMiEBb2OHB210W~ZrDwHSUrAcgqkSPyMSaDNg6m5AcMAI1XPMmUPlFSY8D6bBk8IgX0HCNGQRbZPAe4tXnBIGNBN09ubN1wjxL9RYwVQAS6RzyreXajtZUCDrRcKrQgE9ImrDX95B8~IE1l5YxPcjshZCW-6Elf2u5LTSuYwBnugnMIvG~8Zkp7YnRNTbGVRiNK-avxUAbBVLokQK6mwTeX0G75d~rSS1acylL1P753nHNJFOafq~2NstjRleTRDswPYolG-g9OgGQg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-hhs-digs-into-how-ai-based-tools-can-help-battle-diseases.jpg
 link: https://healthtechmagazine.net/article/2019/03/hhs-digs-how-ai-based-tools-can-help-battle-diseases
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-hhs-digs-into-how-ai-based-tools-can-help-battle-diseases
-socialScore: 21
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: According to common beliefs, a healthy lifestyle means a diet rich 
   vegetables and proteins, low in sugar, fat, and processed foods, regular sports,
   a balanced schedule, no alcohol, no smoking, no stress, and good night sleep.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18403523
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/36bb25a84e43ef796c926db7537e80c3f0d7b8061b6ea9749053a7f17cab60fb/thumbnail/What-will-health-mean.jpeg?Expires=1557430062&Signature=dqNggogJqkz4sDW7HiGDRmHDLAnxxjnGRSkN9o8ANPKjA2o~Z8GyiXeJU75~lbfD9M9gi6Yyb1gFpC06~FZB1ChLyRQGKxpebddIykn7P7eoA1SBMQjufnYYx2i81STqGfuLPoMIw82kP5bn~1mQc5CPImZ36x4eK6f6BOdQR3NE951GrMiGEUiHI51weAvaQeeL5hR7Wzm3mY8Uja5kTgIimuqcNQZmU~AWn-hI6FWyDPHXO5Lu6Co75cpITZVdVijEXouJIKyjHeZwBV8FnLzXNZqVFKzgQy9AOptE~PIKkjWr31Wnr12pU9Z83PMhvRMQSP1wuaAazphK8NaLXw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-what-will-being-healthy-mean-in-the-future.jpeg
 link: https://medicalfuturist.com/what-will-being-healthy-mean-in-the-future
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-what-will-being-healthy-mean-in-the-future
-socialScore: 21
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

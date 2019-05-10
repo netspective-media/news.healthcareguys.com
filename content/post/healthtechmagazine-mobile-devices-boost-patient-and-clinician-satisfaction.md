@@ -6,11 +6,11 @@ date: 2019-03-06T13:05:07Z
 description: Traditional communication devices, such as pagers, have finally begun
   to give way to more modern tools in healthcare organizations.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146419
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5138b5dfee6eeda6e86ded97bd83472851439f81e4f89df5ff1c56bf2984253f/thumbnail/HT_Mobile_Communications_healthcare_GettyImages-906716538.jpg?Expires=1557430063&Signature=bOc65GmKM9KeHJulJ11JoifjLKi3VRnrv8E2qPYVqYQus9z8HfrekyJoPLbuRQr~ZoRacBTBTyrN08PPbghfg-uWi0ACu6tm5z2Q9HYepKTxYtm8bZ1lf7EnC3gUOix59wcZ~VXPMnyFp5f2yGG2ZfRhppOSSVCqgNvl5RVO2BpwS6gQyWdDLUjm5mWcq~b01Pnk5a8Gz3zElN5yUM26h5QbjKHXI9aSCfaifH79dYmG5ro3xFC4KNcAAPt1UvWD-pjYUV3hcwMEmcGRaO9OnCZ4VDAtnHueW5vzI2PpsqMnpJBK88fXH1YrRiBZgvM2yqLMvMzSoheDkrVTavHwmw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-mobile-devices-boost-patient-and-clinician-satisfaction.jpg
 link: https://healthtechmagazine.net/article/2019/03/mobile-devices-boost-patient-and-clinician-satisfaction
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-mobile-devices-boost-patient-and-clinician-satisfaction
-socialScore: 48
+socialScore: 35
 socialScoreSimulated: true
 source:
   name: Dropmark

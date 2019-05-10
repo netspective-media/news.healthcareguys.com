@@ -7,11 +7,11 @@ date: 2019-04-26T12:38:04Z
 description: Artificial intelligence gets a lot of buzz as a leading-edge technology
   in healthcare.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18544588
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/7c3678f856019e185681d5051377e514b02feef724faa296fe20ec5ce9697b73/thumbnail/doctor_computer.jpg?Expires=1557430062&Signature=imYn5lEt3YRJU~Yqzml~REA22yS2cwM1KZc6OHxKIGM9bIyiz6n4n9ZLU-V8zSeqqdWUuv1tYKsKgDAnpEAhYW8e~ZYW8YI~eZCD8lfn6K65O3dHbBtum7~xj7ELY2724gwqGR~ubk-JvBtSqhVQtz8PiS7NloAipUo~BZYqZJlmOPPKC4YzAJu1RQfIabZzIimmJH8~ht~yy~-FAMJWO8XN6GgRWxiRrOB0zjSghsxI9uRDz9aCZVYnZ7hPynkmFmLR7IzYPSDsE8FQs1KaNMDqbWNzcF8rbmq1ugI7pIq~Ku3PQmaV3S009LdJrcAm30huoBTbmRt2cBx~~EJd3g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-nearly-half-of-u-s-doctors-say-they-are-anxious-about-using-ai-powered-software-survey.jpg
 link: https://www.fiercehealthcare.com/practices/nearly-half-u-s-doctors-say-they-are-anxious-about-using-ai-powered-software-survey
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-nearly-half-of-u-s-doctors-say-they-are-anxious-about-using-ai-powered-software-survey
-socialScore: 22
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

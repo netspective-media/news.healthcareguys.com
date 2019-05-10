@@ -3,11 +3,11 @@ archetype: bookmark
 date: 2019-05-05T12:14:38Z
 description: The idea of Evidence Based Medicine (EBM) is great.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19099374
-featuredImage: https://cdn2.dropmarkusercontent.com/353731/8733dd952b83ef4bc821d6d305139e48ec490b7f1e3dd5ddca56e628c890fc74/thumbnail/0%2ApZfQ9GoITCWVINWE.jpg?Expires=1557430062&Signature=doDsyJLIsZAhQbO2l2wdXL~o6-JlCirBfjyB-MIFImD8h32eVs1yGsI8SZ7NBeOYl9bD-JJauBGyQVaDHRrJ28zFEUuSQ96B5dbNvQ1LLcW31UJfx3oOxy8kKmnVMlXkkDsPuFdtJxvURlUjN3wjJNpTF6MjG1dDjQ~lqRngVv1NAicQvV956jLVcp4a9kJ6QXhQaANpjgBWJElZ7JvLanMCj~3cub~yg3i5fcE-CCskiSPLxMDJ1xNP1KfxnE6kNkIjLIJNcy7ZLyZRWlevfeO2ptcpmbQ6CRDtgYj2zinQQ4gglFgotXyhkBDUmKTgHtg4ZWxzvPM3s7g36LKIqQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medium-the-corruption-of-evidence-based-medicine-killing-for-profit.jpg
 link: https://medium.com/@drjasonfung/the-corruption-of-evidence-based-medicine-killing-for-profit-41f2812b8704
 linkBrand: medium.com
 slug: medium-the-corruption-of-evidence-based-medicine-killing-for-profit
-socialScore: 26
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

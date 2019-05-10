@@ -7,7 +7,7 @@ description: Nursing home patients may need care during hours when facility phys
   are not present, but sending patients to the hospital can be a burdensome, financially
   taxing task for the patient, nursing home and the treatment center they arrive at.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18016210
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/ac9dc494114922aa7f6277c72e1543401d80f0b048d42894a73843bb8b99354c/thumbnail/ThirdEyeHealth.jpg?Expires=1557430063&Signature=Gbujkv5jMAsxaGkZ3-zBjcFQWR4Vxzrkyha7uBfsDWXBVl4vOpw5CaeFUN8Xqvuk4lG02g3JWBBpbaDPRhBu7Bluz8DKImfdNKhlZk89YHAk~mdjRieAqLAozTKEcK3jqwS-j6CwAaWBKLHPGqNiRLK7xbTd33376HSps12mdo4ex5fMw6POv-Sd5WD1k9n7~-23EG3k1XbhXNXDiz56ZzJbgj2Pk9RUjG3p-fmCrDuE3E8mIdFdxLGVqCAzmUWZYLrQ-ZFgwLVQNUajdZzXAtLNWfUXSwervmjWGrGdrSzWGoxbwesmRUb2~027HStDgGVCgGmLUw~Ln3WAcKNZlA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/builtinchicago-third-eye-health-raises-7-5m-to-bring-around-the-clock-doctor-support-to-nursing-homes.jpg
 link: https://www.builtinchicago.org/2019/02/18/third-eye-health-series-a
 linkBrand: builtinchicago.org
 slug: builtinchicago-third-eye-health-raises-7-5m-to-bring-around-the-clock-doctor-support-to-nursing-homes

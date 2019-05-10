@@ -8,11 +8,11 @@ description: As artificial intelligence tools have been invading more or less ev
   for better diagnostics, more sophisticated patient care or further sighted predictions
   of diseases.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17654331
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f080968f8d547560733ecec65f98155c117f280b3c9c6ec611a3e66ca982de0c/thumbnail/radiologist_001.png?Expires=1557430063&Signature=eMDxshFU7RR1JIlzlgUx9QV77oiY8MGmQBi1OCinufbxAB7WpaqIZU5V1wD59wnyvWRG1QZPqe6j7Oy7OUxSvYOpBw3bwbBBB8gq6N92SgC32U7DbG9g80aa5TPJGAmAcwvA6iJecgFO4ZHJfW505TNQOxvxlxCssAJcp9S7ZFfECSl8DeRYBtqHTGyteZTnCCfFcTALqMFMR1umyoek0HcRGdHI4hEYIPR6ZYoY3AXkeCDueErqbm5ycnriJnzjsbAguPAZZpt85pPWeBwM4hjGXXA8D8tanorCIeeTXdedfJo51jgpZKxH4DW2bVXNzrTIaEf2-hM0~FQVpC~hXg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-top-smart-algorithms-in-healthcare-the-medical-futurist.png
 link: https://medicalfuturist.com/
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-top-smart-algorithms-in-healthcare-the-medical-futurist
-socialScore: 36
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

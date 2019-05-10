@@ -7,11 +7,11 @@ description: Your face may be one in a million, but there are little to no consu
   protections regarding how companies using facial recognition technology share your
   face and other information they capture about you.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18253742
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/4e062ddbe66ac4a7482769f9646634293a170197674a59dff1c88b14cd005e48/thumbnail/open-graph.jpg?Expires=1557430063&Signature=gb9zfrLpatN2TXxEBuCESXVsrBkXi0peUO7I35CzsaJWIXch9t7gDy83fWBmCEsdCMRNuctvlkt2FX8~KqbcXAJKJHJroncDKJB89rOdXHvtf9tbSv9fPadDA2neS71OTlMaZpBfeFMRvG7nnTL1B4zdfv3Zoq9AIcwqsqI7fUeZLpappyZXrPOyEwSEmWhOR4t-GLYOg0c83FhiOVlGCrJwgSyC0dqE8tik3ToiJq-ocmo0L9LFsyqQI~6UlGqTBPrXyvboyLyXqvz4P-mZpkLNku6QvtXUaRsmGbQB7vb-KMIBtu-Bs8VTsMcHFofAAWlfQjddMUPV08l-JXSEPg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/nextgov-facial-recognition-bill-would-ban-companies-from-sharing-your-face-without-consent-nextgov.jpg
 link: https://www.nextgov.com/emerging-tech/2019/03/facial-recognition-bill-would-ban-companies-sharing-your-face-without-consent/155590/
 linkBrand: nextgov.com
 slug: nextgov-facial-recognition-bill-would-ban-companies-from-sharing-your-face-without-consent-nextgov
-socialScore: 16
+socialScore: 35
 socialScoreSimulated: true
 source:
   name: Dropmark

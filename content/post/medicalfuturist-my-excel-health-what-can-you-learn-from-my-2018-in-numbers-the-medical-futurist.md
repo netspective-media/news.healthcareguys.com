@@ -7,11 +7,11 @@ description: Being a data-maniac, I created a health data system to document my 
   signs and the progress towards the goals I set in areas of my life, which I want
   to improve.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17353832
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/08540a58cf163c624139ef2723fa2c731c17e6ea7bf133b35a2d8b8ddfb24cda/thumbnail/cover.jpg?Expires=1557430063&Signature=FCMSAj09frHfXzLp5DyAFlg2~fjACxWEsEUu5ezyB8gAPzU8jxK163owOCDLuMK0rbMy3cbvGnqkAGY5FrUd-WTHk0NF3Nb0uQFA-qDfIuFoC-aZ0QC0AQSArb5cf~YqosMoccxU6dsRgJT2fxMsNYBLZcYoYOhxRpVFFMGI9TuHyYcc0xWAaYrAYe730duMJCK51gyVGFEOOmStt3G6x76jys-o5ByDDgPBYGldTyE9NRd7U2i6arBT0Sk1zoYJBF3yP8UDGVM0MhNNzzW6-F5lgALzz06eOmWa1Yp1QNaJPBYTfHDCmwObwUnecJAvGJj9OnUG7yDClfGZI~Fung__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-my-excel-health-what-can-you-learn-from-my-2018-in-numbers-the-medical-futurist.jpg
 link: https://medicalfuturist.com/my-excel-health-what-can-you-learn-from-my-2018-in-numbers
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-my-excel-health-what-can-you-learn-from-my-2018-in-numbers-the-medical-futurist
-socialScore: 21
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,10 @@ date: 2019-02-11T13:21:47Z
 description: Medical coding brings consistency to the documentation of treatments,
   procedures and other care patients receive.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17705192
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/coding-changes-likely-to-impact-healthcare-practices-in-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-4-coding-changes-likely-to-impact-healthcare-practices-in-2019
-socialScore: 3
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

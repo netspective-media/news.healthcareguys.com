@@ -7,11 +7,11 @@ date: 2019-05-03T07:17:57Z
 description: Medical notes on 10 patients who were being treated at Our Lady of Lourdes
   Hospital in Drogheda, county Louth, have been found in a housing estate.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19037749
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f0c5ffae1931cfecb56c2426cc8243ae76b7078830e31b70c02a5f1e5e52a163/thumbnail/page15_hospital.jpg?Expires=1557430062&Signature=GgjEkdGnLYEW0Bq~cGvNyQko0o5xF1CRJ8PSybvO4z39FfM3rSo-tk2kTlsENl9hKgO1uYRmS9Ym9ffeyCxpgrzs5QyyCmY1phk4Ad4ZhXjvwhPFL23LyOGHNp7xhkHyFz9TJxq7L6GcrstLHc3UE365cMiYT~VeWoxlcH~r~-Bskj9kIi0rsdAP4xbA~nb6RhNRcZhX~SQN55jscO06vMy34w4CsF5ROIXwebLpChWoy1Kmsf042o4AULaaYD0OqGIYbE5gkZ3boLzkN4hvLZL8wNxeGjYE1p7RPE7pa4AizvXheMr8LRQ1TXiWKpnkZh5Jxs8VpQzkaNgZaaCpwQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/independent-hospital-medical-notes-on-multiple-patients-found-in-housing-estate-garden.jpg
 link: https://www.independent.ie/irish-news/health/hospital-medical-notes-on-multiple-patients-found-in-housing-estate-garden-38068370.html
 linkBrand: independent.ie
 slug: independent-hospital-medical-notes-on-multiple-patients-found-in-housing-estate-garden
-socialScore: 29
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

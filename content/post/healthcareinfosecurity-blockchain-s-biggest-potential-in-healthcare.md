@@ -6,11 +6,11 @@ date: 2019-01-07T14:13:28Z
 description: Where is the greatest potential for the implementation of blockchain
   in healthcare?
 dropmark.editURL: http://radhikan.dropmark.com/616548/17235792
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/2e68891dab4a3d30c86dbb6b290421ee6881d71889b78ccd894c542b89a75821/thumbnail/blockchain.JPG?Expires=1557430064&Signature=kvXzUbtoPmEsRnfA0aqahkV44TevWRBqt1NrFh2T3yHR~pxojBt7aAE99F-~TqV-qeV3vl4veiVon94W57TAmhC7UuyhoHK5aQ-redhWlGBbtdCKeuY~ifeRF-O~JBCcnzMHBIIXK5G-RsVAvwJrQeIsNkSh8Xop6U1~YhRo01CGpON8Ka8~32L3pYOGqUNRTYDFND2dk0H-Y2G0c8AKXZMnUt7Xcvj-I5AgIXD1LXxsJ436R3l9r8ySmzcjwcaKcw2-BTVsEH9gtnJFT9wv5qvzgf~kUNOSr6FMJuPWbYio9mc8og5JsmraAxt7OE0yyWnCwzJr85VL4TT9VYQoMQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-blockchain-s-biggest-potential-in-healthcare.JPG
 link: https://www.healthcareinfosecurity.com/interviews/blockchains-biggest-potential-in-healthcare-i-4215
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-blockchain-s-biggest-potential-in-healthcare
-socialScore: 31
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

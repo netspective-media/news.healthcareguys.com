@@ -8,11 +8,11 @@ description: Big news out of Mountain View, California today as Facebook COO She
   Sandberg announced that the social networking giant was going to formally enter
   the EMR business.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18357020
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/afb363f7b878700923367eb93424c4fadfa12470817e41ede4b449a5a62e2f5c/thumbnail/blank.jpg?Expires=1557430062&Signature=SBGe7gQG6Uxmyhka2jBKuPpwgy~GRZiFpXLUwCl~EIFtZFmiYAcdzmn8Fn7uRY9MBJapwIwNdn1jjWrROk3EuBdtcw7-vxEoNbLdaZwMQnIPl8zlNxxuPJu57RC-RV-O8Hz3tGvQI9y7d2gvGRPp54CQq8vSrhjCmYzYMdRiSfBTsoRUvPXvvs9NFiSP7R7v7qMTUwCy27F-n15cP1f~DvzGW94VnwW-FoV5dVc~pL6GDkMmnFCrYkVGhmv1fgi~-AD6hEdimcG7Yv32AQIpebRn7Z2xAselD48o9xkGVizVL3RgPRH~zFNej6eAPYNKbPD-gDI37fwZNo3NkzWOZg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/thehealthcareblog-facebook-enters-emr-business-the-health-care-blog.jpg
 link: https://thehealthcareblog.com/blog/2019/04/01/scoop-facebook-enters-emr-business/
 linkBrand: thehealthcareblog.com
 slug: thehealthcareblog-facebook-enters-emr-business-the-health-care-blog
-socialScore: 4
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: In a few days, healthcare IT stakeholders from more than 80 countri
   packed agenda covering developments from a variety of regions, from South and Central
   America to Europe, Asia Pacific or Greater China.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17664189
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/4e37394a3f322f327d35a994aa3b4dbfc2ee759277e82c760c8a167141793f5c/thumbnail/Collaboration.jpg?Expires=1557430063&Signature=PoAPx3JDzP96K4DCDcx1~LCgQJcGmAAaTR1QinI7JFr7mCQSf9KAfvzDtpWe0Gmgxt3VFKQlD7U8DM49IRsRNKpdR24sq4pt7swKAO-KitRQtmmSyGUPehKRyx3WFW3EV6jALUak1b-HbtP-Uc2ToLUoEER89kWIZiWoPbBKe-PjTSq7fqeL6gFGPw9kDdEmHDuaIs4BhTyxqvjibfA2LHo3A5D0t1G7hqdYiwI~I2SL2KTShZSwL1i4fWv7KidPHkybKxdE44an-xxH8oi2RYbL7FZqnMVoBH~jdoryALQXh5U1WSQ4OrJAcgewa5btMtVUDlVjz38i6kxRseBYRA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-himss19-a-short-guide-to-regional-workshops.jpg
 link: https://www.healthcareitnews.com/news/himss19-short-guide-regional-workshops
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-a-short-guide-to-regional-workshops
-socialScore: 6
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,10 @@ date: 2019-03-04T13:44:22Z
 description: Lots of medical apps for doctors, nurses, providers, and patients get
   released each week.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18127958
-featuredImage: ""
 link: https://www.imedicalapps.com/2019/03/doctor-nurse-apps-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-apps-doctors-and-nurses-should-download-this-week-imedicalapps
-socialScore: 36
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

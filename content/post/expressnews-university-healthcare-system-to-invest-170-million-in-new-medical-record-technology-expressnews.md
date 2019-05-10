@@ -9,12 +9,12 @@ categories:
 date: 2019-04-02T01:11:44Z
 description: ""
 dropmark.editURL: http://radhikan.dropmark.com/616548/18348303
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/05eb6d2090a9e31152e901f09f6db2b9eac45a754c39312df6a19341271430b1/thumbnail/rawImage.jpg?Expires=1557430062&Signature=Gk~vVxp~WHItXNFK1BbzaC~O0yF1-YTtDQvvECJju9wa6re0V2q7KxFfinJKJn7MeLBrus2kJ5n0~eCDa4PEv92~rkFIuWdj6IiAfmY2hKmjahldVLEu0NW2r8J34Eykd4YwI-29bS~m62Tgs9JViiDMhrz0jHID1QmfqwQH4Qe8IYlgAHS7LIvKTsFBZ-bRq2~brXRSMqVWw-QJ~WHM08TCGShHtA6bfASK9Kr53tFUJBTilE9b1TjaBWPTgXeQLUj7u9uxZQCEX7b2oKApV~efhp0LILF6pb5eEnRs378Y7JeH76BWNPv0tyY4y7z6B3HBC~I1a2Zqst5DwtlCoQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/expressnews-university-healthcare-system-to-invest-170-million-in-new-medical-record-technology-expressnews.jpg
 haveFrontMatter: true
 link: https://www.expressnews.com/business/article/University-Healthcare-System-to-invest-170-13729660.php
 linkBrand: expressnews.com
 slug: expressnews-university-healthcare-system-to-invest-170-million-in-new-medical-record-technology-expressnews
-socialScore: 37
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ date: 2019-02-14T12:31:56Z
 description: Halifax Health Vice President and CIO Tom Stafford views the constant
   effort needed to defend against cybersecurity threats as a war.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17836338
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d03fec5fff3f793440d27822790fa9125d2300a79049fa1b2348b23fb946b923/thumbnail/TomStafford.jpg?Expires=1557430063&Signature=hd87Lq7VYJjnLoJg~B84GP7j75V2U~x0c9Zw6TISpmXl2~Z~PVnDqNswhoOdstkRcyPY1LIsbv9xz7bBmIZlOGgPm32s809VWlVxOUz1kouneksqSXpaIITjzIPq8xzaxF5Y6X5aGqmCS2eyy1UTow6-Zt8pFzncwd5RxUoIobq9EF1ZPJ0sKhrgySKwpCprwY2UF-4PnO-O~ZbX~pffjaeJzp10a5Tz1hFEMWFgf7Wh3Oze0XXBYsBQJ-6qnUPr6Ki062W~x5pCDzaz4MMuvZEGWqPWE4KlP4ZMMxAhtQ3eA2y-ftUaGtMpDJxp87WQk4hEd45txN4EeRVAeQQEHw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-himss-2019-cybersecurity-is-a-war-here-s-how-providers-can-fight-back.jpg
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-cybersecurity-war-heres-how-providers-can-fight-back
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-cybersecurity-is-a-war-here-s-how-providers-can-fight-back
-socialScore: 40
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

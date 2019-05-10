@@ -7,11 +7,11 @@ description: As the International Healthcare Innovation Professor at Harvard Med
   School, I travel 400,000 miles each year, studying the social, cultural, political,
   economic, and technological aspects of healthcare delivery throughout the world.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18327797
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/50b8b1ceb252055e00b686f3b2363a2799a7940fbbe6aa85b98a1febd5a47f37/thumbnail/JohnHalamkaHIMSS19_0.jpg?Expires=1557430062&Signature=DKnPDq2jIM8IHV~Xk5s6u~jsKiMiv4R3IwlnsaY~6pbAo0XlkAKA1dJAkUDrU8nRb5hKtSEHppQA4m95Yof6VyvKunGowwD0Rhm6y~gY8rYH~Meab8c1h9QjGGoTuOYmVZaGo2iXiehzX~LLrSCQSfahUacLVHJoj2B7nRNovYrDeJxm1fVZH5lZ7WfvDMnl5lbYzi2AvVNNPsRy6jr6ra5c8VNohD6T4wiHAEBYSUDQ~aucI5tkqP~-rLGHz5Xi2FRThF9zjVULfh4Cjlq1BUYYtgj6eyhwYcDz~xQnVc~8e2fQ~apRhKVLCK6Rnih9eH50qGFtY69VgkdyW~DkFA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-john-halamka-japan-to-emerge-as-the-leading-learning-lab-for-digital-health-innovation.jpg
 link: https://www.healthcareitnews.com/news/john-halamka-japan-emerge-leading-learning-lab-digital-health-innovation
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-john-halamka-japan-to-emerge-as-the-leading-learning-lab-for-digital-health-innovation
-socialScore: 29
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ date: 2019-03-28T12:07:01Z
 description: Tech could be used to tackle the UK's loneliness epidemic, according
   to a new report.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18327802
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/9e866d4deb8045c49b593afee7c157ba36dcf0e1b00c8c2519071b621d75ea7b/thumbnail/MattHancockatVodafonereportlaunch.jpeg?Expires=1557430062&Signature=Xc6bv9IVUFo-xwBS-7~8h7dOgilyH8hwmhuCtd5qcKyNHbQ-U28sgXyV3i8A4Vg-xt2xD2FhlVjeD48fOP0DiqHJvTEoI1x1BgvHRFT-29rVqcy2aqUTdX-AHoTbT18JjWq-NzxRV5AeqX7YPIDwc1ER-nHGEPXLLSh5gOg1FjI6e4R2U2WEsbxEglfAz0TogJiRcsJ8JAQuzrRSyy-rsbeh7P3nXOfo1c5opS1HLvB2Du2Eh16RpwJxv9qSIwVShWTYyNSw9OuKYliCmhnP-yuApny38suFSapmwKXuX~rX-ThPcy3zUlxW443i3-zUxFcraNLxz1kzUU3wSOK7xw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-researchers-in-the-uk-call-for-better-use-of-tech-in-social-prescribing.jpeg
 link: https://www.healthcareitnews.com/news/researchers-uk-call-better-use-tech-social-prescribing
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-researchers-in-the-uk-call-for-better-use-of-tech-in-social-prescribing
-socialScore: 39
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

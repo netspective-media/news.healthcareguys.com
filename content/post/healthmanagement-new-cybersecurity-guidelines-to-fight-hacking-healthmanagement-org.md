@@ -7,11 +7,11 @@ description: 'The guidance document, entitled “Health Industry Cybersecurity P
   Managing Threats and Protecting Patients, offers practical guidance for addressing
   what the Council has identified as the “most impactful threats.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/18197337
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e9df23d082da11f2545e7e20f684c61385cb2121a223e188a0f03d46ab2d89f8/thumbnail/00114327_cw_image_wi_47798aeeb96dea65cf63f4eebd701219.jpg?Expires=1557430063&Signature=XIhUrqN2Z0ebhjKlsTrS~zHmgBjQw9Zp8kbcK1~OLTf~ZpO9HzR9S47iaSLpDAN3tHSKdBC1yTHRiKV1Hqg~Hb1CdGhASilUBXSRB2cIdpT-M9nxMKMFlq7gyfnqAv8e8rEKnyW-Fo5y88oY5AJ1BPXOv1X4pxQ51SQJ52UC6Qgi1mNdfV3p2ppbGCUk0f6IB6Y5CBIKNH5-P3ZrxdXmn4IAj9eD5LjSa3RXj8JTeqkThtKXg0TXpwcg6ToIddngyK1VzcSTuUdTV1d98zSI4lpJnk7BZhnXgzyYIC5a2KN~x1syXsR68BvKMmpv~QREW~2d5OHpm12gZhsYA~qntA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-new-cybersecurity-guidelines-to-fight-hacking-healthmanagement-org.jpg
 link: https://healthmanagement.org/c/hospital/news/new-cybersecurity-guidelines-to-fight-hacking
 linkBrand: healthmanagement.org
 slug: healthmanagement-new-cybersecurity-guidelines-to-fight-hacking-healthmanagement-org
-socialScore: 24
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

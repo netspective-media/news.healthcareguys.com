@@ -5,11 +5,11 @@ categories:
 date: 2019-04-03T09:41:16Z
 description: Love what you do.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18364918
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/83bdfb1da934267d85323470d8bf86c0a54734323112ce3df79ea8206692b58e/thumbnail/Five-Ways-to-Become-an-Influential-Woman-in-Health-IT-2-1024x512.jpg?Expires=1557430062&Signature=IKG~JIVJbkpYLtkqFmrIyOBB~7Y7YFff-vx8VT3ZMeM5GA7vVsE4Mkz1KQdtCUSe0rY9QgIiTEmmmGYPTyYIMQgTLkvPC0v0HLcw4Rp-GPA5bHfkPoIblMteg3~Bazw73tCiK3mwPMz3dE40ZvJ1Hl-p5to~d~PMauEEqO9Z7P2BVNuGCVUpGon8OHqtFoRRm9a7dTOwl36Aw6ApFmr46P5km3tFx3niSvimEEHM1oUO7il6NtpBWXYeYOcgGlct6w4oTFmY15jR0YPJ56g3Mlz10ZP0Wt~TeG22Hd~9poAg4H7k2Xx-gT7Xr8Hoik9BftcmlQKnPeNwxX4YM2WUFA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-5-ways-to-become-an-influential-woman-in-health-it.jpg
 link: https://www.himss.org/news/five-ways-to-become-influential-woman-in-health-it
 linkBrand: himss.org
 slug: himss-5-ways-to-become-an-influential-woman-in-health-it
-socialScore: 1
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -9,11 +9,10 @@ description: Two Maryland licensing boards – the Board of Examiners of Psychol
   rules setting forth practice standards for mental health services delivered via
   telehealth technologies.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18364903
-featuredImage: ""
 link: https://www.healthcarelawtoday.com/2019/04/02/maryland-proposes-new-telehealth-psychology-and-therapy-rules/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-maryland-proposes-new-telehealth-psychology-and-therapy-rules
-socialScore: 1
+socialScore: 19
 socialScoreSimulated: true
 source:
   name: Dropmark

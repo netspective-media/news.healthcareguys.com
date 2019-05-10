@@ -6,11 +6,10 @@ date: 2019-01-10T14:26:08Z
 description: In a blog post last week, I shared an excerpt from the new book that
   Paul Cerrato and I just completed, The Transformative Power of Mobile Medicine.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17263540
-featuredImage: ""
 link: http://geekdoctor.blogspot.com/2019/01/choosing-effective-sticky-health-apps_10.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-choosing-effective-sticky-health-apps-part-2
-socialScore: 49
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

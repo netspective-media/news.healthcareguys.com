@@ -6,11 +6,11 @@ date: 2019-01-07T14:16:47Z
 description: The rates for closing gaps in care are some of the most widely used,
   quantitative metrics to measure quality, allocate incentives, and control costs.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17235808
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/967ad8f5c53d1164b1c57b72d641a96b0ac46e2a2f9a83626c29e499729503ed/thumbnail/digital%20care.JPG?Expires=1557430064&Signature=RqC8kuagLT-hrnxCgDJ7sjSYoUyT1pSrgl4LND5kgrmfCcJgrSK01ghzxk63YDwHSRIbGKh396N3TsvR3Qk9YbNtrEOuUpBTDyom~e4vhB9iXdCQyehOHLimIrDr1e67w2zb5kvwRQbWwHkrBvC9AH7Q4cGOnVfTwVIiui0m6Uz2g80L6NQok-Vf2qkmAumHE~It37t-SSQfTguhj4vqP8-fknNxwToJxe2GX8otBnCJqYz4HtrLx7FQoffPFgGWPLfOVVs96P4wznkk5PrD-F~gMc8MCb-9mH6uOzWxrTd88k13PDUYJxd-UvVvXJoC5rFWXQgwRWBN8BWg2BQxgA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthitoutcomes-closing-gaps-in-care-with-digital-care-coordination.JPG
 link: https://www.healthitoutcomes.com/doc/closing-gaps-in-care-with-digital-care-coordination-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-closing-gaps-in-care-with-digital-care-coordination
-socialScore: 10
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

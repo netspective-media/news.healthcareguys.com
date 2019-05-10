@@ -11,7 +11,7 @@ featuredImage: ""
 link: https://www.justice.gov/opa/pr/electronic-health-records-vendor-pay-5725-million-settle-false-claims-act-allegations
 linkBrand: justice.gov
 slug: justice-electronic-health-records-vendor-to-pay-57-25-million-to-settle-false-claims-act-allegations
-socialScore: 16
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

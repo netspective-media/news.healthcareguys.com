@@ -7,11 +7,11 @@ date: 2019-04-03T09:32:16Z
 description: What do medical records, teleradiology, supply chain management, credentialing,
   and clinical research all have in common?
 dropmark.editURL: http://radhikan.dropmark.com/616548/18364893
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/cf0ed65786d27078b3db297937f1590e80d8555348ad7c166bf30916b891f97c/thumbnail/radiology_tech.5ca262b805dad.jpg?Expires=1557430062&Signature=jvobSn4Jqo8EDSJMWwjSUBIOSGuBP2ymgrVfXMogcXVJ1Ht2qCIWqPE4EKgLlsua0jZDtP2xKsYicX1xpxwUnUjDHFWYMTIPDCTRrAB~CmI2w0ZkTdiR9fkmC5nMA5FMUZiBZZGwPWNMICzfr209VCAlfxDcd41iC8~yBciwSvytJxNp6eIUxlt1WStUcn4EWlW3-oDPq1cwRpAWIUdHkun2WiHUp61lGY9ygbGQPdCi9bJT6AkEi55rPqF-reWAsUXyWHV-0do0ncoqeB5NE2RvrsXtp783Ziq-tDGjudYCmzDbrPXrFwjC7L7WArzHImixji9E9ZBRra4LIlXGDQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-how-should-radiologists-think-about-blockchain.jpg
 link: https://www.hcinnovationgroup.com/imaging/article/21074263/how-should-radiologists-think-about-blockchain
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-how-should-radiologists-think-about-blockchain
-socialScore: 44
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

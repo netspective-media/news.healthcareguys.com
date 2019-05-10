@@ -8,11 +8,10 @@ description: HIMSS is here once again and, as the industry gathers to explore th
   nexus of healthcare and technology, the one trend most will not be talking about
   is the decentralized web.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18004568
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/how-the-decentralized-web-will-drive-innovation-in-the-healthcare-industry-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-how-the-decentralized-web-will-drive-innovation-in-the-healthcare-industry
-socialScore: 47
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

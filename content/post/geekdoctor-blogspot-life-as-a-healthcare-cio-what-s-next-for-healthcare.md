@@ -6,11 +6,10 @@ date: 2019-01-30T13:36:50Z
 description: Today I had the honor of keynoting at a major announcement from Apple,
   Aetna and CVS/Caremark.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17600675
-featuredImage: ""
 link: http://geekdoctor.blogspot.com/2019/01/whats-next-for-healthcare.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-life-as-a-healthcare-cio-what-s-next-for-healthcare
-socialScore: 40
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

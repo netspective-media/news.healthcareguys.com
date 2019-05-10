@@ -7,11 +7,11 @@ date: 2019-01-16T12:55:34Z
 description: The FHIR (Fast Healthcare Interoperability Resources) standard has reached
   a key milestone with release 4.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17315261
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/3ee15bf831fac93778217f0a267a23ab833acf224fd1f23a6ac202aed6258e58/thumbnail/FHIR.JPG?Expires=1557430063&Signature=iJKV5xNN7AZrvEnZNV6s3E3riVBCJrNsGlA-T8ky1WKckgWFDCr~RVpqtXaaqhJw~0VIvdfD-Xj77i9F-~2nb6r5clWWBGeiEUjDjDAdhZu8j1iu02VB0tB~PL6KEgux-MkBrJppOScV92rAi8gX5Ji6y74blYs75kr0M7Vz7BjgDW6UZyZ5Ru1oraRSfsGen73FpIDmOc2xbuuryiNcinnDufSS-Av8IHApctzCuceyNZw7XC~mFUJdpBzGAbmd-lUOm-oZ3QRYE-7LKbwING0K7PDzENwLTWkQJzQn88LBk6rtyidZqhfeOlBNFgWiFXOaxWgIzNNWKGvSXA5FtQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthitoutcomes-https-news-healthcareguys-com-sub-the-3-sides-to-building-fhir.JPG
 link: https://www.healthitoutcomes.com/doc/the-sides-to-building-fhir-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-https-news-healthcareguys-com-sub-the-3-sides-to-building-fhir
-socialScore: 37
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

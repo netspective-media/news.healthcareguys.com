@@ -7,11 +7,11 @@ description: 'Interoperability: the ultimate healthcare goal, the ultimate chall
   and the critical foundation needed to support impactful innovation of health and
   care.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/18062135
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/249e2596b0b5223be1ea1abf604f99119c942dffa20293790eb2d4e9e55d195d/thumbnail/Interoperability-The-Foundation-of-Impactful-Health-Innovation-1024x5.jpg?Expires=1557430063&Signature=e18ZKFAfcPkyoDpjEK9DrbHHe8TVTLKJYXchLMGPFm2~UD8aFb32qkSY3uUT1GuDVNqChnC98niHefcGxt-0ZlZYMP9GqGJ42n9LM5orkcURVtofjnTaXdr5OUPC5TzeCmPA1pVqD~HqTBX1RP1SJBvqXrAyvXYp-SbCPn3AnzR47DmGEEHbxWkEXcQwbsW4asGi7X8xLug8Nrqfl7osfkkYora7c8anuRRtvKTJ~Wfhu177Fi49UyKxvzftZQi3QV7etfln0z8bIPU02s4MaEHKT2RzYUOe17fcJRuk6qlf82Zllzy0BCPg41SLCWoG4EwrKXHDmNFIbWCiFQvfXQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-interoperability-the-foundation-of-impactful-health-innovation.jpg
 link: https://www.himss.org/news/interoperability-foundation-impactful-health-innovation
 linkBrand: himss.org
 slug: himss-interoperability-the-foundation-of-impactful-health-innovation
-socialScore: 46
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: Free apps marketed to people with depression or who want to quit sm
   are hemorrhaging user data to third parties like Facebook and Google — but often
   don’t admit it in their privacy policies, a new study reports.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18520587
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c2d033e1ebabe25f0914701a96f89f8c80d76f71681ba6c237e5bb0688e87ccd/thumbnail/wjoel_180329_1777_Brain_001_2.jpg?Expires=1557430062&Signature=FPJCyj5p~mo-El5~6~h4FwZJxhptrY9h1N1tZVqweKk0XAn00ZOxs4Ff4i2mn8AXSUPqcJW9VEBBQYRohK8HlsSMmP-zcdMvxFlOUxJeSXTk0BwkgvPpEIifEma2ADuY~OEqDPLTUABni3I1G2fDsLOMooSR7N2SzW14HG63KBwRJXT5iU-fBqij771l5IsUgKWQf0FyhE530Q~K2SfqNJxkJ2C7BF8vnxCBtXITj2rMn-Dnf-S3B5gp9LO~K546Ix8j8pFhLnzP2SPvnmSBr0pQMNFBEiyX4AkC~FxaV3lIiMXEiYC7-BbCs6O-2P6AlfElmXB6qBI24D0fbkZrkg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/theverge-that-mental-health-app-might-share-your-data-without-telling-you.jpg
 link: https://www.theverge.com/2019/4/20/18508382/apps-mental-health-smoking-cessation-data-sharing-privacy-facebook-google-advertising
 linkBrand: theverge.com
 slug: theverge-that-mental-health-app-might-share-your-data-without-telling-you
-socialScore: 49
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

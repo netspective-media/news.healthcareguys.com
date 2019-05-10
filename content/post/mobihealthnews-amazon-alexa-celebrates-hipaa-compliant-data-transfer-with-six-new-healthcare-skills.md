@@ -7,11 +7,11 @@ description: Earlier this morning, Amazon announced in a blog post that its voic
   Alexa platform now supports the development of software that communicates HIPAA-protected
   health information through an invite-only Alexa Skills Kit program.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389349
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/4171d34b2488598372091f962e84d1d4d3cc353c4304dd6d6102f16033a424e3/thumbnail/AlexaNorthwell_1.jpg?Expires=1557430062&Signature=OaLKY9r1OyO3-V9ebwGbhvOwJfpf7upfchJQM3fle5ushzSz84cjl-lFWUxtNP3WS~O-1nc13NbZAPSavadwBFC6MljcIMuTMjoqodNZx6MhutZVpgGkNxON0DXE5hjdNcaeweEfXWES1SQO4ByiaaPqJdTNLwCQ~zBn8UBl6e0yIqyDKfs22m1POxOT4eHC7lHkIyDG0bKShSR8t9sWf3B511YRSep~qXfpKmwwkCv4YU0LxpbOkPAjAQezYISIm0Yr0D0OkzET76KuVqc6AnFrV28TS63HzOKVk-4Za14mBIRPdy1q7aF~Ou9YipcwIo5Uox1uSWEdOJAgsIQyWw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-amazon-alexa-celebrates-hipaa-compliant-data-transfer-with-six-new-healthcare-skills.jpg
 link: https://www.mobihealthnews.com/content/amazon-alexa-celebrates-hipaa-compliant-data-transfer-six-new-healthcare-skills
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-amazon-alexa-celebrates-hipaa-compliant-data-transfer-with-six-new-healthcare-skills
-socialScore: 9
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

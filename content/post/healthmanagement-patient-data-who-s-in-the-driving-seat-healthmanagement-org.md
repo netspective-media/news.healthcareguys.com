@@ -6,11 +6,11 @@ date: 2019-03-14T11:03:29Z
 description: These issues surrounding data ownership and control and empowerment of
   the patient took centre stage at HIMSS19's 'Consumerisation of Healthcare Summit'.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18214985
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d1fdde0bd5e8fb50f92e4159afe83992f945a3c23dc5a315954a572a87c8e738/thumbnail/00114208_cw_image_wi_ed3f6a226093734bfa8ae3bf51ac79e7.jpg?Expires=1557430063&Signature=GhnWXAwU1uNr9ZkNjDrBzM~Td6b-~2dBMcuZhQMVqQIP4vT0bAIpJxxwYMkfd6EVS9uSHMFsf2FNudcubYbedcBOtC3bRUEFxd1SfNs2repcTJir2iLXsKuZXpVmCF4OtVI7IsqnBDS5QDoxvejogEBqK0rQU2cAA4GQx29oyXg8FM-auxammrv19LLtPwJt1X~Lc39urYqDCFOMNHb66e3shbNiZjKmAToUe4CfF~YxP3bMS9Mm~w8w~RCMptXYTtXp8GlIO5VOmo1LrnR1OQdlXaN~3tZc7yYccDJAWfOopyjM-z8WSNAv4BmvCtpa~yeiLvdZuaV9J6Bi3T~FTQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-patient-data-who-s-in-the-driving-seat-healthmanagement-org.jpg
 link: https://healthmanagement.org/c/it/news/patient-data-who-s-in-the-driving-seat
 linkBrand: healthmanagement.org
 slug: healthmanagement-patient-data-who-s-in-the-driving-seat-healthmanagement-org
-socialScore: 22
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

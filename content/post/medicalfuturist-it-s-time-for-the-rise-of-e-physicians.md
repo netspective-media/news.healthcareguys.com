@@ -6,11 +6,11 @@ date: 2019-04-17T08:51:46Z
 description: We strongly believe that only digital health can bring healthcare into
   the 21st century and make patients the point-of-care.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18477772
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/b07e7a4b244b19a6b0a2fb2866e39d6862af9d41e91661f42555bfe985185325/thumbnail/Empowered-physician-and-patient.png?Expires=1557430062&Signature=MSObWhkxQWAvdp64Vk76NPtfl66~lDVGqOXBhrv5rOJIyD0OlTbQk9yDpZmIXDa9hN8rW7XoeXWh2vV0ixbZXrMd-~96-zc6KiToukWP4vt77eCay5~H9HXLm7DFe823dq5ifaBM8ejnnjnLsuF9cJF3v6-dYhq3LSD1HgV9RbsjiWm8IzfuUzhthzXOmrNzUkTSQmacavegdHFC-seH-7yAZaivw7M~JnuGV1ib7vqEprgl7Cb6JwPRFAWcfmmIY7sx1J9DEc9cEwfg9Io~9XgebRQ2JMvB0Hfd5Klv-dypLAifUp4fl-J18WND5gSHOIKjPfbFkeRS7XuxbRgbqw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-it-s-time-for-the-rise-of-e-physicians.png
 link: https://medicalfuturist.com/its-time-for-the-rise-of-e-physicians
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-it-s-time-for-the-rise-of-e-physicians
-socialScore: 10
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

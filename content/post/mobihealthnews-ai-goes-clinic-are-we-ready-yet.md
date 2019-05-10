@@ -7,11 +7,10 @@ description: AI in healthcare seems to be a hot topic of discussion around the w
   at the moment, but what progress has been made in terms of adoption in clinical
   routine?
 dropmark.editURL: http://radhikan.dropmark.com/616548/17253625
-featuredImage: ""
 link: https://www.mobihealthnews.com/content/ai-goes-clinic-are-we-ready-yet
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ai-goes-clinic-are-we-ready-yet
-socialScore: 13
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ description: The personal information of about 45,000 patients at Rush System fo
   Health has been compromised due to a data breach at one of the health system’s third-party
   claims processing vendors.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18169723
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e21a59e5f70eba67f122108b08094d05a07b769809aee286e9c9ea6e7390b518/thumbnail/GettyImages-873331652.jpg?Expires=1557430063&Signature=YdxLeDVcZnjXHTS~ETbxDOUPKvamnS935pQExXssLmHqgpv1LbiBEAw~roJCL0KxFchJT2WprK3cmlJD0G3XGe9Hypq9JsDl9Z-yN9mrgrfMt53lCq8ohmAdfY9FYKHmTTxmIGdm~IapMStWZwPC9uvhSq1axfhgr9F163OdyoeKr6SugWv8JWf3P7tT76miyhinE08Rjg1E0H9BeaGqvlvoLFqFaEsG57KEYQNUzhqda1sSyZWp2SPNfmt6o21UUcW1GYn7~grCb1l666kdIsL4zSQxVLvoDGwyyA1Cn1tCDIgIdULG-QDuGFLamMQuCQi5GwZS2llamvpuEO7smA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-data-of-45-000-rush-patients-exposed-due-to-third-party-breach.jpg
 link: https://www.fiercehealthcare.com/tech/data-45-000-rush-patients-exposed-due-to-third-party-breach
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-data-of-45-000-rush-patients-exposed-due-to-third-party-breach
-socialScore: 32
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

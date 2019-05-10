@@ -7,11 +7,11 @@ description: A Google patent application published on Thursday by the US Patent 
   Trademark Office gives a few more details on a predictive EHR system first highlighted
   by the tech company last May.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672647
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d88d0d3ad2d2363f475236370da69550d364c16a25eaf30952d7638bb76d9f01/thumbnail/EHRpatent.jpg?Expires=1557430063&Signature=Kmc7dApb8MtsK6xqzFfSjYJ2v32xPbrwZw6APl~4maA6b6cRy4Q3K7DeMqWeotKGXoCw-zxNzJHAozf73gNr42eFEIY5ghnJ7qZ0qgyjT38YE8fnI6ivzM-xaUbWNplpLKf0VzOlOwoE7qQWYdIZENEdvqOgouPQAPMJexuL~wKAK7-DwCQ6-VF~~Eb3MsnJb4kRTFXGcFdMEnDYUrcMoVz7UCZwyVy7vFWqNui5Sn2YU~-RatsxaaiYaLsUqGH~LbYvsbE2wX1ltr0cx6Shni-s8uVdSfGkNU4VOLkFvbeOvgf3wK41zFqH0U~1UZLWZufxxwAu1nceEIeBB~92rQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-google-patent-application-offers-new-details-on-company-s-predictive-ehr-aggregation-system.jpg
 link: https://www.mobihealthnews.com/content/google-patent-application-offers-new-details-companys-predictive-ehr-aggregation-system
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-google-patent-application-offers-new-details-on-company-s-predictive-ehr-aggregation-system
-socialScore: 27
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: A multicentre randomised trial in Australia demonstrated that the u
   of scribes improved emergency physicians’ productivity, particularly during primary
   consultations, and decreased patients’ emergency department length of stay.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672662
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/8b1f75574cbff5221b30d6b02b382b9bce92804866362133e3aecef4048c0632/thumbnail/00114037_cw_image_wi_75ca3ccf24d1c31df2538b7134c938df.jpg?Expires=1557430063&Signature=kI6HuZgc0uyxvBaP2qUeIyNgvnv0RC7etX2ACJXBjyxG9898wBh8CsXksSDPiWtxUl3-AAtA4cVP3KuFD7HHU2wiDiy13eNsEQlcVWkV2UwOpE1Q28eC0t6RzN3jVi5hLWZJh4kaU61iIHpPThCBrnUR1dlahsNL7h8EhESkjY5KAjHDjICaI7FHfIYkNZv2I~0F6i9B~zbIZyn5brCpoEFqnUf7g-8OT5JYAQzZdTJ5Ej0yRAsfXP~l~J34tVarcrZefEymYLoKhaDRuPJTBKXEinDE8oUl3TQglUk6Xk0su33jJ1bFf-csZirjHFBkk~3949qXXNZf8weU8FJqXQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-scribes-improve-emergency-physicians-productivity-healthmanagement-org.jpg
 link: https://healthmanagement.org/c/icu/news/scribes-improve-emergency-physicians-productivity
 linkBrand: healthmanagement.org
 slug: healthmanagement-scribes-improve-emergency-physicians-productivity-healthmanagement-org
-socialScore: 20
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

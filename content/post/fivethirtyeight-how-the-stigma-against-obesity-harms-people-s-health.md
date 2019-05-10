@@ -8,11 +8,11 @@ description: If you’re one of the nearly 40 percent of Americans who are obese
   it in some form or another — jokes about your weight, teasing, bullying, employment
   discrimination (which is legal in 49 states), prejudice and unfair treatment.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17593081
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/4495c4e67241910185766755354174627431f799b1456fa440ff44a332c7cdc8/thumbnail/open-graph-placeholder-science-health.png?Expires=1557430063&Signature=hn9kbELFiiNNsi7p8NVCcQOi2QsaGAyeimttjmKvnd9w8coi7XYe5Bpfuedt1hvghxedRQpXkxjlKMT8ZHbYX8-IOCEpxoAxBDOAZrZTOts12od3vZbnpW6QBe92vAeHsd2tiRYFhlIa4zyi-DXlprhzIvP6MRrE6k1PlKI-iiGaLJXEakzsiQmhAYYylwyg28IflDoKELwVHZV7uu63iuPjcAMD~ATyNAI4VmF6iyujBsx~qlmkuN5Q5mYOQqZtyB-Gs2qvNh-WX8G0zibZ~oCHULzxMCXocqPI3fZq8AzHDDFGvhj0CYcdGedpuc333mzAgMeiRzfS8HABXXkkNA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fivethirtyeight-how-the-stigma-against-obesity-harms-people-s-health.png
 link: https://fivethirtyeight.com/features/how-the-stigma-against-obesity-harms-peoples-health/
 linkBrand: fivethirtyeight.com
 slug: fivethirtyeight-how-the-stigma-against-obesity-harms-people-s-health
-socialScore: 17
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

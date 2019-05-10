@@ -7,11 +7,11 @@ description: An expert from Avera Health, one of the largest and best-known tele
   organizations in the nation, weighs in on how to lay the groundwork for a successful
   virtual care practice.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18215033
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/126c1ba2b0d3c162107fb38d703d0c2858510ff9610767b33059247e7c936f55/thumbnail/HT_Telemedicine_Avera_GettyImages-1061502044.jpg?Expires=1557430063&Signature=AQ940d5lv6A5lAzX5KAy5nN4fAyP3Gz8X5-R31kkz5MaMYrx1uX-RRxaGa3iQFn4k6Tr1kvzXLGsoJ1OMUO7JAUI4u3CajluH9W5UpB3S92otSo65gaShVvdvxaMID3KKoVNWNPM6uEmDG0Qb0APtlaFaWXOXmJv2JxhoKCvqukOmqwYwSda9qeuUonkoVMHi6YGevP8S~juIWoI86RILX0ReCsp~JUJy9uYauGeNdBxwcmF5X9MOSQd2AFE0toaEoWw8JRg0eUyo14lkW-E~2G5WGi6E1Mhpyxq2-Gfhj0hvxzqyI90aJ9ua5k5v-U1TLXy4BcXz2BhkDKXLbOndg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-how-telehealth-programs-can-evolve-to-meet-patient-demands.jpg
 link: https://healthtechmagazine.net/article/2019/03/how-telehealth-programs-can-evolve-meet-patient-demands
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-how-telehealth-programs-can-evolve-to-meet-patient-demands
-socialScore: 19
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

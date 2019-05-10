@@ -8,11 +8,11 @@ description: Medical device cybersecurity risks should be viewed as an enterpris
   problem, say Tracey Hughes of Duke University Health Systems and Clyde Hewitt of
   security consultancy CynergisTek, who outline critical security steps.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17823630
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/daff696b88f2429ed3d2105b043377fabbc1343d5a40a85289948ef0a9fcc1f4/thumbnail/medical-device-cyber-risk-enterprise-problem-showcase_image-4-i-4245.jpg?Expires=1557430063&Signature=VNsvkThCo3IVus6aT9imoIBF~hL8sRfRpjLaL3ZLsM90udFsGKKbOyKlQNNSAsbHTa75X9YRriOQwQVbw~~H~klpQV65BO1P8TEJTl1LfAfoQbFcQH-P4cmX-SlFFqg19iF14Q1vC8lXEYvRD4Wasojb4J7MeJF8R2btM3Z~kmDF-kT7pqQBV9lGg4umGonKVTc97cUS4PDZvYQwJQoPBca2cW3kgjhw40xelDFf~ExnqY6Vli3AgHaYJ7B17Np3M765VS9h2Z2VyydOQLd2PkTIVmWVzvg3ocMpQHIcnZVLCVQtD3dnop35yxpntgNOikmS9b~Fh61IhtdZetQPmg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-medical-device-cyber-risk-an-enterprise-problem.jpg
 link: https://www.healthcareinfosecurity.com/interviews/medical-device-cyber-risk-enterprise-problem-i-4245
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-medical-device-cyber-risk-an-enterprise-problem
-socialScore: 6
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

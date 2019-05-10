@@ -8,11 +8,11 @@ description: When it comes to some of the biggest issues in healthcare from pres
   drug prices to interoperability, e-prescribing company Surescripts has a big potential
   role to play.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18004468
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/dd2216ec84e4ecfc3df973b33c7508a3a3f45a0dc301d009b89a5112e6895814/thumbnail/IMG_2024.JPG?Expires=1557430063&Signature=ahU1Xynw88CfE7iJg6GS3i9r-Q1JxKIjlsSFl2WvzVMJPACPDLyUgWfAESH4QmTuzEnI4sNWNphdu5eSjIrIE2t50LcNFdntW6Jw72wCzxBmY875cC9VrSOIFrglQ29iedMkHEX55h8mqluaPJWKEf9QkVzjJqAwlG4mC93Z-X7TianV7T2W4fW94z5nJC0nwoGT1lBe2x0T2FuFahYjmanJJq5rE23Sw1ADW2DwzTB7gYscc2R7YsWv4DxFmrl5smjBg4W3tCLWjcGK2ffvpf8RxsfM83JqZB8tj56F8BVUWIVex5yzoGxyE2pRwUHmWAtKHUfHJQQXbabpJjLhJQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-himss19-qanda-surescripts-ceo-tom-skelton-on-efforts-to-take-on-high-prescription-drug-prices-inter.JPG
 link: https://www.fiercehealthcare.com/hospitals-health-systems/himss19-q-a-surescripts-ceo-tom-skelton-from-show-floor
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-qanda-surescripts-ceo-tom-skelton-on-efforts-to-take-on-high-prescription-drug-prices-inter
-socialScore: 22
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

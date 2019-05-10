@@ -9,11 +9,10 @@ description: The LA Kings of the NHL recently launched an augmented reality ("AR
   platform" to help consumers validate the authenticity of approved merchandise and
   memorabilia purchased from the team or affiliated sellers.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19037744
-featuredImage: ""
 link: http://www.mondaq.com/canada/x/802000/fin+tech/Keeping+it+real+Implications+of+blockchain+technology+on+privacy+obligations
 linkBrand: mondaq.com
 slug: mondaq-implications-of-blockchain-technology-on-privacy-obligations
-socialScore: 7
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ date: 2019-05-09T12:12:42Z
 description: This week, a federal court found the administration’s 340B program rates
   to be fatally flawed; the HHS Secretary “patently violated” the governing law.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19133272
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d37dd6061c2f33e88686cf6c2852b1ffa537210c4948d248e3a12b5c08dec714/thumbnail/pills-943764_1920-1024x683.jpg?Expires=1557430062&Signature=SEj34j7fjGfUJxlD0JYLLR-Eg12aB5MfZ-gSMgYsUJtSEqErVpUjaC2BobmTFbkT3Mh~Ut1vNTwfrSaQH5xZyVc~eYSR2aW3s8-eXzsUoKoF8nqg9y2W-u9-PfeJB9Zif3M1lnIUyrIy2uFdCLcJB830ut2435~5MFFwfFBpDhD7teaht~1hHrbM8q6zeqpPn1QI1SaKLuulVegg76zQoAsqMFkl0V0rGL6XXvefn68Z2xFUIz7nrUGWFkziDPm~JJOG1L-wKqpcOW6hBrpnESskcoMIhbOE2A6DVZjCwVyseT1YM~SgCug10~l444qe1RfX~njjm8IxvwKWsVYxAw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthblawg-the-340b-saga-continues.jpg
 link: https://healthblawg.com/2019/05/340b-saga-continues.html
 linkBrand: healthblawg.com
 slug: healthblawg-the-340b-saga-continues
-socialScore: 11
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

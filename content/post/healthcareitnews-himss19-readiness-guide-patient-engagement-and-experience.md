@@ -7,7 +7,7 @@ date: 2019-01-18T11:47:43Z
 description: Most healthcare providers know outcomes improve when patients are actively
   engaged in the strategies and decisions regarding their care.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329125
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/7099e15b2e7ac4849b4856136a936c91206eff47af156d900bf8cd7eaf3e46bf/thumbnail/Patient%20engagmeent.JPG?Expires=1557430063&Signature=hWXfsixooivMNh5zxQAPd05I1V-ko~NbClsA9lvxkyooViSiiboscjle9y9rwqutDglaVkWsZAokuN9ET~kuu0hCIQqtBhM86Maqp6tAUZO9k-O-MA6DX0fG3EAuxvS7mEZO~jTDu7ZCXZIllgx1FvBFal07h1krnpt9JHlv85aalewmiaRcskshBng~yH8fYik8PCJdCaKCMLFdb83eL5wchw5mnTBVTeMPBL8R8uk5E9y5TqmmHye9zLgIKWc4ICQclxhpuwsWZRhkJk3WjUDU4pYHrUSQ8PT55DFd2jWm~VzQ-1OMYL6Fut05P9l7KckwDcDWxG3OlaG-x-uL0A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-himss19-readiness-guide-patient-engagement-and-experience.JPG
 link: https://www.healthcareitnews.com/news/sponsored-himss19-readiness-guide-patient-engagement-and-experience
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-readiness-guide-patient-engagement-and-experience

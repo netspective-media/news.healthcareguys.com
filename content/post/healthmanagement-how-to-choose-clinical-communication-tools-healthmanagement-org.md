@@ -5,11 +5,11 @@ categories:
 date: 2019-04-02T10:16:39Z
 description: Communication plays a big role in human interaction.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18356966
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d9b88c50155adf1b2c2740fac0d5d0382b3e5b914fa978ca80f345bcb2f896ae/thumbnail/00114508_cw_image_wi_0e2db5559e5a1ee1a3491e80139d3400.png?Expires=1557430062&Signature=EKUSq5Hwz5PdZfODGQLaOc6AK8DDx~MRgNH9E-dgJ5-gPuBr1ayK-84Q6j1MOV~vFtnWjs4qx9fEHF~zPP9sOp5CypNESLOGc0wZrGp9~4qfBEArNOA6ZedItvgltQVeU3sbeDvHJ9YCacevzRuW-Ho9K6VC0iaKFsfpPJ1XyWMpyC2~v1mfTqWW20rq4KsxXF6D6h4K5gxM5WRNEy2eqwdeC82tPB~OeLMBqSseX4aUa6M273FADPqltt4jGnhk-YL~moupxKQYoB-3hca6ZvhwIaJbIBA-J7oSwGV6FvdOu8wicIgvVQPNNCJGzakju1GFZywVObDiz7Wj5fJ8kg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-how-to-choose-clinical-communication-tools-healthmanagement-org.png
 link: https://healthmanagement.org/c/it/news/how-to-choose-clinical-communication-tools
 linkBrand: healthmanagement.org
 slug: healthmanagement-how-to-choose-clinical-communication-tools-healthmanagement-org
-socialScore: 37
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

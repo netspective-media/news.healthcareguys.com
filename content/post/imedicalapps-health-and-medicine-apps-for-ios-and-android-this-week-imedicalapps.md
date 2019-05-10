@@ -6,11 +6,10 @@ date: 2019-02-18T08:48:28Z
 description: The Color Atlas and Synopsis of Family Medicine is now available in app
   form for Android and Apple users.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18004481
-featuredImage: ""
 link: https://www.imedicalapps.com/2019/02/health-and-medicine-apps-for-ios-and-android-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-health-and-medicine-apps-for-ios-and-android-this-week-imedicalapps
-socialScore: 9
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

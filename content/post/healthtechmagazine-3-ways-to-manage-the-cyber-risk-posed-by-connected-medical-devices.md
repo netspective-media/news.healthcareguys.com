@@ -9,11 +9,11 @@ description: Pacemakers, insulin pumps, wearable devices that track patient acti
   among the innovations that allow physicians to monitor patients remotely, promising
   more cost-effective care and improved outcomes.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18197362
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/14048c094dbaf6ddf0b2dcb5ed73efe275aebc24d6ced9dfa6e896e4664898c1/thumbnail/HT_Medical_Device_Security_GettyImages-1022158956.jpg?Expires=1557430063&Signature=Eyvjzau9V40gu~~~yNjZtaeyH0KgzMs5Dzq6XU1L3j-xKvHWUnEOmcItdh3rWZ5K0cVzQjLcq95odk5eI6GyIP4tto2L~pFnn8LZQI-CWS7gYZxp8TcbEK-h6z8p7THg0xMsOR~0GfrjeAQdj00Q67fKEvGhpsJ1Eb6o4eMt9adhng46LJMIp3AY9gDuaVJW93uFdI-4omGIwb7xeqZcAPcqzot2fawkYRebvErA~HvrL8Drq6m5JKw8aAn~YnDHevJrg0oVJ1WDLTMlvBW-H6nvPrpuEosgscHWIlZzrbFdy1DXpK8C-U-iC99OAc26CgRaMLdEPrEAlMyvNMYa8A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-3-ways-to-manage-the-cyber-risk-posed-by-connected-medical-devices.jpg
 link: https://healthtechmagazine.net/article/2019/03/3-ways-manage-cyber-risk-posed-connected-medical-devices
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-3-ways-to-manage-the-cyber-risk-posed-by-connected-medical-devices
-socialScore: 40
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ date: 2019-04-24T12:00:56Z
 description: Artificial intelligence (AI) is increasingly seen as a tool in biopharma
   and life sciences to improve drug development.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18529022
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/654c8329e0c18efd502c436f4300c5b5d550013da07c635f9350922a7589a2cf/thumbnail/w625h350?Expires=1557430062&Signature=lCBmr0ERVSzG4J9idXc151a6DTMjqYevQuVa6gVgFoa2IksaE-2QQSHqCH98SPgY3fOaRuRDCQgKM8LWnUAr3~WtM~ilymbEAYlegpw1AmbgEpyEBJA4Z--KopcrDxc~LWQLvZb~8QTe9fHtVtgIJItn3lmA5ieetCxJuog01LSN08P1YGd49uC1PHg~iwUos~FS6vJFf6CatBHfek5OsY7SbdJ0GkbOGVrDwAcbFgLFoa6ziajzvpHUqhosiQxKLMaHtpBxQs09loZO5W0bPsQyElkwDn~YVRcYIp4QY534reRgd9dRXlLpKHU8k01qRfRsjRjiY6yvNNRMyZAWsQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/biospace-google-steps-up-efforts-to-use-artificial-intelligence-in-health-care
 link: https://www.biospace.com/article/google-steps-up-efforts-to-use-artificial-intelligence-in-health-care/
 linkBrand: biospace.com
 slug: biospace-google-steps-up-efforts-to-use-artificial-intelligence-in-health-care
-socialScore: 31
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

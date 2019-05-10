@@ -6,7 +6,6 @@ date: 2019-03-11T14:31:25Z
 description: Lots of medical apps for doctors, nurses, providers, and patients get
   released each week.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18190801
-featuredImage: ""
 link: https://www.imedicalapps.com/2019/03/best-android-apps-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-best-android-medical-apps-this-week-imedicalapps

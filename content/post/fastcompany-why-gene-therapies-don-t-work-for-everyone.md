@@ -6,11 +6,11 @@ date: 2019-01-21T15:03:35Z
 description: Growing up in Devon in the 1980s, brothers James* and Matt* had to be
   careful with their antics–a cut or bruise could land them in hospital.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17353793
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/cc4d13245bfbbc10607a5e20e1d37770c65314e9d1f8a9160c3381bff0767f9a/thumbnail/p-1-90294414-gene-therapies-only-work-for-some-people-so-how-do-we-fi.jpg?Expires=1557430063&Signature=J9pYp2P1FUSsPIwnmUxClUUr4m-mPxhHcrcqzdEf96ixMFIVMXSIQPJKOOKBMtksLkneBqWLdrCwmlWK17yJACGsthaD4hOtFpu1lry~x0qn37BZ4VqxACgDmJDx~O39s7-X5uSBww2NkjykfZCv4RmOo5Wk4qG6whFDXWiUeSqpSE73pZV4yMrBNGr8V3AYftPCrlseXkBqKCH-aCQ2MWvsQfu7a4iCPufQfRDhXwrGbMfut5jUxBslyo-bB-pC8G4FGvm6KSzvVp9~mfiIAIwfOX22q619ZVwAKFNfTLMARpnk0dppdd9Qm-MoIfU8ruqAyt4G3cUTlJ6iFEdC~A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fastcompany-why-gene-therapies-don-t-work-for-everyone.jpg
 link: https://www.fastcompany.com/90294414/gene-therapies-can-be-a-miracle-cure-except-when-our-immune-systems-wont-let-them?amp=&amp=&amp=&amp=&amp=&campaign_date=01192019&partner=newsletter&position=2
 linkBrand: fastcompany.com
 slug: fastcompany-why-gene-therapies-don-t-work-for-everyone
-socialScore: 14
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

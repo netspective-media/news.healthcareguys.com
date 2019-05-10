@@ -7,11 +7,10 @@ date: 2019-01-21T14:57:36Z
 description: Hundreds of medical apps for healthcare providers and patients are released
   each week.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17353705
-featuredImage: ""
 link: https://www.imedicalapps.com/2019/01/top-medical-apps-this-week-jan-18-2019/
 linkBrand: imedicalapps.com
 slug: imedicalapps-top-medical-apps-this-week-jan-18-2019-imedicalapps
-socialScore: 23
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

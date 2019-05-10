@@ -8,11 +8,10 @@ description: Patients are often willing to share their Google search histories w
   medical researchers, revealing that many people do searches on their condition well
   before deciding to go to the hospital.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18062031
-featuredImage: ""
 link: https://www.sciencedaily.com/releases/2019/02/190220103415.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-health-related-google-searches-doubled-in-week-before-er-visits-sciencedaily
-socialScore: 10
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

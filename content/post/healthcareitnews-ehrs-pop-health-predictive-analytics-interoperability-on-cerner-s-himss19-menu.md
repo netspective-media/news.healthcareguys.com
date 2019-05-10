@@ -5,11 +5,11 @@ categories:
 date: 2019-02-05T12:21:02Z
 description: With HIMSS19 just days away, EHR giant Cerner has a lot on its mind.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17654199
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/cad9e385fd8d2fd487218912f94e4448d631b0d9f3626b27080667fb322ae1cd/thumbnail/020119HIMSS19VendorCerner712.jpg?Expires=1557430063&Signature=lUFkX5T7PZmiuGNbxXAs4CndSSk1nDXygkrlU~P9bnbk38wC0CqkT3uAcYh3Fi8kXJ0SEyLhvkq~937DsD8qKW8JDXnWN7I4N0iYWUfIm5bChyBjNsgBRIh7onXfQxo0-W2~fZpvffdg7A6d27xhNnNnjP~mtUcNcumGcd3xGblECdpA62NrOV7D13U2cEd6BqEFJKEk0Fg3QwuUNvuRi5f~fB4zH~kzQjXpkV819TSG5zXFiuLzgw57v10YO9P8OuQfGpC-vZ5sso4Yq-T-biVOCBH9ytITrCThcE04vrR9evJu5tGdbWVUni3HKJ3yHHO1L833DmJRUvKE-o423Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-ehrs-pop-health-predictive-analytics-interoperability-on-cerner-s-himss19-menu.jpg
 link: https://www.healthcareitnews.com/news/ehrs-pop-health-predictive-analytics-interoperability-cerner%E2%80%99s-himss19-menu
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-ehrs-pop-health-predictive-analytics-interoperability-on-cerner-s-himss19-menu
-socialScore: 30
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

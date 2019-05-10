@@ -5,11 +5,11 @@ description: While healthcare IT that supports telehealth and remote monitoring 
   gaining ground, other technology is hardly emerging from the pilot stage in addition
   to competing for a slice of the budget .
 dropmark.editURL: http://radhikan.dropmark.com/616548/17161272
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/1d59c46f9188f76157c4a792ec82d4ca174274f597e9f4b99b808dac1605035f/thumbnail/00113705_cw_image_wi_f98c499f8dae57150076ff703ff27ff9.jpg?Expires=1557430064&Signature=gC2wHexf-lABI2etb1JbUY-jisg9G6kRRyimbx11FFFRWQmGtoY7RSkrMe0i0s6qKsg1lA2dz5-urkrUttLYeLpYwPc9w22uHXN03uqLi0tHbICFAg4grHS2jRebPb~X~wFLfn4C-0lW5o~dIypsaH5kbXnLNMznBN0YHx4MllcM3O02RVMpu-NiTScHTh21PxLIi3IxjTYss-r5OxvRQZSGdzhG1Jhs2pqnEJBGGpsivOHyiTSWcNHfBu~iixAau8KJxcm0L2-AA6-XKiiJRHjohIphqgCBHcPUn90Bzj3CK8OP3AA2nnk~aPAufUkPbJKN~5oOwiicOzOSMdIo0g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-4-top-2019-hit-challenges.jpg
 link: https://healthmanagement.org/c/it/news/4-top-2019-hit-challenges
 linkBrand: healthmanagement.org
 slug: healthmanagement-4-top-2019-hit-challenges
-socialScore: 16
+socialScore: 30
 socialScoreSimulated: true
 source:
   name: Dropmark

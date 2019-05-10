@@ -5,11 +5,11 @@ categories:
 date: 2019-03-19T11:37:10Z
 description: When Justin Ryan, Ph.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18254672
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/2a59237c557efcb89a1c9de2dc98ed891608f2cf2dc39932ee6fa0bcaca7eff0/thumbnail/HTQ219_Futurist_MILLER1.jpg?Expires=1557430062&Signature=eNqTesrVPZhGc~CAggeyFaMYFOq~3DgyQIo7dpqlad9rTutp0BoEHk0y0NlOuydt08-heYypMKw2YnpEVO9C-gS3bU1HnbSjTuec6UVPk6jmMMoLRSF5WSbfvsEqPYXsgW1cMfd8eswfZreAN2bQiV9d2QpBfQQpXc15llkibtAkohJcMF54YRHm~5lwz9wsJ6lGf-3bke~StUv-J4LUGL1jFzaIFqzjOd5RDoAzBqrc4OedNGusjVL9yRlfFnTx8NnzrMFPrzXfydoIACkbdTM6huepcm-d4Lf6g0R~XEFrPdF-KZOJwY4CxmLQGllQ~ROkOsYMBQg5duNzhz0hHg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-3d-printing-programs-fuel-a-model-approach-to-care.jpg
 link: https://healthtechmagazine.net/article/2019/03/3d-printing-programs-fuel-model-approach-care
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-3d-printing-programs-fuel-a-model-approach-to-care
-socialScore: 39
+socialScore: 18
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ description: A surgery practice in Washington state has reported a hacking incid
   that resulted in a breach affecting 400,000 individuals, the largest added to the
   federal health data breach tally so far in 2019.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146457
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/8f67a449cc4f92fec3377673ad4cd75f033a5d45ac3a3893538ca3d417c8a27c/thumbnail/health-data-hacking-incident-affects-400000-showcase_image-2-a-12122.jpg?Expires=1557430063&Signature=YDJ5GmMpI7epdEmas-5~KYxBwaawFcX9mk9yMLMT6BL-PcITbsOYAobFgNwSfCQkUrN~o7xV7JBNobY3TJR5HbiuNSQyv7IX4HxF40bAWewzuWo75UQaHrRN-nSFPR1FI8yoddOikkE5BWV4UrxLuDvouErJnPy-bRHajOnFTiaPs0-voXcpOeOnyOhHT6diTxvG9Ma6jZm5xaYQI5u~M12IHX6iMaOH5ID-94ALplI-GWFPfq2gv1YvIEPChm~T4e15Qk3D44cbsKyFJzWfJXTuR~6vqZGG~W454E1b6sfC6ZYumxUgRyvnDf8XIlWEpQNzpN5phNlOCWptLo4Bcg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-health-data-hacking-incident-affects-400-000-healthcareinfosecurity.jpg
 link: https://www.healthcareinfosecurity.com/health-data-hacking-incident-affects-400000-a-12122
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-health-data-hacking-incident-affects-400-000-healthcareinfosecurity
-socialScore: 39
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

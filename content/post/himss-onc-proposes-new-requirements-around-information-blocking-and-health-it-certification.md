@@ -9,11 +9,11 @@ description: On Monday, February 11, the Office of the National Coordinator for 
   support the access, exchange and use of electronic health information, and address
   occurrences of information blocking.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18128105
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/56f2a68e63966f546e3786e03c4644366a869ea877fd9ec65c6f16e08d136105/thumbnail/ONC-Proposes-New-Requirements-Around-Information-Blocking-and-Health-.jpg?Expires=1557430063&Signature=E0p1IgzeJ01KJOJJpByG~WlAoTT73etPueOD91jnn9fgYd09fCDdmDABvY2sWyRL-YPEyW3cFEaMvG1SXlXe39VkpdlKMXtCl7pllG8U1nxMAJblJjBciS~Wiojdq16s08Fo7S2NFpe5LRMeMPvlxy1PHWx9K-2MQ-tQL-lKtM1KlYDe8pxIA1glhLCCgIDLX7xysWqBI5ngCDdMLm5X1oaBpW8KW9mywVBaJjEYbJelQKM3WDULgvzizKbu7dpKoOSdI0WGR2ynalVYqB4MLeFVQn24jw4iqvrRPtS-Jg7-NERa6-rp~2Rrt-k~WMIEG8MolKYDhnnGgxF~ZPjtQQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-onc-proposes-new-requirements-around-information-blocking-and-health-it-certification.jpg
 link: https://www.himss.org/news/onc-proposes-new-requirements-around-information-blocking-and-health-it-certification
 linkBrand: himss.org
 slug: himss-onc-proposes-new-requirements-around-information-blocking-and-health-it-certification
-socialScore: 39
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: As the use of artificial intelligence tools and robotics continues 
   grow, it's crucial for organizations to assess the potential security risks posed,
   says attorney Stephen Wu.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18016224
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/127b3d778b38026efe9ebde8de7d51d98333a60f947fdf2c3768e126ae413491/thumbnail/key-security-considerations-for-ai-robotics-showcase_image-8-i-4258.jpg?Expires=1557430063&Signature=kWRenOw~HeuFyljGEF4zAofQzc-BHhOP1yXrIGWbRKe9UDLmPd967hRqIXQyHHWtjQSzAQBvorlniVzZYZ2~drze7b8vdR-JUGdd6A8UPepIYtDt4sBP~akIPkjAbp8Ti-tCa98p6TgiMvSkg-O~Hlzzywfs1v3LgE2Feb6zgIXkp7~HFbRoZkpg9vUrhFwWaVGC1wQbJyBcOmKu~vZPri8~onjTUFAsd-nROM6qcncvF1cgzlt0CACQsBqAdGFo~tX7n82xznXr69k~YD7~Xa2fuJoI~qZSKa0JAe2A8pYUuQNcUvis6BX66J3BFIWNCzlxLzP7~o1OMhhtqDWIpA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-key-security-considerations-for-ai-and-robotics.jpg
 link: https://www.healthcareinfosecurity.com/interviews/key-security-considerations-for-ai-robotics-i-4258
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-key-security-considerations-for-ai-and-robotics
-socialScore: 12
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

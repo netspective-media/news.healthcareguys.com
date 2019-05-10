@@ -5,11 +5,11 @@ categories:
 date: 2019-02-04T12:09:10Z
 description: In 2009, the iPhone was a year and a half old.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17640355
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/797b9f43dfd4f3dbf32445a9bc529f7df7899c4da07aaca974c739fdf35744a1/thumbnail/Birthdaycake.jpg?Expires=1557430063&Signature=HdOUXKtTeWMkDSm7xrFRoFFJg0t0mt62IwIn6Qgw~e2Fhsn8ND8ewR3CuJzIGXIyYN8c3Fn6WTjncKr7kcYZkrrbPbUO3KDbhTP90WZb8casncnN~gKlqlVNkAQ8pPVKigzL2pwuycApxtyP-xUKG4DccMK5cH787mJ9kX10Sr6Elx8VtZRK3hVGva87ta84u4VAcN~hAJ924GvKXxhFlv8Qs5V7hYwDBKXM4vsQMxC3rnL8XYGdU4Xw2aw~FcycwiKDe70XNGdG5t6jLGsykdNG8qUZW4AOal4slW5LaldHazFzFEzY9RNpLc26e5c0LfWt9PmNDcmAT8rvNrqAmQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-in-depth-looking-back-at-10-years-of-digital-health-coverage.jpg
 link: https://www.mobihealthnews.com/content/depth-looking-back-10-years-digital-health-coverage
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-in-depth-looking-back-at-10-years-of-digital-health-coverage
-socialScore: 43
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

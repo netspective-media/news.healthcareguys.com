@@ -6,11 +6,11 @@ date: 2019-04-18T09:26:25Z
 description: And 5 tenants to understand once you’ve decided to move data into a private,
   public or hybrid cloud.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18485213
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/463d8c07ecafed7bffa3f46d1e0d50ff73eda275d5ef9cfcf6413a8693975e23/thumbnail/GettyImagescloudapps_0_0.jpg?Expires=1557430062&Signature=XdyPB7TldK6sUUmcEofu4M~~-~r-mm-dqx0lv9L2m-Mg95oOqjY1viwhzd9k11D1Ny1sga1M58ytyPYCqchJqAybiTg4ziGSt3pHlppJ3Kv1D9tpWfBWqAcKZciA1AF38FLdjjJ8FUHoW3gLm5sh94KJ8YU8CaoVnArY8e-~4B10zYqP-E1YyYMlw9zE5cmnpCeEpu1753B-jkF3vDNa-76KJ9rXaR1CPldmT6pjw4Gi9z~7xeJpvYCr2-iJE3URwOieFXbn31Au-BP264tc4uC7jDTMFF5Txj9mU1qE3JQEu683ClIDE8HVVG6ACiFhV2mt7W3jPcJeU99riUTztQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-3-questions-to-ask-before-putting-a-healthcare-application-in-the-cloud.jpg
 link: https://www.healthcareitnews.com/news/3-questions-ask-putting-healthcare-application-cloud-0
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-3-questions-to-ask-before-putting-a-healthcare-application-in-the-cloud
-socialScore: 6
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

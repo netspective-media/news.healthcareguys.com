@@ -9,11 +9,11 @@ description: It’s become impossible for the leaders of patient care organizati
   innumerable articles, blogs, research reports, and discussion panels at the most
   prestigious and high-profiles across the U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18093424
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e651704b9c914ccbfd44ad8a7fd1430b5860b971a14f3799d5789a79b15d6485/thumbnail/bigstock_Young_handsome_doctor_man_over_282320125_frustration.5c74688.jpg?Expires=1557430063&Signature=Wze1h6yeVtScL67j6zgxmlSbWRrciJ9cioeNHaALyy9tfEmTJW0YLG9m9xuKHO4keUJlsnT3QKF-FDUWvgS3j~xIBC5Qe5vW9zNM2HcK5JksfMLqLpmXu-vKX9RWUHgt0EJBozWIA4Bbp6MRA~FjWW3WWXeXg8nkcDuDtQjNs~CatflwVmQmrBpJTyha75PEd0q~yjq2Dd6GdQdIxA2UXjtCmwN92POZSFKIWTapQgQQV3ZX1swSc8ILiXuTmeYbWNo0N~SXYfXeAcoQlUkFfkbfm9pjSFl3V9TYS9G4oJ9VVtTriyzkzoNsbpXRN7tXjdzfXZCJK3rN6zr4a1HCsw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-has-physician-burnout-really-eased-and-what-might-that-mean-for-health-it-leaders.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/physician-burnout/blog/21069855/has-physician-burnout-really-eased-and-what-might-that-mean-for-health-it-leaders
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-has-physician-burnout-really-eased-and-what-might-that-mean-for-health-it-leaders
-socialScore: 28
+socialScore: 41
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -5,11 +5,11 @@ categories:
 date: 2019-02-26T11:47:13Z
 description: ""
 dropmark.editURL: http://radhikan.dropmark.com/616548/18085640
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/7c810e59ec94b5b3ce7e4e25e67fb7512018a4bfccfc2aa7b48350c574df37ba/thumbnail/Understanding-Your-Interoperability-Journey-Gaining-Insights-through-.jpg?Expires=1557430063&Signature=HtaomM8lXBZXI2t55yz5g7PpWE~n0OIxJahx79ARc9jSbe48NoMzfCvCxrmYMy4fWPKYmB7csm42QFBpJXuXYrRFZ0sJcNU03OpoQtUQor~yjDD9yDtr~EEwNDa8QRNNwuxT6PBkR8pqFMGePpz0YrX8uKXdREok9Sdg9FkHZsPYCC2oWQg4LfZGjX~Q-uMsiVh5bosXm35wC8rvqnLj6hlro49PZnR5abPL6yJh4rCF9Quopi5~mBqlz1lHBbEvHExj6UevsxNL8U95JLyljpNVyTMARmC9paIGK53J4p3uXbMhhIl-JDuWqlArqj49OD0g7tfRUbzqPZI9dh8jkw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-understanding-your-interoperability-journey-gaining-insights-through-case-studies.jpg
 link: https://www.himss.org/news/understanding-your-interoperability-journey-gaining-insights-through-case-studies
 linkBrand: himss.org
 slug: himss-understanding-your-interoperability-journey-gaining-insights-through-case-studies
-socialScore: 15
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

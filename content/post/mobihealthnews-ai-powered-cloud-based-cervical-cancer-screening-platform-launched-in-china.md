@@ -7,11 +7,11 @@ description: China Maternal and Child Health Care Association and Wuhan Universi
   Landing AI Cytology Diagnostic Centre recently launched a cervical cancer screening
   AI cloud diagnostic platform.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389342
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/966d2c9d9a720dc47cb98a4bffe33c48657373f71428bade6a54e9cff546ee49/thumbnail/Cervicalcancerscreeningplatform_Mobi.jpg?Expires=1557430062&Signature=c5dgronhzK7ZGq8baLfgHZ6B~7oVqXGmOt3YRO-6RR55a27pyqwhtdCHWVAQ0BLs8UdLKAzTaSqe~i0jfHhQkpB5KJjuYn3vPEPrtA6l0tSGyVJlys~qlkaJOo4c0Iu6bCe0RsbRcQ5pwOgkrCKijXnTJwnt-u1egzOmx4vVKcqvPqcAFBSMTv9kulhEWL9de7uzadeIazGRmgNycm6UFdH-NPU2zcDWsPU~-KgugG~0zyCWuxqeu2xVq1chjf~gl4zmI0HE3RQ1NA6gkFjMzOWPzI7Fk-1NMolJ6ToxN9Vnsyo37s-guQZjX9GqBnKCn3AaFm~GNevlWIMxwmwarw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-ai-powered-cloud-based-cervical-cancer-screening-platform-launched-in-china.jpg
 link: https://www.mobihealthnews.com/content/ai-powered-cloud-based-cervical-cancer-screening-platform-launched-china
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ai-powered-cloud-based-cervical-cancer-screening-platform-launched-in-china
-socialScore: 36
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

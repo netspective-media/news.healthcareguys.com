@@ -6,11 +6,11 @@ date: 2019-02-13T10:18:16Z
 description: At the opening keynote, current and former government officials discussed
   new regulations that could help to better empower consumers.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17823580
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/1296e57c4a397c0919f7ce1e4bce6d68543340b6d6008089beb3753044fb48d7/thumbnail/himsskeynote.jpg?Expires=1557430063&Signature=fQqFZi~~FyDu6JvtucF-q~EX3p8Y~dLTMEGrhvhjcc6bONeK4FG-A4B9CAACxbhD9SPUtCsRdEANOl2T4VPnQ2JKIZ2eEGanBf3Id45GIlRFHIAkWtBpxMwVvoP~bQ~JZ0mZCq8gib8~nfAuf9mGSFiuWUdIBvNJ-HDBexSatQDlEJiOnMnoEljcw-LVKXAp19Ij35gM4urz5~tlwtSyB-CATcp3a~R5jAMEWxCSSZYJsoe6FHUhLMy~byLjp5Z1QQU-0QK9l7rmDGmiLhdSbZBcrmiY2MeY3NYx2WX8IUYXztn3soo~Gt6OAYWm3zegOzMGEIKtFfATc-Yq8Piuew__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-himss-2019-how-proposed-federal-rules-aim-to-boost-patient-data-access.jpg
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-how-proposed-federal-rules-aim-boost-patient-data-access
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-how-proposed-federal-rules-aim-to-boost-patient-data-access
-socialScore: 21
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

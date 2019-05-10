@@ -7,11 +7,10 @@ description: Despite the current emphasis on streamlining healthcare delivery, t
   administrative burdens placed on today’s healthcare providers—physicians, nurses,
   medical assistants and office staff—are heavier than they have ever been.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17680676
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/optimizing-emrs-to-lessen-administrative-burdens-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-optimizing-emrs-to-lessen-administrative-burdens
-socialScore: 46
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

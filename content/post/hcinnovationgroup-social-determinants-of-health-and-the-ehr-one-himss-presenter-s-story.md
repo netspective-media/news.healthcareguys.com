@@ -6,11 +6,11 @@ date: 2019-02-11T12:55:29Z
 description: The journey around the electronic health record is inevitably complex
   and challenging or any U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17704964
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f778024c04ae9966f44062c199c5b8123774c5fd5af747351a9ee3b203f96e6f/thumbnail/SaintBarnabas.5c5ced53a6868.jpg?Expires=1557430063&Signature=LYAEoM91-n7Nor-ntOBuGzY4cuTNJuOEMRGokkBWE8BUqdhFvavgKrUJkbzojqmx4RF-BA31RjB8SqqQvhXXwmzodYSOU6ZFWBEIK-dzSX6V6y~rNd5VeS94nHxnzcKqAa60emxH0njvMLB7wSx1KsO5WITTt5qlRMiXLaN37fr-ouGhRlpAZ9bQy7e7WIc-nRFrwPQMtaXNVK8Vx2UbRCYI6qp9zQSKnwBSp0~IZpD6~Y2c8ol3pACVJLFBftRMzdEAbqrbcmmj2OEjHPV3NMJcFAvsJ24EL882Sb-RFxnJ3BnvzpU6zylJ12NbdDJ-7ObQCQ6GKbE15O2eAcL1nw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-social-determinants-of-health-and-the-ehr-one-himss-presenter-s-story.jpg
 link: https://www.hcinnovationgroup.com/population-health-management/social-determinants-of-health/article/21067860/social-determinants-of-health-and-the-ehr-one-himss-presenters-story
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-social-determinants-of-health-and-the-ehr-one-himss-presenter-s-story
-socialScore: 8
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

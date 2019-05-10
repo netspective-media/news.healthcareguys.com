@@ -8,11 +8,11 @@ description: Healthcare organizations should steer clear of connecting internet 
   things devices to their networks unless they serve a precise medical purpose, says
   attorney Julia Hesse.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17712698
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/6f21f3e0c384d03deb215547633aaf2144dbcd99d9d1b50aab6b9f090e927b6d/thumbnail/assessing-iot-risks-in-healthcare-environments-showcase_image-7-i-424.jpg?Expires=1557430063&Signature=AzWAty5jDcikf-KmEP0MTTnm9a6nW7cVczqb-MpABgUBmPS979fGF~O1wmmwAxqoN~LVW4Vx3hKKhIiGxm0QDeSUQCDRzjv8Tu4RTlVLX4GRg-Yaoe2Hv7f5kcub98Z2ZisNOHox8RSPT1bZRVHXAomrXqyZ6phXlPQ50tKKc3inkLeYpTV~61jnuivFhwdl3IQsKKxylL5rUHz84FU10Cztf5G0jnHaUbHKWqYPSLjx43I2eSLBg1w6hiMWkOAKfaNWR67x2eaia1fSOQWOnO7pXxzJtTuRx~PBd3dVl6zMn5rTc4bIdVxQsfGIizdqd9oeB58xr1abWVQ4koQ0Pw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-assessing-iot-risks-in-healthcare-environments.jpg
 link: https://www.healthcareinfosecurity.com/interviews/assessing-iot-risks-in-healthcare-environments-i-4246
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-assessing-iot-risks-in-healthcare-environments
-socialScore: 15
+socialScore: 35
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ description: Cybercrime is on the rise against the healthcare sector because pro
   are often seen as easy targets with valuable information and insufficient security
   to protect it.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18254524
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e950dd27ab0f5750db56725fbfa2d06fc2932bdaa94322fb2738dcff6adb3fd3/thumbnail/GettyImages-531477794.jpg?Expires=1557430062&Signature=Zhlm2CiDUKXZp319QgIMR3OV0M8KFB5MWDV4bLz5PK0hoQr4o2rKOEiX3zFqOYm02T-QE8Xw1dIozZneROnJJ0N-y13i7df5jNcPS2rehFfOA7vpqDlZb1oZ6uBu-uWVt76cUgfnXLJQfhr8mBpFHMjGEJRC4VYUVlrfyQjRtA799eB7Vx1toRygEzwYW1kOeCb9kAFY46dY~r9fS6khahwgXj9forKCZzBv1i8iQPzouqPQiMvzDiM6hQaRp-gMlrhEcLuDFSUEfM3kW6XLEPa7qoJ3VS~gFReI69xInlxt89-470oc~oRXh5IL5UyMZgnlox2R5mh10N2Tv7ww1g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-the-latest-tips-to-secure-your-organization-against-ransomware.jpg
 link: https://www.fiercehealthcare.com/hospitals-health-systems/industry-voices-latest-tips-you-need-to-secure-your-organization-against
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-the-latest-tips-to-secure-your-organization-against-ransomware
-socialScore: 33
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

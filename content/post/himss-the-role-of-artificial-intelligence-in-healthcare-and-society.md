@@ -6,11 +6,11 @@ date: 2019-03-26T11:06:34Z
 description: Artificial intelligence (AI) has transformed the way we do business and
   our everyday lives.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18310499
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/72ddc2e48120f47e9dc33260e89b51d7429276ac35c8fbe196f2ddd85acc1a88/thumbnail/The-Role-of-Artificial-Intelligence-in-Healthcare-and-Society-1024x51.jpg?Expires=1557430062&Signature=MbVOU3FTLxhfNIcXSBgVgZJyzEvSsoPEfIMU-9Eyt1aZoYs69pybIy3BiU5zLqsJI0KOhOkZoB2ESynbcbzyBzhO-rm-90lkxWKbjnupjDNNBhcRYQVSQYHyTgScK25PNGfLN1~Q1puFJln71rZiC4RDbXXbGYlNheumhyXO0y~VFcNmXyHuYJPkf0af0tLHLZycZV87Jumjtfscl0LD~eC1sfSZnULAZxD~RyN5Tble4JRcS~fbaxCMw-xsfsr1p8Hg0T4GsFpDjqXrZJ4KQV7lSvmkoqkRKOpSNdgqG7WteqL1ahULTNCPenLvBjcanaR6NCH0bSoiYSBRw0ZBvw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-the-role-of-artificial-intelligence-in-healthcare-and-society.jpg
 link: https://www.himss.org/news/role-artificial-intelligence-healthcare-and-society
 linkBrand: himss.org
 slug: himss-the-role-of-artificial-intelligence-in-healthcare-and-society
-socialScore: 15
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

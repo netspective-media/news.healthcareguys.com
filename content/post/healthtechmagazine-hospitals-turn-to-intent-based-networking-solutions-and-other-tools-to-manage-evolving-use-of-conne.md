@@ -5,11 +5,11 @@ categories:
 date: 2019-02-11T13:10:01Z
 description: Since 2013, the total number of patient visits has risen by 20,000 annually.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17705093
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d7d77b9a0707206ed377813234372faec649081326404a32231dca69502f0a74/thumbnail/Q0119-HT-feat-Hayhurst-HERO.jpg?Expires=1557430063&Signature=OZrh5flZUsfrKhORLpe4g59APo9tu3qb644SCKGWsFTrNg4padKJ6oDbLLPcoV8r0UWo8DdDgPy7lzS5O1KDlxKDRMKaU7FeG1eAV06qDCYJq4cZBNmAB2P-eMwZkp9E8VchTWLOCYORuMVU~6arlXc8mkcqxk7H2pN7MmYlXxI1ci4OVkQQfZwArc5GsO5rTETj5of70JIxEDMo3CU1IVSBr6J58CZPYOhcJlKvhcX-Sz9d7g8MQDxNsLd-xS1YcI4CWByr8onp9RIfCHYrcEyXlnacKMTx47SAjvEp3LhD4VeZo-cPFbNlbXizz5zyvXiWLj8MPGL1153TUd8XSg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-hospitals-turn-to-intent-based-networking-solutions-and-other-tools-to-manage-evolving-use-of-conne.jpg
 link: https://healthtechmagazine.net/article/2019/02/iot-pushes-healthcare-organizations-boost-network-capacity
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-hospitals-turn-to-intent-based-networking-solutions-and-other-tools-to-manage-evolving-use-of-conne
-socialScore: 38
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

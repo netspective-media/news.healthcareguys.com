@@ -7,11 +7,11 @@ description: Some of the angst around the rapid pace of change involving artific
   intelligence involves concern that the robots are going to replace radiologists
   or other clinicians.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18190753
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f1f2d9ab17c6eaf953eb4c0298e279d13ba3607c0785370d18c73ef2f437fece/thumbnail/AI_doctor_future.5c865c5179692.jpg?Expires=1557430063&Signature=YGOkJnzFkItvHDgFkf8ktpwmlD1FuiUjuHKb6gKumD9A7jSMaZQTmIX4H5nMVHZuQ4zvdxroQlWBZcxKUceZ~K8NbofNklG5gzZSVKv3xvKvPYRkQd5NB2gBBgkjHQwy9YCFfl5-0s3zrkTsoxBNsDq7RT2a6Z0ZSuBJppl6FqLC22nfmBOeFrJ5jK4Eq5f6wv33PDeaNMYsUQ3z1rLV4Ny6ocJ4AMOxtK0S~DcWvo7ReWAdDFeuo0pkip2BpZ2~oZkNagrycxh7nTgpfOo5WQ5lm3oiqZT-KzDkwQnB9M2hwiz95cxwQUnUrIjt~HctUEY180cAQHv2Wzk1tFaF7Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-predicting-where-ai-will-have-the-biggest-impact-on-healthcare.jpg
 link: https://www.hcinnovationgroup.com/analytics-ai/article/21071336/predicting-where-ai-will-have-the-biggest-impact-on-healthcare
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-predicting-where-ai-will-have-the-biggest-impact-on-healthcare
-socialScore: 11
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

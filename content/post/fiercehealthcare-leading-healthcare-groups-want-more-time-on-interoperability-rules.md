@@ -8,11 +8,11 @@ description: Echoing calls from other organizations like the Electronic Health R
   federal healthcare policy leaders to grant a 30-day extension on the comment period
   for recent interoperability rules.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18356941
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5230b2d826f62fccfee4616dac6bb01357bffec06773603b865b61d9d19e5826/thumbnail/GettyImages-503896430-min.jpg?Expires=1557430062&Signature=IhiN0r6nAqIL4S5zLWccySTHjAlIP6J2O4pJBYxR~-c4f1lSnPOt0R0cIRrCOr4VGWWE6PLLblOrjbQmfWCH4HOUQaqggx~s0np37~zwGx25175yByKVhnhI7g7YeKjHt25ANJ4GtaV00gs7SZBTRTp45TatHgCqAkff6ACRZFyUBgr0BKVYQQRYrBc5Nawus5ukZHzMkAK1hbdDJ66B-hUzihtLVMpUT~Uk3byKgFXvqLETZs7kf~n-~gAmMe~cHDcmpn5ZzVcoEEmuWCvgJOx75FiKeJ6Ac5mBfJcHjmq8c5B78QxCkkplzheEwpCa5DZcaGWEcN0fbvOKnreO0A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-leading-healthcare-groups-want-more-time-on-interoperability-rules.jpg
 link: https://www.fiercehealthcare.com/tech/health-it-roundup-leading-healthcare-groups-want-more-time-interoperability-rules
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-leading-healthcare-groups-want-more-time-on-interoperability-rules
-socialScore: 16
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

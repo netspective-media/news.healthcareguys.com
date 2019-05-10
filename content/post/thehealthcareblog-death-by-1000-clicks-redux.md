@@ -6,11 +6,11 @@ date: 2019-04-09T10:39:05Z
 description: Back in the ‘stone ages’ when I (an MIT grad) was an intern, I was called
   at 4 AM to see someone else’s gravely ill patient because her IV had infiltrated.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18414619
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/66ef6c99aa7f18311b172efdbcae281fa3d4809e64ecbeb6a0d10061b41e28e4/thumbnail/Braunstein-Head-Shot-2-1.jpg?Expires=1557430062&Signature=bhaqk8lEfOuirscyHHho2jH8ocgQTnKta1H1XBvgPcLSEiIY~fK4QTv9w6zYiPcRtuSkhuNmbtyPEWdJ3iQBVUTTnMjq5rvdFED5LwV8QAm4YDOeRr8FQrrCAtXN9d-HofDIUz9FLiz1PQONBIN2ccEsQRThFkkNpO56VpWwrrZ9ZV9jQ991M-g8MgWXF-HCtWfsGWzvvpYRkPj8FZlCIs5lv~Pit8ZWrcTqbDgum-P8alqfWn~NuByeG92pOLnEez0zofW1qKb353jqM4MoSyQ6NzmgdULzPKOkk6Xt-p4YFwZPGO3DJWax3j5ULnGhJsFeBS75qAohvFoOkHUU-w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/thehealthcareblog-death-by-1000-clicks-redux.jpg
 link: https://thehealthcareblog.com/blog/2019/04/08/death-by-1000-clicks-redux/
 linkBrand: thehealthcareblog.com
 slug: thehealthcareblog-death-by-1000-clicks-redux
-socialScore: 26
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -4,11 +4,10 @@ date: 2019-04-21T16:57:51Z
 description: The NIST Health IT Standards and Testing web site provides information
   about the key health IT testing initiatives underway.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18507882
-featuredImage: ""
 link: https://www.nist.gov/itl/ssd/systems-interoperability-group/healthcare-standards-testing
 linkBrand: nist.gov
 slug: nist-nist-healthcare-standards-and-conformance-testing
-socialScore: 10
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

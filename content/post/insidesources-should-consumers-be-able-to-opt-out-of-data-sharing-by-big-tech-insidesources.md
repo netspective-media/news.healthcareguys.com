@@ -7,11 +7,11 @@ description: Yet another senator has released a draft of a privacy bill, and it 
   elements of the EU’s strict GDPR regulations, as well as California’s controversial
   privacy law.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18169707
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c83c278a5c787ec03508c1da5684b469e262c3dc41e8d416a09320d6e64960a4/thumbnail/bigstock-Privacy-Law-Concept-On-The-Woo-232759981.jpg?Expires=1557430063&Signature=dvjXD~bIrVg6yw92QFgfkieu-TA7Fao6OoReBr4y9fytgJf0bHXPIAfq20fiQNpWO1LdgZ0wNKgpK3plhSkaoNe8iuKG1U3H2RTV0VenRiXM0HN570QWcrix9szdWZBZqPWcnKhB-~FJozpM~26uFL79ZvLWzI49867Ess3HCNdFhUECK~5MTY55sLds5JR9nZEg6AQcDnZCTzvFpgTBABi09NWUleJUI6qtzACJnIr3Tp0mR6csEZMloRpKZpKfRfwohWsU2VdA1mfj8Ev4qVOu02Ikic2nPP9F2ArEkfCrJW4YBCeUgVag3TpE7ZsGMjWPAKReRMh7fOdyBkhjNw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/insidesources-should-consumers-be-able-to-opt-out-of-data-sharing-by-big-tech-insidesources.jpg
 link: https://www.insidesources.com/should-consumers-be-forced-to-opt-out-of-data-sharing-by-big-tech/
 linkBrand: insidesources.com
 slug: insidesources-should-consumers-be-able-to-opt-out-of-data-sharing-by-big-tech-insidesources
-socialScore: 46
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

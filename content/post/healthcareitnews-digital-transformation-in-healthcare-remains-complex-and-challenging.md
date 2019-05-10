@@ -7,11 +7,11 @@ description: Many organisations embarking on the journey of transformation in he
   do so from the perspective of the technology and all too often focus on transferring
   current ways of working.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18004496
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/451b53976a86ea5c799ac4f217662d8031862ae924e65eb76a6c3ed44203f291/thumbnail/ArtificialIntelligence5_0.jpg?Expires=1557430063&Signature=gsm5MTfbdYc9c5guryj8CIpx2Fyc4w~-1eFHKr-Viuhf~IbBHPkEMepdHgHYHxpwFMWjz2ChlDzzpOK8IPwPHBnRhVt30zVLur6w8dKoFAs85vHamsENjiYKwr4x2DZWzlGAoqi8aG1zDrKzjS3U6~b91JFsX5BwHx0~DBZL3OANeBi~w74xEaLhO2F2wTC28DhWiVLQ0jGNOefJwCttKGS-akbcpGBjkM4bPBLAo58i3LqKkrl~AVJdliruWrrFeYVpKTi4QRZpsIFh5bciFlNZ9tzhahvi2ZNZoGUgTAmx1yuTHd~1guqL2H85KGDmLj5WWD8hH8hcn-sxbDoqog__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-digital-transformation-in-healthcare-remains-complex-and-challenging.jpg
 link: https://www.healthcareitnews.com/news/digital-transformation-healthcare-remains-complex-and-challenging
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-digital-transformation-in-healthcare-remains-complex-and-challenging
-socialScore: 31
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

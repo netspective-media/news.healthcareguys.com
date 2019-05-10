@@ -7,11 +7,11 @@ description: Patient engagement and purposeful data implementation were common d
   points during the finals of a digital health pitch competition held last night inside
   Google’s Cambridge, Massachusetts offices.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18127942
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5369040f8b23a90ca9dddf89a22beb6fdb3d4543ac187859b639763783aa7288/thumbnail/BSCIMediaPreview.jpg?Expires=1557430063&Signature=TvHlPU5A0r9YmFxDPcrkIDGpY5EDrojVlQTo0zV-S4FomKKeXkL2PKssjeFbRceK3OilJsUaK3CDbFUpNpVXgTNddl0ZwMkMxgdX9CVFSsM84V5OxibqHsvAx~m09AP7H67XwPVY6f9U7VTzDZAKcoxDsbYY~-a~99ebTLK3H-MMYStWgf7UBsXOEMvt53GK6ka7HF~vdUP2rjQ3iNAF1IWJ0R-6NL0VizoShSyQMms3pxhsWywRXdxLWpD-bEJylJuwm3eQRfFEhp4OoYiu6TEITY9RpC~O6tXd-4G6XH9k0Eef5ALiszRx3mdnfwQxiaFTlhJFP92N08HvkJ6WaA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-boston-scientific-google-s-contest-winners-highlight-patient-engagement-data-s-role-in-digital-ch.jpg
 link: https://www.mobihealthnews.com/content/boston-scientific-googles-contest-winners-highlight-patient-engagement-datas-role-digital
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-boston-scientific-google-s-contest-winners-highlight-patient-engagement-data-s-role-in-digital-ch
-socialScore: 45
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -5,11 +5,11 @@ categories:
 date: 2019-02-11T13:18:06Z
 description: Rural hospitals face unique challenges compared to other, larger facilities.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17705173
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/23f4671d119a35ac1f7051e985bf39dcfba04c18b7a4c1e507d859ba32190d74/thumbnail/ThinkstockPhotos-174706410.jpg?Expires=1557430063&Signature=DC~ezMBGoiw3TWUijNqZDUN5Ll0ubB2P~Sn9ygXUrUrNkTU9s1hhdYsXP4Wzo7U1gOm1Gjb0DlMFLiqjapfuWIYRgiHorpW8EvE~N5qicR6yUe6-1PW~6qfghEJPLrU9u4ytNFG2wt6gpD0vOpGlFtJVpWgYcdC9S3vk-Uzce0bX9LpfRs9UPActLbD5aBV5zQnGy1NPcVFhdCoVMQjPEnf9TZqsZ1m6k030tY0PadIMi10vH1uPsOKVbz~14Qp3KTBNJUGxRKgHAG1nW6XaUDN6awmN4CHSSck941urNiUX-bRCpkJE-KEd6Q1leeqsi5u4M8NlbTrdh-A7MIaBAg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcarebusinesstech-rural-hospitals-keys-to-addressing-top-challenges-with-healthcare-delivery.jpg
 link: http://www.healthcarebusinesstech.com/rural-hospitals-healthcare/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-rural-hospitals-keys-to-addressing-top-challenges-with-healthcare-delivery
-socialScore: 23
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

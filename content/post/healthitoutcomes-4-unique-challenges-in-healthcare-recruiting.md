@@ -6,11 +6,10 @@ date: 2019-02-12T10:47:28Z
 description: Recruiting in our current atmosphere of low unemployment is a challenge
   to begin with.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17712709
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/unique-challenges-in-healthcare-recruiting-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-4-unique-challenges-in-healthcare-recruiting
-socialScore: 43
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

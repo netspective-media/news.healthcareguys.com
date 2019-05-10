@@ -7,11 +7,11 @@ date: 2019-04-18T09:27:09Z
 description: New research shows that the ways hospitals tap into EHR information varies
   from vendor to vendor.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18485216
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/c4624930967086d15ac8176011a18642f8a0e152f13f764da1fa6124ab697042/thumbnail/EHRFuturistic_1.jpg?Expires=1557430062&Signature=fKX9ya5MJGaaotKnpdlChgI8RnmgDV3O6iohl4O6HtWryhSggu24JOfUyXYE1xv0A7YzKST112lQD6~o-YzQIaK6ktk9DuRnl457uMzr8zangHHXnb50kFFCe2ACKborVjqJdPaSVf8AhkKeenAvT-xSKpFEKAXJSPzDKhKkXq1BqFiKGxf-zqM7M~s5oaqb2~eXySDxWqkrT1G2BJ-vQ-LiLNXCw5Ma1cAsjslENVrsYGN5EeQkBwC1i-ZqZ7ILabI-kE9d5DeThF8IAa3no9ZmyyBg3pqzmtT9KQIV~eIndzSu6hnF4T-Il2Tj6ypQM~p43bJpGwppNjjsuZaMkw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-onc-here-s-how-hospitals-are-using-ehr-data-beyond-patient-care.jpg
 link: https://www.healthcareitnews.com/news/onc-here-s-how-hospitals-are-using-ehr-data-beyond-patient-care
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-onc-here-s-how-hospitals-are-using-ehr-data-beyond-patient-care
-socialScore: 38
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

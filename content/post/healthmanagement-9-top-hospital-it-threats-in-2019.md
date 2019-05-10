@@ -6,11 +6,10 @@ date: 2018-12-17T14:30:24Z
 description: ECRI Institute has recently released its annual list of top healthcare
   technology threats that hospitals could face in 2019.
 dropmark.editURL: http://radhikan.dropmark.com/616548/16971429
-featuredImage: ""
 link: https://healthmanagement.org/c/hospital/news/9-top-hospital-it-threats-in-2019
 linkBrand: healthmanagement.org
 slug: healthmanagement-9-top-hospital-it-threats-in-2019
-socialScore: 39
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ categories:
 date: 2019-03-14T11:06:46Z
 description: Dr.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18215000
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/61ff718d2ff7e8963844e40ab88c09b1e89bf31e4e5ae5223643d8cdc1646cc4/thumbnail/Topol-HITN.png?Expires=1557430063&Signature=NkXDQvzXC5DpAnKEd2X75C4r25MgqCkjF1I9~LcUOp6WZh~XunnApJEkNZHVjXmV~vAR3VH858BQMZAu2vImhvxOY7iYg1zv-a1pV24Fho9nwoFTvtbrH7WMtWG7DS1bryitHi473zmdZd6M~Y5cTMgBfDE2KhAbnjwd00Tc4-g6edAhzp8JlWnFhvLBk3wI3994TOQMYDB-c82TcD9TkB409CX9EfamIBo-ukunsL-i9jCGTyXE10iE12xv9kXxll-8PW~wVeeLTPbWkdW0HWLmTIAR53H98YIBB8lmK5P9GyrBfEr3IsSuy10psO8GTNJ6uAgJs9fSBmtL4y-YIw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-eric-topol-ehrs-have-taken-us-astray-but-ai-could-fix-healthcare-in-a-meaningful-and-positive.png
 link: https://www.healthcareitnews.com/news/eric-topol-ehrs-have-taken-us-astray-ai-could-fix-healthcare-meaningful-and-positive-way
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-eric-topol-ehrs-have-taken-us-astray-but-ai-could-fix-healthcare-in-a-meaningful-and-positive
-socialScore: 3
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

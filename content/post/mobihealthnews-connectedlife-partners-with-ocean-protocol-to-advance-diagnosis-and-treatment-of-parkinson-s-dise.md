@@ -8,11 +8,11 @@ description: Singapore-headquartered health AI company ConnectedLife today annou
   the diagnosis and treatment of Parkinson's Disease with a safe method of sharing
   patient-generated data.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18270953
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/80c75f1bdee0f9dc0646a082ee96fa47552dd396ecf8bf423f66623f58307f76/thumbnail/OceanProtocolFounderTrentMcConaghy_Mobi.jpg?Expires=1557430062&Signature=hXHOUn6ko4ikvY18sGloC6aYZ9Dd2ammIp8TQycxYtmPYnUP9Go51HKheFBRH1wgzuREFRCtbCJNMPSNUbLikffePWzP0kEv1cneGcNJWxY3n8R~UKog0VDeRcBOM27C5KzfLLGuOLX8z164Y8RAtPX-wKvl9Kz4DR6Pj~Qnp-vZ32IfnR69YzBQYlktZk1fqQnRaYm0RdUoyr9pDr1A6UCqGc83DFNCZj9EdLUC1xnOLuyUXIj83wx7bTTQmvud-Snqcz3yOKqUfwXAnc8eSqgIzTAM6BfKKqnpOiAlV2IDpMZH5Jlvb4ZMGMQOGdCoJmG~FM9OWdUEgxH8bzay3A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-connectedlife-partners-with-ocean-protocol-to-advance-diagnosis-and-treatment-of-parkinson-s-dise.jpg
 link: https://www.mobihealthnews.com/content/connectedlife-partners-ocean-protocol-advance-diagnosis-and-treatment-parkinson%E2%80%99s-disease
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-connectedlife-partners-with-ocean-protocol-to-advance-diagnosis-and-treatment-of-parkinson-s-dise
-socialScore: 34
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

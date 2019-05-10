@@ -10,11 +10,11 @@ description: Researchers in Israel attest they have developed malware that would
   and doctors examined them, thereby leading to leading to potential misdiagnoses,
   according to a story this week in the Washington Post.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18403199
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/fa8b30e1627c679159c5a231c28bf89db9b75f8477628b5c662bec92ce0e09b2/thumbnail/og_default.jpg?Expires=1557430062&Signature=W1SAicCWxb83TXUv3uG~YKVE4Hfw05HqANtK~uOFcO9mjgI8KBt48ji5-lGwITpGOi2jNvWvlWil6G8qceVRNQ~ILQoMnzJAUsVxP-oMWZrJmzY3q2Wr0k1gc8nRz14BL8~R7glKmeBxTlT8HOiRv1Vh6F7UJ2qoxESm1y9Fy6GzH4sNNWTql5HBAgujXAcIgbsaIm0wcr8O6lGFQ6z2MTg-tj~dat2FVyymMn6A7g~K82ya4IPhdxc5ZToydtgOfoaSRHv4lSUoU9O3KLFs9L8M8sKoePYom2wmBQPpCiHYfsXCLcC7NRQjvJQl8PwGpadn9UHruD0SHkOy5ABtGQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-report-cyber-attackers-could-add-fake-cancerous-nodules-to-medical-imaging-scans.jpg
 link: https://www.hcinnovationgroup.com/cybersecurity/news/21074870/report-cyber-attackers-could-add-fake-cancerous-nodules-to-medical-imaging-scans
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-report-cyber-attackers-could-add-fake-cancerous-nodules-to-medical-imaging-scans
-socialScore: 39
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

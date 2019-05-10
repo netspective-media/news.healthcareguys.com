@@ -6,11 +6,10 @@ categories:
 date: 2019-03-06T13:15:43Z
 description: Technology has made us all closer and more connected than ever before.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146521
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/why-u-s-healthcare-needs-to-adopt-a-startup-mentality-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-why-us-healthcare-needs-to-adopt-a-startup-mentality
-socialScore: 20
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

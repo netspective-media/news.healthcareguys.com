@@ -7,11 +7,11 @@ description: A report from cybersecurity software company Protenus last month re
   that the number of affected patient records—spanning across all disclosed health
   data breaches—has continued to climb each quarter in 2018—from 1.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17129235
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/520dc9cf96ccdf02174c3f1c6237a4eb59f491419006b4a4d7b8981e061b704a/thumbnail/cybersecurity.JPG?Expires=1557430064&Signature=B-ijopUhNjC02lq0LJismS~p5dPNZO5UWbt2hBhJNyZl8gPTAUWk4qj~-OhNr6itGbPGxbE5PN3-9n6Y0iaCkuKsugbTW-V1OPbHLZT2AXT8CC-7L7gz06rwpyaiCivFM0hHUXB-mVrc2tV7gD1N7ImJM7lVcrbes4W7e5zEFLLHgjGjxG8pbw6wYawM~qL1XvxXJ7yA~7j4pGUswN8pSkcl7NKq7AfJWHfuzX8W88KX8V6TnCxT9YG4-spNwvsB8WDegmelbHF7WvSc8RHsY9rUrpeiiKbQmDBX67mIGZ62oPBBCqA6q0ivTAfDKgT~srPHP5FRXuscxW-YGs4Cug__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-a-cybersecurity-leader-gives-insight-into-how-healthcare-can-do-better.JPG
 link: https://www.hcinnovationgroup.com/cybersecurity/article/13030979/a-cybersecurity-leader-gives-insight-into-how-healthcare-can-do-better
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-a-cybersecurity-leader-gives-insight-into-how-healthcare-can-do-better
-socialScore: 36
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

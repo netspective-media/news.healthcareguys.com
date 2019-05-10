@@ -7,11 +7,11 @@ date: 2019-03-13T10:08:55Z
 description: Agencies that would see a boost in cybersecurity-related funding under
   the proposed budget for the fiscal year that starts Oct.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18205077
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/9b060a7c403a382aed87777400065c70f6c6cef203136ca5a38eeede33cdf802/thumbnail/Anderson.jpg?Expires=1557430063&Signature=Ziy-OHmSA2oNDASLMN3mOXu4wtrEiwPbwqECnxycLRAuBYkEG0iqZ6j3IJ7tUaDQ8b-43IMcUdsGnvTWbR28STuTK-DqmCy6jS1f26n2wdsmymd9aXrs-vTdyx2EXDltD8QhvCyQs9tCcJ2VvWJI9fIjrO2ygmZ5TWF0B6CJnFm0bDTlCLgmula~MjidTVzeA8NGLmJL9Qv~tRRFDGSCZIK2~polX68siLvN1VQExNZY5~FsWSd8E8skp~98zGvtcOv65GKLqw7pF~TMcG8y2Y7uGwSoHtVRHXhYWdnvqlVyrvaYyZ7dyfTogogpvNl2YX6Pj9l0UFA7UExdfk5yJg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-showcasing-interoperability-at-himss19.jpg
 link: https://www.healthcareitnews.com/video/showcasing-interoperability-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-showcasing-interoperability-at-himss19
-socialScore: 2
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

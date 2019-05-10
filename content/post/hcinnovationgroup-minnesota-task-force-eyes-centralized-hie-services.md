@@ -5,11 +5,11 @@ categories:
 date: 2019-02-07T10:38:20Z
 description: On a frosty Jan.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672571
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/11cb58368db56ded0965897e75fdf514771e3768d14669c5fa0665e866379222/thumbnail/HIE_image.5c586b4fd124c.jpg?Expires=1557430063&Signature=O2z7-dPCyaqREz0WHPoXi3twrgnc4zK9zOIjPVvQHt07ruWzCneAVtCpfGa27BOT7lhiDxrnaDNRMi02m8vwfYlpqOou87Etk2zFZ5xfkpBJKx-vkBkQbqUspsmwLbug1eDKtEki4u~d77ISxLCml13CQDAOoX-Ryxda1zR5OrhHKWNEYrn9U3ysHTzxiHtwMTWuT2NBQFM7llgiv28JhNDRLVYN6c9F50SQCTFiv6YG9-zfPa0BgCwwq8a2pDbTwNe4hemP0cO9ZT6ygv14dWQclrYZ1UCplqjruPZRflYUWkLSTkNX8F8eB84MePhDJLi7ovoyq1sZYp9IxyizhA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-minnesota-task-force-eyes-centralized-hie-services.jpg
 link: https://www.hcinnovationgroup.com/interoperability-hie/article/21045462/minnesota-task-force-eyes-centralized-hie-services
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-minnesota-task-force-eyes-centralized-hie-services
-socialScore: 6
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

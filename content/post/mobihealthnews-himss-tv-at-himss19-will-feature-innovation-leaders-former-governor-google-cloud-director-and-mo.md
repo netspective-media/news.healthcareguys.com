@@ -6,11 +6,11 @@ date: 2019-02-04T12:08:26Z
 description: HIMSS TV, the video arm of HIMSS Media, launched last year at HIMSS18
   — and now we’re coming back for HIMSS19 in Orlando next month.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17640347
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/4ec5b0ff76a5bbe1f2894b593ccefe7bff7e9e7100f1da28efc68239359e3afc/thumbnail/_M4_3663.JPG?Expires=1557430063&Signature=PWi4rSJAzwgODiAs0eDllimiksYte1bMjywbw4gUDolj1s9D0pmJibEnoILff7En4GSzPPe4ghoJ3Ey7njO~RqX3X20zBePADin9-mMx7wUKPLHmoYLYhHLpAFoDiUZg80m4xZygZ0fVsevKKCt5hAEroz94Rh~IaKfhWU1zB358kg9MMQH5IL0laiK2-Ob5KlimvzuU1Bjk3fMTaYbugZ4waSYjHgMq-5xxwMRdGOuZVt-FmxJDO-Wm3xTCNnvTjZOBbuVOBU-dhrqDB6sDkjQ-GpPpDShZbfDyBayKQo~xbhqlvQZhbrPctd1QlPyuvtjrSD9cusLpMGh~cfRovQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-himss-tv-at-himss19-will-feature-innovation-leaders-former-governor-google-cloud-director-and-mo.JPG
 link: https://www.mobihealthnews.com/content/himss-tv-himss19-will-feature-innovation-leaders-former-us-cto-livongo-ceo-and-more
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-himss-tv-at-himss19-will-feature-innovation-leaders-former-governor-google-cloud-director-and-mo
-socialScore: 24
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

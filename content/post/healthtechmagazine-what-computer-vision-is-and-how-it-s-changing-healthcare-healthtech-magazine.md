@@ -7,11 +7,11 @@ description: 'Solving a challenge: This was the first task set out by the Mount 
   AI Consortium, a group of scientists, physicians and researchers at New York City–based
   Mount Sinai Health System dedicated to developing artificial intelligence in medicine.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/17611145
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/b1bcc4bcaa9ae9f38ff710a2eb041809274cffb3a8422147bb74ded88daa842d/thumbnail/HT_Perfcon_Computer_vision.jpg?Expires=1557430063&Signature=JBzXXwW1Qa2ATDJgjy-bT6KIfQ7w7TfQcF7VtEO39bmd5CCHDYvylM8TS33N822lZzrqkPcHBWFzuP2qtK2Der1fh9J2s0aTdpZBdONuUoHOHshblZ1lhe8w0Vxjj-WZtpiElfKoX9OwL6CaUVYQvYYGs9h8loLzs~BvFr5vHi6dm1~KGiSNidooUHBViqW6MVb~1~ISks~pWUCHCjMWhwoqMlW5fpy3R3NTLAVe1cb0tEwkda3lM-s4-pVRgbQ0-suBt23iqdh48oaa36LR34JjRJ3Rz0nKqgQKfixJbdKYQfib~KrzhVlQShiCpxyeo-u6ZpTqEY0bDVI2yVWJlw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthtechmagazine-what-computer-vision-is-and-how-it-s-changing-healthcare-healthtech-magazine.jpg
 link: https://healthtechmagazine.net/article/2019/01/computer-vision-healthcare-what-it-can-offer-providers-perfcon
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-what-computer-vision-is-and-how-it-s-changing-healthcare-healthtech-magazine
-socialScore: 35
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

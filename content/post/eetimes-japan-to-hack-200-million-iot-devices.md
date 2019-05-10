@@ -6,11 +6,11 @@ date: 2019-02-01T09:34:32Z
 description: In mid-February, the Japanese government plans to start openly hacking
   more than 200 million IoT devices already installed at home and elsewhere in Japan.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17620122
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/ac2010c2976cbb370a25238a936e705daa04fc88664a77f10538c4a28666109f/thumbnail/Tokyo-olympic-stadium-min.jpg?Expires=1557430063&Signature=CR3wbaUxbGGFu5lvRowk1-YXQHBE2OSCaomER1UhKmNh8zMra4oBJW7Pdn-sgxRzZmtnKgHkZAUglGbXM39ksSamsldydT9aX3chQ32TZ3sGRzcMYY~9H1q23KvxDfvn0fwO6aIvthB9FLQoVYLn2X2DEI3PId9Y5YnDVrqxiVIRdy6eSXK79nn5wXxpB8Fiy1qiaJlo9u0mwPye636iQFVR2Twqhz2HZPkjyfrSUjOyuITK8j764a5gNCkSxfiKRrT3rouyq76oxvcSFlCtazB1rSnC1g2DlephDbPfOTIYXveHNTNCGH2LN4EyUP85l9vYlZixb6BtsqKE9mzj6A__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/eetimes-japan-to-hack-200-million-iot-devices.jpg
 link: https://www.eetimes.com/author.asp?section_id=36&doc_id=1334266
 linkBrand: eetimes.com
 slug: eetimes-japan-to-hack-200-million-iot-devices
-socialScore: 48
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

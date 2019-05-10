@@ -5,11 +5,11 @@ categories:
 date: 2019-01-18T11:42:20Z
 description: The U.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329102
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/97ef5a1cab1f53f351edef10b48a8fbf35a2153d3545e6235f0b433c54c1fe9e/thumbnail/healthcare%20issues.JPG?Expires=1557430063&Signature=OxAFfCoMoxz4IaBzGSkReYYunR8fQC7EA~WpkS04Ws0Fh9B8Wgupkx1UciX9YIm25EC8fjQR6WzXRGKnuqd4~7wMaSNK2m7OZ7kZ-2lqJmoWJBJrLStESEu28AkZEGYLKC1IGL8cDC5ENs-9fbXGZ350R-R5vt7wjgvpiYruUAtoQZHeSCXK8diIPgVptyXu3ue8RXBy-5e-zbZnCJAq4RRW6Y5pMODWeRGMNWOme8u76~uyY1wtT9qvPvoxgP4USn-0rSq4ylp~mFhl4-CIng7hXWhn7NC2qJ1WxXuJ~fzMYhb9VT29xHj-CoykDimyk1gXhT36iAt28gq-3jruWw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-here-are-6-major-issues-facing-healthcare-in-2019-according-to-pwc.JPG
 link: https://www.healthcareitnews.com/news/here-are-6-major-issues-facing-healthcare-2019-according-pwc
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-here-are-6-major-issues-facing-healthcare-in-2019-according-to-pwc
-socialScore: 42
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

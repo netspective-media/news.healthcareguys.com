@@ -5,11 +5,11 @@ categories:
 date: 2019-02-11T13:15:24Z
 description: Some cryptocurrency exchanges mandate that customers use two-step verification.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17705138
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/d35cea44a9816f44bb5190a42f7bb3c24f5147496efec9bbdb6f8476beb5c3c7/thumbnail/doctored-photos-thieves-try-to-steal-bitcoin-showcase_image-4-a-12016.jpg?Expires=1557430063&Signature=OgOL9iCoDCtGYUUZ9VMtomdzt09zkBPql-5jn67s4Noro1j1R1yJat~PD~tXp3yvWZae5nyBBN4liqrC0yWAjbHaQ~pgaZ4fZvKY7Rbk9b88YpoBPjF4yD3RMY~4NOz5vX1sCPmBGZnQxR5wBTaAUAIPbcNQ1xLjMkGYOHh8mZ9zkT~dvLJhFZPFb-PoXGAbuE~NU2GaKf2zUhpCjC8n2~n8Zb5cb66o0vp3fSmnOM4kvb7p~EOOGLlAbyrvoXYqqI6TbBCDz5wW3Q~d8W8TMiT2f55vjJbWOjQ3Dwciwa5k4CuNNzFVVzh7TJ5oTeRdugz4SACVO5P9HhDVWHxzzA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareinfosecurity-with-doctored-photos-thieves-try-to-steal-bitcoin.jpg
 link: https://www.healthcareinfosecurity.com/doctored-photos-thieves-try-to-steal-bitcoin-a-12016
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-with-doctored-photos-thieves-try-to-steal-bitcoin
-socialScore: 42
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

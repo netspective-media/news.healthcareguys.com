@@ -8,11 +8,11 @@ description: The healthcare marketplace is evolving from a business-to-business 
   a business-to-consumer model and research shows that these consumers are overwhelmingly
   female.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17353820
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/37f377d6384e8372393db817a4f113103c3e373eb84ee389a294e3072bdb165d/thumbnail/Interoperability-and-the-Women-Leading-the-Digital-Transformation-102.jpg?Expires=1557430063&Signature=IuYDWplG~n-4UBNJVnTdn5lLbu13YidfMAvvspaNQ23hFXn~3iQ6pPrcQ-wPeja-KYBxYDALQ9iY982P4saELLHKFICnHZe-vEuMMhbxSRKQJ-fZSEXAG6AuD3BCZ8ZOdoaSptkerniF8HvlT3uUytTLGNVyQ2lq3u78RZx-2dXD3kFYJ~uXUDhePOSVvBXvvl~~bzarLZHkbMl~hpKTXlcJKCWJa5-6lNoRCYuz4VGfj4VgkZpZ23wQBiWhrbK-f2WSB0sOlb9kjTaZfHaRo5Vbuw0XtK-7DzAuqkDNHiDAabL0rEBlVH6cvC3NHwVq15AjQ~bzHdidHwgnTmMctg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/himss-interoperability-and-the-women-leading-the-digital-transformation.jpg
 link: https://www.himss.org/news/interoperability-and-women-leading-digital-transformation
 linkBrand: himss.org
 slug: himss-interoperability-and-the-women-leading-the-digital-transformation
-socialScore: 16
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ date: 2019-03-20T14:07:44Z
 description: From designing commercial trials to track-and-trace management, cloud
   computing offers several compelling use cases for pharmaceutical companies.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18270999
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/fabe7356e14beaa832c88c0c221117abcf4cd2ab035f0c552e729f47a57348eb/thumbnail/Security-HITN_12.png?Expires=1557430062&Signature=PjUPad~LOYgnI-JqbFD7qxMU9bqAZ4zNWK8RRBWkMoh~a7srg~h-ntSQcVolxKY6dnaE3hf67HYaJuU1OFdR8UjXxpRkW6c6fMvLbBGQMJ~AkLFNAhDvHZ32tU201YQdU-QVw6-IuJj2czFv9Cc6OstVrw3EAE0Jmwo4g9O6-6uNmIt~CeshEU9WYUf5beu-D76q44SN2j8wGVjE6wo0wHEWWXf9MwEAlh5UgRNDe327qGjnRV2G4l~9jAKTzkxZ1fon7DYz21f5OAfqHsd2n~BM0s6csD~qvlLvqS2NlM4JVxmg3bZPltIcTmYGybZDOEx5GoJq79gTlQbgWfa9kQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-top-pharma-use-cases-for-the-cloud.png
 link: https://www.healthcareitnews.com/news/top-pharma-use-cases-cloud
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-top-pharma-use-cases-for-the-cloud
-socialScore: 2
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ date: 2019-02-07T11:00:30Z
 description: Verily, Alphabet's life science division, is building a tech-focused
   rehab campus in Dayton, Ohio to combat the opioid crisis.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672706
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/a329db00640956a8692fdf972a95fb577a9bdd2bc2789b8c222d8c73a46548bd/thumbnail/105722440-1549456779480gettyimages-1066075990.1910x1000.jpeg?Expires=1557430063&Signature=RK~eJQX~0LbSMq6D7xoQb~UEOlnQ7rVhDEFIPyKtpueZsfDY98Zxyv8J8oUdMoIYITZZNU685LAice4MQJuViMak-IETPzV1846qEwcPYNYbLtOmt5yJGbJ10So~9Y5PBNXuKcjf3kOQzL3QMopgW9NxidNq2Wz3vkP7k4NHpJb9~SmT-iXjhQnEeisojWf6wqwpCD23h5dDkBkdC7nvDPNKXaXJJSDutPh4C55Y~2qwNdIXxxK6zGIR6tLSYIMXBa3Gh-d6y4~PM4bhhc1UQmmRw1t1nJBRc0VuNoNG1iXwHWI7GmSvrMT1D-yECYbezJs95ueafscoViZRY0omJg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/cnbc-alphabet-s-verily-building-a-rehab-campus-to-combat-opioid-addiction.jpeg
 link: https://www.cnbc.com/2019/02/06/alphabets-verily-building-a-rehab-campus-to-combat-opioid-addiction.html
 linkBrand: cnbc.com
 slug: cnbc-alphabet-s-verily-building-a-rehab-campus-to-combat-opioid-addiction
-socialScore: 12
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

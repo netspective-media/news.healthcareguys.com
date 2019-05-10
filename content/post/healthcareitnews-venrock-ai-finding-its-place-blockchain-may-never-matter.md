@@ -7,11 +7,11 @@ date: 2019-04-18T09:25:36Z
 description: “AI is slowly finding its place, while blockchain struggles as much in
   healthcare as in other segments,” Venrock noted.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18485204
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/551c7beabb9a36365acc752c4e899cc55097a5fb53704104c6b060bbb355f063/thumbnail/GettyImages-BLockchainlinks_0.jpg?Expires=1557430062&Signature=fxDozsqqybzQ-xTLopo4uMyCCJBVQKsZIGtIvgwC-ODl2HuQZTGNGFz5-R6nF5bnTxjzJs2zV~KTR14B1Ko4nLlzXYOb6m61z7vNTMPmxs7zKIA7WNpxm~DdLvybs5lBfDY2ZrWl9z9HJFSttlMsF4d-T-kukktzujh3PWbNTY5QtBFIIWJ5vUjMa8AeCHamWorXJCb4YUa2-6uPynglrVZCHMHEWlZ3R7017tnZZXukdaELuJRpbItjJwCYCcjIk~n6DH4wd36QaUf58~H~2c4T5AgBmeH1z-suswqotLkI45PDZIeEAu7L5Z2KY2ITSA3~xhakaPvhs5O2Udcx9Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-venrock-ai-finding-its-place-blockchain-may-never-matter.jpg
 link: https://www.healthcareitnews.com/news/venrock-ai-finding-its-place-blockchain-may-never-matter
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-venrock-ai-finding-its-place-blockchain-may-never-matter
-socialScore: 17
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

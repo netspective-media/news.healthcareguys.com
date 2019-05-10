@@ -10,11 +10,11 @@ description: 'Skip to main content Toggle navigation Global Edition EuropeUK Glo
   deliver high-quality care for patients by providing the optimum platforms for care
   providers, says Ali Rizwan, product manager for Solve.'
 dropmark.editURL: http://radhikan.dropmark.com/616548/17329048
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/654143c0d61547893aa8abb6bfa15ebad7890e6da0a88ab7490ae7fd1fa40f69/thumbnail/blockchain.JPG?Expires=1557430063&Signature=YZu5WT~IKj80OMFv2xVVtI~ukhgTJG3VkoTHLovzh5tWDuPqBS-HHZkKdh5j-MlYi9cL7tyc-F3vxXz69vb3Jl25ABpzrA390G8gZGwjo6KmrTNCQ7QO-7YjhnqOC4D2ZSgb07LUMQ4igXG8KShMjPFWjrFfZ4Kf3LnvU4oIeht66AixMCP5fkjuAHsU8r930bNUzCM8QYBLFLN26lJseDxXlIJtbD9~eVXiqlehSw88NvkFEmyGQ9O2PyDOLWWT-x2ftnOnEXjh9kWd20fLohksW3NZCoZ~b0SUN0Ddmvc1RzBMJdY6sJPxgGb0sbohZulpfWfBNvbHwNcNOWG78w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/mobihealthnews-blockchain-helping-providers-deliver-high-quality-care.JPG
 link: https://www.mobihealthnews.com/content/sponsored-blockchain-helping-providers-deliver-high-quality-care
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-blockchain-helping-providers-deliver-high-quality-care
-socialScore: 20
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

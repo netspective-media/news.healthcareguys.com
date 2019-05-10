@@ -8,11 +8,11 @@ description: In an attempt to study the sociotechnical factors that can shape th
   at the University of Pennsylvania School of Nursing found that nurses’ satisfaction
   with the EHR shows a correlation with their assessment of the hospital work environment.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18254619
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/04acfed8eec5fac61772081cdea6d5540d53caccfa9d20b143753a002bfc7e94/thumbnail/og_default.jpg?Expires=1557430062&Signature=KJ3vvqi9xMrq1xx5LmIEIg75mxUSb3JAVUZlogaUyZdWW6UTjuSf5z9dseEdIeGJIXi7u0fA13rJMz0a7XY9icTe~XQdHitkEwm~QGYQN1Ae8VsgwynxWDytP3KkqhSBXSQVyIl-RVfzy0mVYBsteW7ifKT76W2KWJd2b3X93sXX79r70bwzidyQ7p1BuNbhuASKg9KcNHD9FHvQbIha28bGn6zmN4Tt7ntg9LDKn466HAjEtcntL6VGjOeZNSGERjgzGqJdKK4NFzqKUBsxwrITYYTW2DfSVr2qHgQ~ajyOh5vDLyORQ1dHZFrvRAmK2hlTDfeJNYALWrpnRIi2uA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-work-environment-impacts-nurses-impression-of-successful-ehr-adoption-researchers-find.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/electronic-health-record-electronic-medical-record-ehr-emr/news/21072436/work-environment-impacts-nurses-impression-of-successful-ehr-adoption-researchers-find
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-work-environment-impacts-nurses-impression-of-successful-ehr-adoption-researchers-find
-socialScore: 28
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,11 +8,11 @@ description: Nearly two-thirds of healthcare providers rate themselves as being 
   the curve on their digital health initiatives, citing clinician resistance and interoperability
   issues as the top barriers.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18403200
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/498045f016ea0e020098c58cc0caeadb302f18103eb897ac8515e09330533638/thumbnail/og_default.jpg?Expires=1557430062&Signature=hy140b3VTYjIpN8x846U1MpzIH1aVXvBuPP~9NZI6LUfYbMxDC24Dw1RqYUDBKRIDwXKyRZcFqrlIva-FDT1sGxV9~VnztwjkiiElAyMtdC9ZIWywo~l~I~s0XnPNTiYEo-eA8Qe~Xw5VocIaaXUiNPRtHVPjRPjsEgOUlhIbXtmPrTxMb7ZL~ou10yNL4Of3VTXJ8WtpOVRcGau4WcePY53fd~UIV7LEx521ufv0bqjZoCc6QDjzIfARBksfkVBeVafaXKgX8drtMqVSnbPvNA1g0MkBd1XgwXe6nsXVBWtQGYLHdmx7hdLFZAyYy4WBet8PvcDRaT9ye6IPxnhcQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-survey-majority-of-health-it-execs-feel-behind-the-curve-on-digital-health.jpg
 link: https://www.hcinnovationgroup.com/clinical-it/news/21074830/survey-majority-of-health-it-execs-feel-behind-the-curve-on-digital-health
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-survey-majority-of-health-it-execs-feel-behind-the-curve-on-digital-health
-socialScore: 47
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

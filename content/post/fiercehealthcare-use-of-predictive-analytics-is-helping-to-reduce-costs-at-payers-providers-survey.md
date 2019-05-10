@@ -8,11 +8,11 @@ description: The use of predictive analytics at healthcare payer and provider or
   are using the technology within their organizations, according to a new survey from
   the Society of Actuaries.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18414573
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/19fadf423bd71568347b9a51368677c50da1ff8765198aaa0d64fd13a872b180/thumbnail/GettyImages-1000963820.jpg?Expires=1557430062&Signature=cr3l82xTsmRP0Jhb11xtw0vFc3AhIo3kycToqnyBbD2ES5pvzdnL37YQD4YnbD6pZGHWXL3wh8D2TrzWQjTtNiR1BYUtH2lgFTbIZ7poO4WKPCBbb99wPoGeZAKsthP5fw0zdTxT22np1osLrp0pGziEU4oex4naknNb3Wum-ebKQNbKPLWK6QW54flknuKRB41XOf2te47Zk4oNizQCOvCPgBCJOGzCQ98uSB7bqc8zSwRmaXGxbdN9LvLVFAbfbZc8VrOvJMFRO-GaFr7t-OoYWtiYdczeSuEK6lxez3WQPwUlBkcbqrTTH2pOffSHF37TfAzunc1YUqr83962hw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-use-of-predictive-analytics-is-helping-to-reduce-costs-at-payers-providers-survey.jpg
 link: https://www.fiercehealthcare.com/tech/use-predictive-analytics-helping-to-reduce-costs-at-payers-providers-survey
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-use-of-predictive-analytics-is-helping-to-reduce-costs-at-payers-providers-survey
-socialScore: 7
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

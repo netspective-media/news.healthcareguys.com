@@ -7,11 +7,11 @@ description: Radiology and medical imaging is continuously experiencing rapid en
   including quality of patient care as a result of uncovering new aspects of the vast
   potential of artificial intelligence implementation in clinical practice.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17129218
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f2c1d1d26c4c890cda054723ee440cc16b519656389ed08d3ee3d63ddc949084/thumbnail/AI.JPG?Expires=1557430064&Signature=DAFvLoj4DmDGZgY0Ynrs28wzdRN7qWf1JYpgbJtNnovn6KRomuT~6lYyOvuVDPNSTPLFSjQnIdpuLbYfEr5-t2XGov9IwzwFJmB~isuUU2QjZZVZAYXBeosdL7u38ewqZ4Vmz2xgq4IZpz9~~660Z2c45LrviEXwM8zOO-bC--B7P5hHBBbg0BGVDaZL2b0csF661t7ZxWOPYzsWnPgRDksMGoqV5X1d5k-~BW18F20g~B~XBiIwtQqWk-oaNRixZQ5prADtHKlAPPO6fJK5ZSjADxZryYR5HYMwDtofieEM6oigH0k2omw-bpUlXdNCipmlXvK5XwknbGqCAJZawA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthmanagement-hacking-the-ai-to-protect-imaging-devices.JPG
 link: https://healthmanagement.org/c/imaging/news/hacking-the-ai-to-protect-imaging-devices
 linkBrand: healthmanagement.org
 slug: healthmanagement-hacking-the-ai-to-protect-imaging-devices
-socialScore: 0
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

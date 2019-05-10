@@ -6,11 +6,10 @@ categories:
 date: 2019-01-30T13:37:37Z
 description: The healthcare industry is undergoing a major transformation.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17600677
-featuredImage: ""
 link: https://www.healthitoutcomes.com/doc/how-to-keep-hospital-ors-running-smoothly-during-m-a-integration-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-how-to-keep-hospital-ors-running-smoothly-during-ma-integration
-socialScore: 20
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

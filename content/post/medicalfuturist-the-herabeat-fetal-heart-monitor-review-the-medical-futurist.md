@@ -6,11 +6,11 @@ date: 2019-04-05T10:38:29Z
 description: Listening to the heart sounds of an unborn baby upon a visit at the doctor’s
   office is one of the most magical moments for parents to be.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18389474
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/1be774965dd2dfa0f2942b50c7511e0363f1ebcfc2bfead83f7203cf9bd008ec/thumbnail/HeraBEAT-cover.jpg?Expires=1557430062&Signature=QXqsigCiR-0ZES3w0cNjDjL4HOw8ERuygrugyH32s2rJl6tFccYOtKJCRdWSl9ELdKnwdADDviN5QYQzKGJsI6-Mt~pOy2ndQu~mpMK5lRzI~BXVhv59epqjasqZtGB6Tgo~WLairWGSWKTYeF4WiYJAoO7ahX8-AGK7PS1FVXo2G0eCI78W-hcQR7TQDnrf0upOp3s~KbCosea3ohoiDA2l1-B0TeePvuHcjJvgp2d2nydb7SNRsbAyidGOPa4xfv1z6-vN6tStM9NoPak73JNiitIQUa45k43ViVS7moYb0VTKuBXnRkPjFoiTGZ4SxOMRI5JqtQRtHIg6oE0FoQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/medicalfuturist-the-herabeat-fetal-heart-monitor-review-the-medical-futurist.jpg
 link: https://medicalfuturist.com/herabeat-fetal-heart-monitor-review
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-herabeat-fetal-heart-monitor-review-the-medical-futurist
-socialScore: 20
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

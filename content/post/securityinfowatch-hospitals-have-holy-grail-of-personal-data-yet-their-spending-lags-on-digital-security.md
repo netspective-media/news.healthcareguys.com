@@ -7,11 +7,11 @@ date: 2019-03-12T10:05:33Z
 description: CHICAGO — When most people go to the hospital, data security is the last
   thing on their minds.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18196281
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/ac052271f43a8c5b9500669f27820c41b8e8285db0a9e61c96f5a9519b9629d3/thumbnail/BIZ_RUSH_DATABREACH_TB.5c86a553cf043.jpg?Expires=1557430063&Signature=feqvDCcI-CY12xrre8LxKRJuuEU8L6CaU1fuPh-zChv9eLr7-URrmPaZTTi2Mj7-9XkjP0sJy24RD6CHvpbEbUNQvka5G4rHox3zNAD5lw5FA17~dHAkqYErnxaQRFBGXuCTZlIoZXSHFf141r1zNPmBVORsuMf9sP3yftVenxxhIWaOb4BTtCI~T0sf5JRZSVJF-K5bm-PuzuAahNUDmoyOXSeLak4mizVufonW5Gm1iy-LIk27J38pknMTByH7fxPWvEuB80yr4y9uLg-4GE4bPBh7TZNO5b1BpAJL44JqfDBZVbAkS7ayd7nOibPiGtPTpRHlPbhLEYDJuCEzbA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/securityinfowatch-hospitals-have-holy-grail-of-personal-data-yet-their-spending-lags-on-digital-security.jpg
 link: https://www.securityinfowatch.com/cybersecurity/information-security/news/21071501/hospitals-have-holy-grail-of-personal-data-yet-their-spending-lags-on-digital-security
 linkBrand: securityinfowatch.com
 slug: securityinfowatch-hospitals-have-holy-grail-of-personal-data-yet-their-spending-lags-on-digital-security
-socialScore: 2
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

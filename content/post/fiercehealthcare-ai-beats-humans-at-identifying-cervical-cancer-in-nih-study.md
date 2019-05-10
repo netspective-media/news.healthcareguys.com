@@ -7,11 +7,11 @@ description: Researchers at the National Cancer Institute developed an algorithm
   can accurately identify precancerous changes in the cervixa potential boon to low-resource
   areas that don’t have enough medical professionals.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17270406
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/3a67ec959198cbcbec71f0d2e458ec53a4e96ce4fbe0cb0cf51d187a8333700c/thumbnail/AI%20and%20cancer.JPG?Expires=1557430063&Signature=W23fzg~-XmWwtsWR6Fgz7FQ4Xrd31h1OQC7dJOv4~ueBttkGu-zGI-SuLHKawVwvDnr6vxDyAmI6BirvGNjHXDnnwg5nW1hn-ZtS6DoLxjPMUISZh9LhrD4WiFX8cYKhgmbFv2sKnqBRHhAN9UQ5AwkdWFjyRhE3rwKbqFxQf1bfys59R~sMjAU7ORoTU57uQ19ajOmKvlD0l2f6odUfXDs6xFBMxpqgBBySmXeQDN341c7FgrQ4BtwoP76zwNLeLLDZDG9CtV6nKDURjSPjLVGxMe6tMTlYnvFAPi0ROJ~XiUz3WIsmzt4p60eI6DEfnnzT-qS67d-VPzWpYPBB~g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-ai-beats-humans-at-identifying-cervical-cancer-in-nih-study.JPG
 link: https://www.fiercehealthcare.com/tech/ai-beats-humans-at-identifying-cervical-cancer-nih-study
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-ai-beats-humans-at-identifying-cervical-cancer-in-nih-study
-socialScore: 24
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

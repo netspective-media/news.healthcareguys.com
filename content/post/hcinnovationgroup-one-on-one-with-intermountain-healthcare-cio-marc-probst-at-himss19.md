@@ -8,11 +8,11 @@ description: Marc Probst has been the CIO of the Salt Lake City, Utah-based Inte
   investigating new technologies while also taking sharp notice of how the health
   IT policy landscape has changed over the years.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18016200
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/5e7e5268cc26079d8a6687f6e8b0c91cd02854cc1869cb9bf21912ee60113ce1/thumbnail/INtermountain_Healthcare.5c65ba0a8369f.jpg?Expires=1557430063&Signature=SbJVyCmEzDEcffMNfCF16uOBrQ3NXt8mrYC6UOTkG4yqbNgOa3AXi5F0Vq02BS5Ujp-VGQfht46jc6SokNdW4Y5Cb6oZO7KLFobz~~QKDAfScPdujEiqwbs6QQMp8-iO3my3JIUIxzR15o4li7P6fwjQzG1S52En3l7Dlu0-qQNMQW66R0s17fK61IKer5sghDdBBYyGmFB~~EfP7CIEONyRRrDKx3hSR7JB~iH7GbA1vfXz6fSkB2LQ0U9VFYGiuf7Sl9ZxtpaEln2sgPd~KJnB~orO4kj-R6Sq343yhMbACvQmRdYUZpklggtC2od8294M3oye~yR02HiRHHUm4Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/hcinnovationgroup-one-on-one-with-intermountain-healthcare-cio-marc-probst-at-himss19.jpg
 link: https://www.hcinnovationgroup.com/interoperability-hie/information-blocking/article/21068583/oneonone-with-intermountain-healthcare-cio-marc-probst-at-himss19
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-one-on-one-with-intermountain-healthcare-cio-marc-probst-at-himss19
-socialScore: 6
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

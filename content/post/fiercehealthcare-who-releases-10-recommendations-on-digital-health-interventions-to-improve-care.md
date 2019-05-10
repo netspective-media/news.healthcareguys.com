@@ -9,11 +9,11 @@ description: The World Health Organization (WHO) released a new list of recommen
   health technology accessible via mobile phones, tablets and computers to improve
   people’s health and essential services around the world.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18485137
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/acbc4a70400709102001381072de32b97e53b3586e4e011de691a1d6fef9adbd/thumbnail/GettyImages-927897070.jpg?Expires=1557430062&Signature=MH1h0cMoyvgT7sZsp7TX8aoaleADlALlH~J2LCO1NiwKl7X9DyMWEg5GJ77haxqjDkx3PqrToLotOff9SOodkYflpoj1OLi2Wzt~inpgK0Ceg95yPN-edPFeearDOlHz6iaHIyI6NQ38MLLkG1yMfDDNXZnP3RqhIGdMukb0lUt2OrwWlFaRGtmTkIqTniWhCd7fNOAPyhQi9mPgJSQrG35GbuPdxKQu9nT0k3UUm06QI0dTmhhzP7seK5yNnjfLAudHdjVydYoQ~fjYJUZAqELs8lxSGVk9ds43FUKexJwxse2f0vN1hrXfONlkuths7MhClDNWNAdou8Z1nppeDg__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/fiercehealthcare-who-releases-10-recommendations-on-digital-health-interventions-to-improve-care.jpg
 link: https://www.fiercehealthcare.com/tech/who-releases-10-recommendations-digital-health-interventions-to-improve-health
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-who-releases-10-recommendations-on-digital-health-interventions-to-improve-care
-socialScore: 35
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

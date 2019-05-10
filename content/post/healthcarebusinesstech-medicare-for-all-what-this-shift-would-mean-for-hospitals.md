@@ -6,11 +6,11 @@ date: 2019-05-07T14:06:43Z
 description: Medicare for All is touted by its supporters as a way to make sure every
   citizen has the opportunity to receive excellent health care.
 dropmark.editURL: http://radhikan.dropmark.com/616548/19113532
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/75cee5eb4ef22025814ba683a2c8354145f925e524bdcbd0f684d7c483e6e24f/thumbnail/GettyImages-610220632.jpg?Expires=1557430062&Signature=FY2Qd2USwXGUwERQDG7kexY2Jn6QR1svtHJS2P92I6cnQLXZAX01ub7QelsGUPisSv72mUtGx7Do1Ak7yjBTYEBXthpBESrlVE4GGXm3aXGoAf1yoju~dnL-4tCjQ0zgO0rk-19UFgXOt3yhZYyZ-2jny3mVWChVJoH~ET6BaFeuzhwXa3vuR1k7z0yrrwN~lJpYEYBN14jxCwu4zwJnTigXhW4kzBf100pITJXi1Q555fxV4BcEemplZylXGa~NjJy1AedCe3NCfZJ5rCITJEqEyTkBHyPp2T-mmvpijZ0rkwUy6oClQy1y-KOjTpGuX1t8efzDYH92SSRUnsK7iw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcarebusinesstech-medicare-for-all-what-this-shift-would-mean-for-hospitals.jpg
 link: http://www.healthcarebusinesstech.com/medicare-for-all-hospitals/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-medicare-for-all-what-this-shift-would-mean-for-hospitals
-socialScore: 31
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

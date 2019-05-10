@@ -5,11 +5,11 @@ categories:
 date: 2019-04-12T06:47:37Z
 description: MANHASSET, N.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18439965
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/f3cc0d45d042bfd01aff12f91c72900869b3a9ccac1011e6be04fe43d7b12466/thumbnail/The_Feinstein_Institute___Thomas_G_McGinn.jpg?Expires=1557429811&Signature=D-nmXuCqvDGJdEzs9EpKPL0j2cEvXlQmSz7iByTojCx-AGrmiRlUIMMFqXzXXZhsjlCPnN1Fx918i6dQNxoswnqQU63Bzd~~ygbV0pxoVavlJ5py0KuM6VurOtMq2FYVwDUyeJlbEL5Q3UT7wTrxER0xJ79Yh-iWXP5rBzKlR~TuxDY1Kxqp2a~Qrmflb0mlfGr5bgMLHobJZ75z0eZnX08eW3EBmDBNUob8BPRA3XbRYYX3p0dhpCQQNWYTWLSFHK4V3CeZesU1G0z4lMccB6LbXn7DtSW7yliKEFAv9uX6EGq2qINiAewJxdj5WrK2NsoKUPwXja7V~d4S9wln0Q__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/prnewswire-physician-researcher-awarded-federal-grant-to-bridge-evidence-and-practice-for-clinicians-via-elect.jpg
 link: https://www.prnewswire.com/news-releases/physician-researcher-awarded-federal-grant-to-bridge-evidence-and-practice-for-clinicians-via-electronic-medical-record-300829937.html
 linkBrand: prnewswire.com
 slug: prnewswire-physician-researcher-awarded-federal-grant-to-bridge-evidence-and-practice-for-clinicians-via-elect
-socialScore: 21
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -7,11 +7,11 @@ date: 2019-03-14T11:05:43Z
 description: We hear a lot about cybersecurity breaches in the news, but we’re not
   always told the cause.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18214995
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/54cee2d622c83317602dae2c4bd139b11d95d17007161a435b6bd60c42adfb8e/thumbnail/DrTexting.jpg?Expires=1557430063&Signature=EdkMYqmK2FTvt8fo4XueEwItlOFNdM6WuA5OoSkmXEAYHgWmnFwc2q~42N1GYnPQ-rhoZNFQbE9Qzjyyjc9DS4yDySlKIdyuN756rqgiYU91XPP2IhYUNX4qa-513Rhdl0axe8zlQ-Eu1tPF-yJ9sl680LI02sFs5U7EtbtiXYAyb2BZEk3zMxJep-aMXAzdDrAxTPSPw6tN4JDkP9hAW6iP6Embljh81T~VPUXjKsL4RpuSaUK0LmHYvHHGtS1eyyTij1OW2ujtPwapAHkrnQZGEm35zPqtg0X6GEZP69owq~28jvJCLtAHuFXYjyRAix4tIda74MTCeaNongSPbQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthcareitnews-remote-patient-care-how-secure-is-your-mobile-data.jpg
 link: https://www.healthcareitnews.com/news/remote-patient-care-how-secure-your-mobile-data
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-remote-patient-care-how-secure-is-your-mobile-data
-socialScore: 12
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

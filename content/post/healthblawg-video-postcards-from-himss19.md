@@ -6,11 +6,11 @@ date: 2019-02-13T10:15:48Z
 description: On site at the HIMSS conference in Orlando I’ll be speaking with a cross-section
   of folks about trends in health IT.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17823569
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/85dbdc419c88361ae260ca2270894995051f74741e0b6f314f95b3a2aca7af0c/thumbnail/Florida-Postcard-3-1024x546.jpg?Expires=1557430063&Signature=ki8obTAY1hYnNkY2TUPKCC2r6nc6fFz8FfnDPJ3tP~daHE6juVjI1-yGbUUNHBcJeYWPCCU7hCuZrPbKM-qqiSavZTQ~um4wOKuxPh45t05ShtCJZznD7xq1lAWOolzCG5ni-s1R5sgo8kz9ABgaOGUm3aMdVgcThBUXM20ze49AKrLz7tCMbSFErPu-FSiie-6WgJRGR-5OZ7EdT3kg9oX9xbJpeuzOe0odbYfRZuEVi1l4rutyTCpLOAN2iRBQPLCxn1S0jMkCFddyiNiOE0ECVNKOiaufnaCPTe2zzKuwiwDa6xbnhf1xSBv4XccwlCMz5wXmkR1PrQwlWfh0OA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/healthblawg-video-postcards-from-himss19.jpg
 link: https://healthblawg.com/2019/02/video-postcards-from-himss19.html
 linkBrand: healthblawg.com
 slug: healthblawg-video-postcards-from-himss19
-socialScore: 28
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark
