@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17592965
 link: https://www.imedicalapps.com/2019/01/download-these-medical-apps-for-ios-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-download-these-medical-apps-for-ios-this-week-imedicalapps
-socialScore: 14
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

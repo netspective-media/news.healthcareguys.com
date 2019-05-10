@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-report-global-telemedicine-marke
 link: https://www.mobihealthnews.com/content/report-global-telemedicine-market-will-hit-130b-2025
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-report-global-telemedicine-market-will-hit-130b-by-2025
-socialScore: 3
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

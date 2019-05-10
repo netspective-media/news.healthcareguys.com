@@ -8,7 +8,7 @@ featuredImage: /img/content/post/bizcommunity-fantastic-ethical-hackers-and-wher
 link: https://www.bizcommunity.com/Article/1/661/190163.html
 linkBrand: bizcommunity.com
 slug: bizcommunity-fantastic-ethical-hackers-and-where-to-find-them
-socialScore: 46
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-interview-with-robert-scoble-vi
 link: https://medicalfuturist.com/robert-scoble-great-thinkers
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-interview-with-robert-scoble-virtual-reality-expert
-socialScore: 44
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-ai-powered-cloud-based-cervical-
 link: https://www.mobihealthnews.com/content/ai-powered-cloud-based-cervical-cancer-screening-platform-launched-china
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ai-powered-cloud-based-cervical-cancer-screening-platform-launched-in-china
-socialScore: 2
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

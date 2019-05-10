@@ -9,7 +9,7 @@ featuredImage: /img/content/post/hcinnovationgroup-ahrq-to-fund-up-to-8-patient-
 link: https://www.hcinnovationgroup.com/clinical-it/patient-safety/news/21070429/ahrq-to-fund-up-to-8-patient-safety-learning-laboratories-in-2019
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-ahrq-to-fund-up-to-8-patient-safety-learning-laboratories-in-2019
-socialScore: 37
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthtechmagazine-professionals-and-patients-g
 link: https://healthtechmagazine.net/article/2019/01/healthcare-professionals-and-patients-grow-more-comfortable-wearable-data
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-professionals-and-patients-grow-more-comfortable-with-wearable-health-data
-socialScore: 28
+socialScore: 19
 socialScoreSimulated: true
 source:
   name: Dropmark

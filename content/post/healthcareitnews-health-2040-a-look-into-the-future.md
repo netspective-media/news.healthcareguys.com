@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-health-2040-a-look-into-the-fu
 link: https://www.healthcareitnews.com/news/health-2040-look-future
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-health-2040-a-look-into-the-future
-socialScore: 41
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

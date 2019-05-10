@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-health-systems-get-failing-gra
 link: https://www.fiercehealthcare.com/tech/healthcare-organizations-falling-short-nist-cybersecurity-best-practices-report
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-health-systems-get-failing-grade-when-it-comes-to-nist-cybersecurity-best-practices-report
-socialScore: 40
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

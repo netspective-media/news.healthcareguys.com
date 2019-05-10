@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-showcasing-interoperability-at
 link: https://www.healthcareitnews.com/video/showcasing-interoperability-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-showcasing-interoperability-at-himss19
-socialScore: 29
+socialScore: 30
 socialScoreSimulated: true
 source:
   name: Dropmark

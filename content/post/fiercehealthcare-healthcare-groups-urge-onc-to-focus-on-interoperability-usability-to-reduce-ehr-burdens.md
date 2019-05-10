@@ -13,7 +13,7 @@ featuredImage: /img/content/post/fiercehealthcare-healthcare-groups-urge-onc-to-
 link: https://www.fiercehealthcare.com/tech/healthcare-groups-urge-onc-to-focus-interoperability-usability-to-reduce-ehr-burdens
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-healthcare-groups-urge-onc-to-focus-on-interoperability-usability-to-reduce-ehr-burdens
-socialScore: 33
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

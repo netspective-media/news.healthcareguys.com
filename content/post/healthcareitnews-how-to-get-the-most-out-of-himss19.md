@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-how-to-get-the-most-out-of-him
 link: https://www.healthcareitnews.com/video/how-get-most-out-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-to-get-the-most-out-of-himss19
-socialScore: 43
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

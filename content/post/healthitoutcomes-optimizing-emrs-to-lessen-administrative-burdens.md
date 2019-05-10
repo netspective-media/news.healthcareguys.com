@@ -10,7 +10,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17680676
 link: https://www.healthitoutcomes.com/doc/optimizing-emrs-to-lessen-administrative-burdens-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-optimizing-emrs-to-lessen-administrative-burdens
-socialScore: 2
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

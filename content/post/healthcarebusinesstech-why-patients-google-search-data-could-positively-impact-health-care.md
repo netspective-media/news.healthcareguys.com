@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-why-patients-google-sear
 link: http://www.healthcarebusinesstech.com/google-search-health-care/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-why-patients-google-search-data-could-positively-impact-health-care
-socialScore: 18
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

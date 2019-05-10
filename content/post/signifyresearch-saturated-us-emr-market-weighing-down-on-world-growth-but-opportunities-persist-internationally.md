@@ -7,7 +7,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18686973
 link: https://www.signifyresearch.net/digital-health/electronic-health-records-ehremr-market-saturated-us-weighing-world-growth-opportunities-persist-international-level/
 linkBrand: signifyresearch.net
 slug: signifyresearch-saturated-us-emr-market-weighing-down-on-world-growth-but-opportunities-persist-internationally
-socialScore: 40
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

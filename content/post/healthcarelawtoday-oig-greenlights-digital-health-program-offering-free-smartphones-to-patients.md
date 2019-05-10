@@ -13,7 +13,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17654298
 link: https://www.healthcarelawtoday.com/2019/02/04/oig-greenlights-digital-health-program-offering-free-smartphones-to-patients/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-oig-greenlights-digital-health-program-offering-free-smartphones-to-patients
-socialScore: 0
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

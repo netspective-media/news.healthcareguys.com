@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-white-house-report-highlights-ke
 link: https://www.mobihealthnews.com/content/white-house-report-highlights-key-focuses-healthy-aging-tech-research
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-white-house-report-highlights-key-focuses-for-healthy-aging-tech-research
-socialScore: 46
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

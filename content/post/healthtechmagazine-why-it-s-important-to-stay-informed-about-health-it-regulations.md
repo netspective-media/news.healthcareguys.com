@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-why-it-s-important-to-stay-i
 link: https://healthtechmagazine.net/article/2019/03/why-its-important-stay-informed-about-health-it-regulations
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-why-it-s-important-to-stay-informed-about-health-it-regulations
-socialScore: 32
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

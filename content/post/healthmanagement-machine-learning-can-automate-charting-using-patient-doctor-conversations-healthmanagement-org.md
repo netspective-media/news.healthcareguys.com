@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-machine-learning-can-automate-
 link: https://healthmanagement.org/c/imaging/news/machine-learning-can-automate-charting-using-patient-doctor-conversations
 linkBrand: healthmanagement.org
 slug: healthmanagement-machine-learning-can-automate-charting-using-patient-doctor-conversations-healthmanagement-org
-socialScore: 3
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

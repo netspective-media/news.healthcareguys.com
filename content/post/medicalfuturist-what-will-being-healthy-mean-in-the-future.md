@@ -12,7 +12,7 @@ featuredImage: /img/content/post/medicalfuturist-what-will-being-healthy-mean-in
 link: https://medicalfuturist.com/what-will-being-healthy-mean-in-the-future
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-what-will-being-healthy-mean-in-the-future
-socialScore: 36
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

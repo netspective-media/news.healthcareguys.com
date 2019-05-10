@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-23andme-launches-predisposition-
 link: https://www.mobihealthnews.com/content/23andme-launches-predisposition-test-type-2-diabetes
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-23andme-launches-predisposition-test-for-type-2-diabetes
-socialScore: 24
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

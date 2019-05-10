@@ -13,7 +13,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-a-vision-of-the-role-for
 link: https://www.healthcareinfosecurity.com/vision-role-for-machines-in-security-a-12124
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-a-vision-of-the-role-for-machines-in-security
-socialScore: 6
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

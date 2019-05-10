@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-why-effective-tech-must-be-usa
 link: https://www.healthcareitnews.com/video/why-effective-tech-must-be-usable-patient-bedside
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-why-effective-tech-must-be-usable-at-the-patient-bedside
-socialScore: 34
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

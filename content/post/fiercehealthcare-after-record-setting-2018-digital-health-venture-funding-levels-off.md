@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-after-record-setting-2018-digi
 link: https://www.fiercehealthcare.com/tech/after-record-setting-2018-digital-health-venture-funding-levels-off
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-after-record-setting-2018-digital-health-venture-funding-levels-off
-socialScore: 2
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

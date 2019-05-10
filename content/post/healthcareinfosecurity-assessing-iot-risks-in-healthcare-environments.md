@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-assessing-iot-risks-in-h
 link: https://www.healthcareinfosecurity.com/interviews/assessing-iot-risks-in-healthcare-environments-i-4246
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-assessing-iot-risks-in-healthcare-environments
-socialScore: 35
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

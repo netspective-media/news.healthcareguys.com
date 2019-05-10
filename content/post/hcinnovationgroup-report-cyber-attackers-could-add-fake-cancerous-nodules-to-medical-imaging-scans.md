@@ -14,7 +14,7 @@ featuredImage: /img/content/post/hcinnovationgroup-report-cyber-attackers-could-
 link: https://www.hcinnovationgroup.com/cybersecurity/news/21074870/report-cyber-attackers-could-add-fake-cancerous-nodules-to-medical-imaging-scans
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-report-cyber-attackers-could-add-fake-cancerous-nodules-to-medical-imaging-scans
-socialScore: 21
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

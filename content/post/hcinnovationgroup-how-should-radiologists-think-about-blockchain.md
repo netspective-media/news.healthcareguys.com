@@ -11,7 +11,7 @@ featuredImage: /img/content/post/hcinnovationgroup-how-should-radiologists-think
 link: https://www.hcinnovationgroup.com/imaging/article/21074263/how-should-radiologists-think-about-blockchain
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-how-should-radiologists-think-about-blockchain
-socialScore: 24
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthmanagement-new-cybersecurity-guidelines-t
 link: https://healthmanagement.org/c/hospital/news/new-cybersecurity-guidelines-to-fight-hacking
 linkBrand: healthmanagement.org
 slug: healthmanagement-new-cybersecurity-guidelines-to-fight-hacking-healthmanagement-org
-socialScore: 32
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

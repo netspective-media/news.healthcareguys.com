@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18520566
 link: https://www.healthcarelawtoday.com/2019/04/22/arizona-governor-signs-new-telehealth-insurance-law/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-arizona-governor-signs-new-telehealth-insurance-law
-socialScore: 43
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

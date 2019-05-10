@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-medical-imaging-company-to-pay
 link: https://www.fiercehealthcare.com/tech/medical-imaging-company-to-pay-3m-to-settle-hipaa-breach-impacting-300k-patients
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-medical-imaging-company-to-pay-3m-to-settle-hipaa-breach-impacting-300k-patients
-socialScore: 9
+socialScore: 49
 socialScoreSimulated: true
 source:
   name: Dropmark

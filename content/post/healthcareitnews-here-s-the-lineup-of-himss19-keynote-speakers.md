@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-here-s-the-lineup-of-himss19-k
 link: https://www.healthcareitnews.com/news/here%E2%80%99s-lineup-himss19-keynote-speakers
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-here-s-the-lineup-of-himss19-keynote-speakers
-socialScore: 26
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

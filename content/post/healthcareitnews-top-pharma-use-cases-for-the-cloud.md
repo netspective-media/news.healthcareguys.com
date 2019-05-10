@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-top-pharma-use-cases-for-the-c
 link: https://www.healthcareitnews.com/news/top-pharma-use-cases-cloud
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-top-pharma-use-cases-for-the-cloud
-socialScore: 34
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

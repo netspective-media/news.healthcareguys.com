@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-how-could-digital-tools-help-fi
 link: https://medicalfuturist.com/how-to-fight-against-anti-vaccination
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-how-could-digital-tools-help-fight-against-anti-vaccination
-socialScore: 49
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -12,7 +12,7 @@ featuredImage: /img/content/post/linkedin-aha-chime-offer-1-or-2-day-innovation-
 link: https://www.linkedin.com/pulse/aha-chime-offer-1-2-day-innovation-immersion-courses-mike-squires/
 linkBrand: linkedin.com
 slug: linkedin-aha-chime-offer-1-or-2-day-innovation-immersion-courses
-socialScore: 3
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

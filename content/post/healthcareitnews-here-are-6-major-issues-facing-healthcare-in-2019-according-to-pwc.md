@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareitnews-here-are-6-major-issues-facing
 link: https://www.healthcareitnews.com/news/here-are-6-major-issues-facing-healthcare-2019-according-pwc
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-here-are-6-major-issues-facing-healthcare-in-2019-according-to-pwc
-socialScore: 12
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

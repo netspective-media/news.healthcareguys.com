@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-berkeley-uses-deep-learning-to
 link: https://www.healthcareitnews.com/news/berkeley-uses-deep-learning-address-suicide-risks-among-veterans
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-berkeley-uses-deep-learning-to-address-suicide-risks-among-veterans
-socialScore: 21
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

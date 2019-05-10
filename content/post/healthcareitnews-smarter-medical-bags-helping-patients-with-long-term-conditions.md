@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-smarter-medical-bags-helping-p
 link: https://www.healthcareitnews.com/video/smarter-medical-bags-helping-patients-long-term-conditions
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-smarter-medical-bags-helping-patients-with-long-term-conditions
-socialScore: 27
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

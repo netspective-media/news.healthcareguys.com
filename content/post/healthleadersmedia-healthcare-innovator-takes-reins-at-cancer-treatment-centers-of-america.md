@@ -8,7 +8,7 @@ featuredImage: /img/content/post/healthleadersmedia-healthcare-innovator-takes-r
 link: https://www.healthleadersmedia.com/clinical-care/healthcare-innovator-takes-reins-cancer-treatment-centers-america
 linkBrand: healthleadersmedia.com
 slug: healthleadersmedia-healthcare-innovator-takes-reins-at-cancer-treatment-centers-of-america
-socialScore: 36
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

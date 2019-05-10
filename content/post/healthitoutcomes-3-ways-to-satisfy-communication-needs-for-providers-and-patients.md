@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18093616
 link: https://www.healthitoutcomes.com/doc/ways-to-satisfy-communication-needs-for-providers-and-patients-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-3-ways-to-satisfy-communication-needs-for-providers-and-patients
-socialScore: 1
+socialScore: 49
 socialScoreSimulated: true
 source:
   name: Dropmark

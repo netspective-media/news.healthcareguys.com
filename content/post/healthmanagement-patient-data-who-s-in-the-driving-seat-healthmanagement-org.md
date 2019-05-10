@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-patient-data-who-s-in-the-driv
 link: https://healthmanagement.org/c/it/news/patient-data-who-s-in-the-driving-seat
 linkBrand: healthmanagement.org
 slug: healthmanagement-patient-data-who-s-in-the-driving-seat-healthmanagement-org
-socialScore: 1
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

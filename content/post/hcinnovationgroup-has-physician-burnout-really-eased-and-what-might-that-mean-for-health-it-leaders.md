@@ -13,7 +13,7 @@ featuredImage: /img/content/post/hcinnovationgroup-has-physician-burnout-really-
 link: https://www.hcinnovationgroup.com/clinical-it/physician-burnout/blog/21069855/has-physician-burnout-really-eased-and-what-might-that-mean-for-health-it-leaders
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-has-physician-burnout-really-eased-and-what-might-that-mean-for-health-it-leaders
-socialScore: 41
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

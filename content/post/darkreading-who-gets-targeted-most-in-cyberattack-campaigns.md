@@ -8,7 +8,7 @@ featuredImage: /img/content/post/darkreading-who-gets-targeted-most-in-cyberatta
 link: https://www.darkreading.com/vulnerabilities---threats/who-gets-targeted-most-in-cyberattack-campaigns/d/d-id/1334494
 linkBrand: darkreading.com
 slug: darkreading-who-gets-targeted-most-in-cyberattack-campaigns
-socialScore: 19
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

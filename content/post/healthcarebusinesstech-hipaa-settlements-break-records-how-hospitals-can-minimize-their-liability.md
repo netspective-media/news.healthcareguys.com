@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-hipaa-settlements-break-
 link: http://www.healthcarebusinesstech.com/hipaa-settlement-hospitals/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-hipaa-settlements-break-records-how-hospitals-can-minimize-their-liability
-socialScore: 33
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

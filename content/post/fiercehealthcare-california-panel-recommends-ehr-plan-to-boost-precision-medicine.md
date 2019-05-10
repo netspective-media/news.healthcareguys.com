@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-california-panel-recommends-eh
 link: https://www.fiercehealthcare.com/tech/panel-recommends-unified-california-patient-record-to-boost-precision-medicine
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-california-panel-recommends-ehr-plan-to-boost-precision-medicine
-socialScore: 33
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

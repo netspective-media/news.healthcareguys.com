@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-genetic-data-interpretation-star
 link: https://www.mobihealthnews.com/content/genetic-data-interpretation-startup-raises-6m
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-genetic-data-interpretation-startup-raises-6m
-socialScore: 4
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-how-telehealth-can-improve-h
 link: https://healthtechmagazine.net/article/2019/02/how-telehealth-can-improve-heart-disease-management
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-how-telehealth-can-improve-heart-disease-management
-socialScore: 37
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-from-human-to-cyborg-are-you-wi
 link: https://medicalfuturist.com/from-human-to-cyborg
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-from-human-to-cyborg-are-you-willing-to-augment-your-body-the-medical-futurist
-socialScore: 25
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

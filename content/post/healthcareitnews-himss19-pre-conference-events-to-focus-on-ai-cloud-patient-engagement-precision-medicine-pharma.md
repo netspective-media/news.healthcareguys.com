@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-himss19-pre-conference-events-
 link: https://www.healthcareitnews.com/news/himss19-pre-conference-events-focus-ai-cloud-patient-engagement-precision-medicine-pharma-and
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-pre-conference-events-to-focus-on-ai-cloud-patient-engagement-precision-medicine-pharma
-socialScore: 49
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

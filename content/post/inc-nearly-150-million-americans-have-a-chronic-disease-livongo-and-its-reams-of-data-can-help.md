@@ -7,7 +7,7 @@ featuredImage: /img/content/post/inc-nearly-150-million-americans-have-a-chronic
 link: https://www.inc.com/magazine/201905/bill-saporito/livongo-diabetes-devices-data-analytics-digital-health-care.html?cid=hmhero
 linkBrand: inc.com
 slug: inc-nearly-150-million-americans-have-a-chronic-disease-livongo-and-its-reams-of-data-can-help
-socialScore: 40
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

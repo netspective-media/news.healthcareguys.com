@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-what-the-future-of-cloud-compu
 link: https://www.healthcareitnews.com/news/what-future-cloud-computing-holds-health-insurance-companies
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-what-the-future-of-cloud-computing-holds-for-health-insurance-companies
-socialScore: 44
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

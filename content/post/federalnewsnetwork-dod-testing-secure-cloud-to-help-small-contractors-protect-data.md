@@ -12,7 +12,7 @@ featuredImage: /img/content/post/federalnewsnetwork-dod-testing-secure-cloud-to-
 link: https://federalnewsnetwork.com/defense-news/2019/03/dod-will-test-secure-cloud/
 linkBrand: federalnewsnetwork.com
 slug: federalnewsnetwork-dod-testing-secure-cloud-to-help-small-contractors-protect-data
-socialScore: 29
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

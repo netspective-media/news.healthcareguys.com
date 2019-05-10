@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-ehr-challenges-information-ove
 link: https://www.healthcareitnews.com/news/ehr-challenges-information-overload-often-lead-staff-workarounds
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-ehr-challenges-information-overload-often-lead-to-staff-workarounds
-socialScore: 15
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

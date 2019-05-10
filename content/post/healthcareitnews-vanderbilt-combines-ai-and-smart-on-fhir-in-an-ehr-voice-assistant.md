@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-vanderbilt-combines-ai-and-sma
 link: https://www.healthcareitnews.com/news/vanderbilt-combines-ai-and-smart-fhir-ehr-voice-assistant
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-vanderbilt-combines-ai-and-smart-on-fhir-in-an-ehr-voice-assistant
-socialScore: 31
+socialScore: 30
 socialScoreSimulated: true
 source:
   name: Dropmark

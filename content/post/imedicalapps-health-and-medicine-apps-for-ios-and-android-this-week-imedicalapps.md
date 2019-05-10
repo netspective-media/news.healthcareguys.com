@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18004481
 link: https://www.imedicalapps.com/2019/02/health-and-medicine-apps-for-ios-and-android-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-health-and-medicine-apps-for-ios-and-android-this-week-imedicalapps
-socialScore: 43
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

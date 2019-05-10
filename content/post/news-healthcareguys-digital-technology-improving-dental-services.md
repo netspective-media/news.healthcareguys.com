@@ -12,7 +12,7 @@ featuredImage: /img/content/post/news-healthcareguys-digital-technology-improvin
 link: https://news.healthcareguys.com/sub/digital-technology-improving-dental-services/
 linkBrand: news.healthcareguys.com
 slug: news-healthcareguys-digital-technology-improving-dental-services
-socialScore: 4
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

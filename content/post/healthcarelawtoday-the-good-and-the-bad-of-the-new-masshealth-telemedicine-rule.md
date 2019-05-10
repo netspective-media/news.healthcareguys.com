@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18128078
 link: https://www.healthcarelawtoday.com/2019/03/04/good-bad-new-masshealth-telemedicine-rule/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-the-good-and-the-bad-of-the-new-masshealth-telemedicine-rule
-socialScore: 46
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

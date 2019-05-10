@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17704991
 link: https://www.imedicalapps.com/2019/02/must-have-android-apps-for-doctors-and-nurses/
 linkBrand: imedicalapps.com
 slug: imedicalapps-must-have-android-apps-for-doctors-and-nurses-imedicalapps
-socialScore: 17
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

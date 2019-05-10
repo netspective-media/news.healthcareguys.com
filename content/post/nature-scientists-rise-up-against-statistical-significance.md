@@ -5,10 +5,10 @@ description: Valentin Amrhein, Sander Greenland, Blake McShane and more than 800
   call for an end to hyped claims and the dismissal of possibly crucial effects.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18507637
 featuredImage: /img/content/post/nature-scientists-rise-up-against-statistical-significance.jpg
-link: https://www.nature.com/articles/d41586-019-00857-9?error=cookies_not_supported&code=5c63d8e5-3edf-40d8-a496-7d8312ae47ee
+link: https://www.nature.com/articles/d41586-019-00857-9?error=cookies_not_supported&code=67b985ea-9554-4acd-805b-5300976ae27b
 linkBrand: nature.com
 slug: nature-scientists-rise-up-against-statistical-significance
-socialScore: 39
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

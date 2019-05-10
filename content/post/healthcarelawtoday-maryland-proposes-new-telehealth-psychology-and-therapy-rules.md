@@ -12,7 +12,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18364903
 link: https://www.healthcarelawtoday.com/2019/04/02/maryland-proposes-new-telehealth-psychology-and-therapy-rules/
 linkBrand: healthcarelawtoday.com
 slug: healthcarelawtoday-maryland-proposes-new-telehealth-psychology-and-therapy-rules
-socialScore: 19
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

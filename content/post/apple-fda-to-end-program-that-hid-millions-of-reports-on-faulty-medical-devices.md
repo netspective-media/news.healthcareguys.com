@@ -6,7 +6,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/19111743
 link: https://apple.news/A5u53fosTQQiFqXM4p0HYBA
 linkBrand: apple.news
 slug: apple-fda-to-end-program-that-hid-millions-of-reports-on-faulty-medical-devices
-socialScore: 36
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

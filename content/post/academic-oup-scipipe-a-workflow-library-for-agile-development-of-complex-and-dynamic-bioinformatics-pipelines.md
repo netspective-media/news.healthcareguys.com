@@ -9,7 +9,7 @@ featuredImage: /img/content/post/academic-oup-scipipe-a-workflow-library-for-agi
 link: https://academic.oup.com/gigascience/article/8/5/giz044/5480570
 linkBrand: academic.oup.com
 slug: academic-oup-scipipe-a-workflow-library-for-agile-development-of-complex-and-dynamic-bioinformatics-pipelines
-socialScore: 29
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

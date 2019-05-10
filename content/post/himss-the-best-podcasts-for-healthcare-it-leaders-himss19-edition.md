@@ -10,7 +10,7 @@ featuredImage: /img/content/post/himss-the-best-podcasts-for-healthcare-it-leade
 link: https://www.himss.org/news/best-podcasts-healthcare-it-leaders-himss19-edition
 linkBrand: himss.org
 slug: himss-the-best-podcasts-for-healthcare-it-leaders-himss19-edition
-socialScore: 45
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

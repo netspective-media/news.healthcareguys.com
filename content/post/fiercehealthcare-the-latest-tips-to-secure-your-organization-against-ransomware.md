@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-the-latest-tips-to-secure-your
 link: https://www.fiercehealthcare.com/hospitals-health-systems/industry-voices-latest-tips-you-need-to-secure-your-organization-against
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-the-latest-tips-to-secure-your-organization-against-ransomware
-socialScore: 44
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

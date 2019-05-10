@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthblawg-video-postcards-from-himss19.jpg
 link: https://healthblawg.com/2019/02/video-postcards-from-himss19.html
 linkBrand: healthblawg.com
 slug: healthblawg-video-postcards-from-himss19
-socialScore: 26
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

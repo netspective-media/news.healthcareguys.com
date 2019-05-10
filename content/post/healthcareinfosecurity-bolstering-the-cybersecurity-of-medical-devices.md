@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-bolstering-the-cybersecu
 link: https://www.healthcareinfosecurity.com/interviews/bolstering-cybersecurity-medical-devices-i-4241
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-bolstering-the-cybersecurity-of-medical-devices
-socialScore: 16
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

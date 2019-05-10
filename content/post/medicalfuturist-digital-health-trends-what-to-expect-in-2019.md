@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-digital-health-trends-what-to-e
 link: https://medicalfuturist.com/digital-health-trends-what-to-expect-in-2019
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-digital-health-trends-what-to-expect-in-2019
-socialScore: 25
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

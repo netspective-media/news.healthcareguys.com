@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareitnews-himss-writes-new-definition-of
 link: https://www.healthcareitnews.com/news/himss-writes-new-definition-interoperability
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss-writes-new-definition-of-interoperability
-socialScore: 0
+socialScore: 41
 socialScoreSimulated: true
 source:
   name: Dropmark

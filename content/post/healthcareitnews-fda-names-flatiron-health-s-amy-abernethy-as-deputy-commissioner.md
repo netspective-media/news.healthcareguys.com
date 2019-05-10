@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareitnews-fda-names-flatiron-health-s-am
 link: https://www.healthcareitnews.com/news/fda-names-flatiron-health%E2%80%99s-amy-abernethy-deputy-commissioner
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-fda-names-flatiron-health-s-amy-abernethy-as-deputy-commissioner
-socialScore: 30
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

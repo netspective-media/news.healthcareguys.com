@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-after-interoperability-fhir-is
 link: https://www.healthcareitnews.com/news/after-interoperability-fhir-gateway-ai
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-after-interoperability-fhir-is-the-gateway-for-ai
-socialScore: 44
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

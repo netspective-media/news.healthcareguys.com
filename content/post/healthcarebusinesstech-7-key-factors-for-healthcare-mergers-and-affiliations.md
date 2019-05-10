@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-7-key-factors-for-health
 link: http://www.healthcarebusinesstech.com/7-key-factors-for-healthcare-mergers-and-affiliations/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-7-key-factors-for-healthcare-mergers-and-affiliations
-socialScore: 20
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

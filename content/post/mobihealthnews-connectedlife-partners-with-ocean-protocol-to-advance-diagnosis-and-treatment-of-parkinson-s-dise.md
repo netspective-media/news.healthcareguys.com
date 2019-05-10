@@ -12,7 +12,7 @@ featuredImage: /img/content/post/mobihealthnews-connectedlife-partners-with-ocea
 link: https://www.mobihealthnews.com/content/connectedlife-partners-ocean-protocol-advance-diagnosis-and-treatment-parkinson%E2%80%99s-disease
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-connectedlife-partners-with-ocean-protocol-to-advance-diagnosis-and-treatment-of-parkinson-s-dise
-socialScore: 31
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

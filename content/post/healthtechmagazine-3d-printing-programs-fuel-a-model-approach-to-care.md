@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthtechmagazine-3d-printing-programs-fuel-a-
 link: https://healthtechmagazine.net/article/2019/03/3d-printing-programs-fuel-model-approach-care
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-3d-printing-programs-fuel-a-model-approach-to-care
-socialScore: 18
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

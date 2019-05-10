@@ -11,7 +11,7 @@ featuredImage: /img/content/post/edscoop-phishing-scam-exposes-personal-medical-
 link: https://edscoop.com/phishing-scam-exposes-personal-medical-information-at-central-california-school-district/
 linkBrand: edscoop.com
 slug: edscoop-phishing-scam-exposes-personal-medical-information-at-central-california-school-districts
-socialScore: 43
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

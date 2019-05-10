@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-interoperability-was-a-huge-fi
 link: https://www.healthcareitnews.com/video/interoperability-was-huge-fight-20-years-ago
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-interoperability-was-a-huge-fight-20-years-ago
-socialScore: 47
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

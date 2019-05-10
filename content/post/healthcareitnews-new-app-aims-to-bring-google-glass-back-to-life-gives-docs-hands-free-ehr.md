@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-new-app-aims-to-bring-google-g
 link: https://www.healthcareitnews.com/news/new-app-aims-bring-google-glass-back-life-gives-docs-hands-free-ehr
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-new-app-aims-to-bring-google-glass-back-to-life-gives-docs-hands-free-ehr
-socialScore: 9
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/beckershospitalreview-pew-poor-ehr-usability-ca
 link: https://www.beckershospitalreview.com/ehrs/pew-poor-ehr-usability-can-provoke-drug-treatment-errors-for-pediatric-patients.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-pew-poor-ehr-usability-can-provoke-drug-treatment-errors-for-pediatric-patients
-socialScore: 5
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

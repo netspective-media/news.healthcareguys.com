@@ -9,7 +9,7 @@ featuredImage: /img/content/post/beckershospitalreview-1-in-4-outpatient-provide
 link: https://www.beckershospitalreview.com/ehrs/1-in-4-outpatient-providers-are-thinking-of-replacing-ehr-survey-finds.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-1-in-4-outpatient-providers-are-thinking-of-replacing-ehr-survey-finds
-socialScore: 40
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

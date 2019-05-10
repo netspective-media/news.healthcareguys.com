@@ -12,7 +12,7 @@ featuredImage: /img/content/post/himss-interoperability-and-the-women-leading-th
 link: https://www.himss.org/news/interoperability-and-women-leading-digital-transformation
 linkBrand: himss.org
 slug: himss-interoperability-and-the-women-leading-the-digital-transformation
-socialScore: 8
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

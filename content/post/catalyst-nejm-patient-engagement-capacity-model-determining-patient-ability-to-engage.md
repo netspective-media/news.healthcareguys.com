@@ -6,7 +6,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18695381
 link: https://catalyst.nejm.org/patient-engagement-capacity-model/
 linkBrand: catalyst.nejm.org
 slug: catalyst-nejm-patient-engagement-capacity-model-determining-patient-ability-to-engage
-socialScore: 36
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

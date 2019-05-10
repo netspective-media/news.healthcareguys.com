@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17712709
 link: https://www.healthitoutcomes.com/doc/unique-challenges-in-healthcare-recruiting-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-4-unique-challenges-in-healthcare-recruiting
-socialScore: 48
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

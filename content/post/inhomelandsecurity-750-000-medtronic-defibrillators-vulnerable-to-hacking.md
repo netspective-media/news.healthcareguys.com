@@ -12,7 +12,7 @@ featuredImage: /img/content/post/inhomelandsecurity-750-000-medtronic-defibrilla
 link: https://inhomelandsecurity.com/750000-medtronic-defibrillators-vulnerable-to-hacking/
 linkBrand: inhomelandsecurity.com
 slug: inhomelandsecurity-750-000-medtronic-defibrillators-vulnerable-to-hacking
-socialScore: 16
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

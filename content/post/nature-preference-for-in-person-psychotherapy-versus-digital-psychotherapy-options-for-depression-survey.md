@@ -6,10 +6,10 @@ date: 2019-02-22T08:38:56Z
 description: Several barriers complicate access to psychotherapy for depression, including
   time commitment, location of services, and stigma.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18061927
-link: https://www.nature.com/articles/s41746-019-0077-1?error=cookies_not_supported&code=8605e86a-7c7b-44f4-b926-e0a82b2832e6
+link: https://www.nature.com/articles/s41746-019-0077-1?error=cookies_not_supported&code=32805954-aaa8-4169-bd2c-d218f61eb950
 linkBrand: nature.com
 slug: nature-preference-for-in-person-psychotherapy-versus-digital-psychotherapy-options-for-depression-survey
-socialScore: 28
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-it-s-time-for-the-rise-of-e-phy
 link: https://medicalfuturist.com/its-time-for-the-rise-of-e-physicians
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-it-s-time-for-the-rise-of-e-physicians
-socialScore: 23
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

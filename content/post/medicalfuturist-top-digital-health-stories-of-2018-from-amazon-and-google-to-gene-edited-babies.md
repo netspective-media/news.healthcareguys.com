@@ -10,7 +10,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17110452
 link: https://medicalfuturist.com/top-digital-health-stories-of-2018-from-amazon-and-google-to-gene-edited-babies
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-top-digital-health-stories-of-2018-from-amazon-and-google-to-gene-edited-babies
-socialScore: 20
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

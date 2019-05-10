@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-assessing-heart-disease-care
 link: https://healthtechmagazine.net/article/2019/02/assessing-heart-disease-care-digital-age
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-assessing-heart-disease-care-in-the-digital-age
-socialScore: 5
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

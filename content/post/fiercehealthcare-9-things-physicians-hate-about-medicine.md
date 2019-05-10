@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-9-things-physicians-hate-about
 link: https://www.fiercehealthcare.com/practices/9-things-physicians-hate-about-medicine
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-9-things-physicians-hate-about-medicine
-socialScore: 34
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

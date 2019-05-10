@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-all-of-us-enrollees-can-now-shar
 link: https://www.mobihealthnews.com/content/all-us-enrollees-can-now-share-health-data-their-fitbit-accounts-researchers
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-all-of-us-enrollees-can-now-share-health-data-from-their-fitbit-accounts-with-researchers
-socialScore: 8
+socialScore: 46
 socialScoreSimulated: true
 source:
   name: Dropmark

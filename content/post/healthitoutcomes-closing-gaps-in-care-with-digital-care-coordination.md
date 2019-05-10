@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthitoutcomes-closing-gaps-in-care-with-digi
 link: https://www.healthitoutcomes.com/doc/closing-gaps-in-care-with-digital-care-coordination-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-closing-gaps-in-care-with-digital-care-coordination
-socialScore: 31
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

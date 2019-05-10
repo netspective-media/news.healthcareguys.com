@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-4-it-trends-from-the-himss-2
 link: https://healthtechmagazine.net/article/2019/03/4-it-trends-himss-2019-forecast
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-4-it-trends-from-the-himss-2019-forecast
-socialScore: 32
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

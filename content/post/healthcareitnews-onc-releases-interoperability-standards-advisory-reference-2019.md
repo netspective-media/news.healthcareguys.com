@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-onc-releases-interoperability-
 link: https://www.healthcareitnews.com/news/onc-releases-interoperability-standards-advisory-reference-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-onc-releases-interoperability-standards-advisory-reference-2019
-socialScore: 21
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

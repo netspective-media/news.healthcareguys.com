@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-fda-upgrades-approach-to-certi
 link: https://www.healthcareitnews.com/news/fda-upgrades-approach-certifying-new-ai-products
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-fda-upgrades-approach-to-certifying-new-ai-products
-socialScore: 23
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-fda-clears-mobile-ai-platform-fo
 link: https://www.mobihealthnews.com/content/north-america/fda-clears-mobile-ai-platform-heart-murmur-screening
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-fda-clears-mobile-ai-platform-for-heart-murmur-screening
-socialScore: 30
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

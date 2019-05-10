@@ -13,7 +13,7 @@ featuredImage: /img/content/post/himss-proposed-regulatory-framework-for-modific
 link: https://www.himss.org/news/proposed-regulatory-framework-modifications-artificial-intelligencemachine-learning
 linkBrand: himss.org
 slug: himss-proposed-regulatory-framework-for-modifications-to-artificial-intelligence-machine-learning
-socialScore: 48
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

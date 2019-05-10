@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-cerner-misses-earnings-and-rev
 link: https://www.fiercehealthcare.com/tech/cerner-reports-4-2018-revenue-growth-eyeing-m-a-opportunities-2019
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-cerner-misses-earnings-and-revenue-expectations-despite-an-increase-in-bookings
-socialScore: 47
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-georgia-tech-develops-mypath-a
 link: https://www.healthcareitnews.com/news/georgia-tech-develops-mypath-app-help-cancer-patients-artificial-intelligence
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-georgia-tech-develops-mypath-app-to-help-cancer-patients-with-artificial-intelligence
-socialScore: 5
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

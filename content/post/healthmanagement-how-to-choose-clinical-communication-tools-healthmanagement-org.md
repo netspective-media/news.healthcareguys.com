@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthmanagement-how-to-choose-clinical-communi
 link: https://healthmanagement.org/c/it/news/how-to-choose-clinical-communication-tools
 linkBrand: healthmanagement.org
 slug: healthmanagement-how-to-choose-clinical-communication-tools-healthmanagement-org
-socialScore: 12
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

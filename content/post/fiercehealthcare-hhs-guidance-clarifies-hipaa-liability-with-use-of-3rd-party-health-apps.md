@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-hhs-guidance-clarifies-hipaa-l
 link: https://www.fiercehealthcare.com/tech/hhs-guidance-clarifies-hipaa-liability-use-third-party-health-apps
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-hhs-guidance-clarifies-hipaa-liability-with-use-of-3rd-party-health-apps
-socialScore: 31
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

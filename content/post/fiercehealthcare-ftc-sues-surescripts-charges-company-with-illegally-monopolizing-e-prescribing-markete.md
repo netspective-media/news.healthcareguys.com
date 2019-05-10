@@ -13,7 +13,7 @@ featuredImage: /img/content/post/fiercehealthcare-ftc-sues-surescripts-charges-c
 link: https://www.fiercehealthcare.com/tech/ftc-sues-surescripts-charges-company-illegally-monopolizing-e-prescribing-market
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-ftc-sues-surescripts-charges-company-with-illegally-monopolizing-e-prescribing-markete
-socialScore: 40
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

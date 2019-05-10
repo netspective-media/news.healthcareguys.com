@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-electronic-health-data-t
 link: http://www.healthcarebusinesstech.com/electronic-health-data/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-electronic-health-data-transfer-where-hospitals-stand-right-now
-socialScore: 7
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

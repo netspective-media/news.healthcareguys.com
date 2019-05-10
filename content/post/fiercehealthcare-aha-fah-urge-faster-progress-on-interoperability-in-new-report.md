@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-aha-fah-urge-faster-progress-o
 link: https://www.fiercehealthcare.com/tech/hospitals-urge-faster-progress-interoperability-new-report
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-aha-fah-urge-faster-progress-on-interoperability-in-new-report
-socialScore: 26
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

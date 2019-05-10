@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-how-telemedicine-is-helping-wi
 link: https://www.healthcareitnews.com/video/how-telemedicine-helping-opioid-crisis
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-telemedicine-is-helping-with-the-opioid-crisis
-socialScore: 24
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

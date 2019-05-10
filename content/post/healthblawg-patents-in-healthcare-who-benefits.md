@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthblawg-patents-in-healthcare-who-benefits.
 link: https://healthblawg.com/2019/04/patents-in-healthcare.html
 linkBrand: healthblawg.com
 slug: healthblawg-patents-in-healthcare-who-benefits
-socialScore: 16
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-calm-s-meditation-app-comes-to-s
 link: https://www.mobihealthnews.com/content/calms-meditation-app-comes-samsung-health
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-calm-s-meditation-app-comes-to-samsung-health
-socialScore: 30
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

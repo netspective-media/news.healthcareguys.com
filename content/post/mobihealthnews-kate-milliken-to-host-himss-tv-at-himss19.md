@@ -13,7 +13,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17329061
 link: https://www.mobihealthnews.com/content/kate-milliken-host-himss-tv-himss19
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-kate-milliken-to-host-himss-tv-at-himss19
-socialScore: 31
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-cms-releases-star-rating
 link: http://www.healthcarebusinesstech.com/cms-star-rating-changes/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-cms-releases-star-ratings-announces-big-changes-what-s-coming-for-hospitals
-socialScore: 5
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

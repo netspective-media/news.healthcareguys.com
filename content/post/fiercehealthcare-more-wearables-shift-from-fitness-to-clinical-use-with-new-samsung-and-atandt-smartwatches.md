@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-more-wearables-shift-from-fitn
 link: https://www.fiercehealthcare.com/tech/wearables-shift-from-fitness-to-clinical-use-samsung-smart-watch-can-monitor-blood-pressure
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-more-wearables-shift-from-fitness-to-clinical-use-with-new-samsung-and-atandt-smartwatches
-socialScore: 20
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

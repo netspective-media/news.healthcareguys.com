@@ -8,7 +8,7 @@ featuredImage: /img/content/post/businessinsider-7-startups-claim-to-make-it-eas
 link: https://www.businessinsider.com/how-one-medical-tia-warby-parker-smiledirectclub-compare-to-traditional-healthcare-2019-4#i-updated-my-skin-care-routine-with-curology-2
 linkBrand: businessinsider.com
 slug: businessinsider-7-startups-claim-to-make-it-easier-and-cheaper-to-go-to-the-doctor-some-fell-short-of-the-hype
-socialScore: 42
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

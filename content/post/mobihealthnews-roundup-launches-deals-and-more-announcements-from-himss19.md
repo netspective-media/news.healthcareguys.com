@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-roundup-launches-deals-and-more-
 link: https://www.mobihealthnews.com/content/roundup-launches-deals-and-more-announcements-himss19
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-roundup-launches-deals-and-more-announcements-from-himss19
-socialScore: 8
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

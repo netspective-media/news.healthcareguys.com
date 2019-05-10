@@ -10,7 +10,7 @@ featuredImage: /img/content/post/himss-the-role-of-artificial-intelligence-in-he
 link: https://www.himss.org/news/role-artificial-intelligence-healthcare-and-society
 linkBrand: himss.org
 slug: himss-the-role-of-artificial-intelligence-in-healthcare-and-society
-socialScore: 12
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

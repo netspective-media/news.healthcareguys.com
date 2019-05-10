@@ -9,7 +9,7 @@ featuredImage: /img/content/post/japantimes-co-data-breaches-exposed-nearly-2-7-
 link: https://www.japantimes.co.jp/news/2019/04/24/national/data-breaches-exposed-nearly-2-7-million-morsels-personal-data-japan-2018/#.XMK7XmhKhPY
 linkBrand: japantimes.co.jp
 slug: japantimes-co-data-breaches-exposed-nearly-2-7-million-morsels-of-personal-info-in-japan-in-2018
-socialScore: 26
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

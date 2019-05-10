@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-it-s-time-to-light-a-fire-to-s
 link: https://www.fiercehealthcare.com/practices/industry-voices-it-s-time-to-light-a-fire-to-stop-physician-burnout
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-it-s-time-to-light-a-fire-to-stop-physician-burnout-starting-with-better-ehrs
-socialScore: 13
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

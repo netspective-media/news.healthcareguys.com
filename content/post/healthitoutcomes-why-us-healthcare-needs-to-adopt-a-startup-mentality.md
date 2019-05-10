@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18146521
 link: https://www.healthitoutcomes.com/doc/why-u-s-healthcare-needs-to-adopt-a-startup-mentality-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-why-us-healthcare-needs-to-adopt-a-startup-mentality
-socialScore: 27
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

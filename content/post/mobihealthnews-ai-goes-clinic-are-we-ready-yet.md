@@ -10,7 +10,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17253625
 link: https://www.mobihealthnews.com/content/ai-goes-clinic-are-we-ready-yet
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ai-goes-clinic-are-we-ready-yet
-socialScore: 23
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

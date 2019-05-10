@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareitnews-himss19-champion-of-health-ras
 link: https://www.healthcareitnews.com/news/himss19-champion-health-rasu-shrestha
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-champion-of-health-rasu-shrestha
-socialScore: 44
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

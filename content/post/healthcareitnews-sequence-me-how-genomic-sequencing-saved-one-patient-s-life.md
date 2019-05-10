@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-sequence-me-how-genomic-sequen
 link: https://www.healthcareitnews.com/video/sequence-me-how-genomic-sequencing-saved-one-patients-life
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-sequence-me-how-genomic-sequencing-saved-one-patient-s-life
-socialScore: 11
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

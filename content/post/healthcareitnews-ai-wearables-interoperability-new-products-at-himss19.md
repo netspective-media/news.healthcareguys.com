@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-ai-wearables-interoperability-
 link: https://www.healthcareitnews.com/news/ai-wearables-interoperability-new-products-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-ai-wearables-interoperability-new-products-at-himss19
-socialScore: 22
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

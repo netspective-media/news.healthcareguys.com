@@ -13,7 +13,7 @@ featuredImage: /img/content/post/himss-onc-proposes-new-requirements-around-info
 link: https://www.himss.org/news/onc-proposes-new-requirements-around-information-blocking-and-health-it-certification
 linkBrand: himss.org
 slug: himss-onc-proposes-new-requirements-around-information-blocking-and-health-it-certification
-socialScore: 0
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

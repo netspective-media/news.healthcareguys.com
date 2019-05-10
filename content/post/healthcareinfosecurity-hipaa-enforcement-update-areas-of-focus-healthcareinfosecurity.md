@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-hipaa-enforcement-update
 link: https://www.healthcareinfosecurity.com/interviews/hipaa-enforcement-update-areas-focus-i-4250
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-hipaa-enforcement-update-areas-of-focus-healthcareinfosecurity
-socialScore: 31
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

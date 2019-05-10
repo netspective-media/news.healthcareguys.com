@@ -13,7 +13,7 @@ featuredImage: /img/content/post/fiercehealthcare-who-releases-10-recommendation
 link: https://www.fiercehealthcare.com/tech/who-releases-10-recommendations-digital-health-interventions-to-improve-health
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-who-releases-10-recommendations-on-digital-health-interventions-to-improve-care
-socialScore: 12
+socialScore: 18
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthtechmagazine-4-important-elements-of-the-
 link: https://healthtechmagazine.net/article/2019/02/4-important-items-your-2019-hipaa-compliance-checklist-perfcon
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-4-important-elements-of-the-2019-hipaa-compliance-checklist-healthtech
-socialScore: 24
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

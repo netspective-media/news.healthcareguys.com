@@ -11,7 +11,7 @@ featuredImage: /img/content/post/cardio-jmir-achieving-rapid-blood-pressure-cont
 link: https://cardio.jmir.org/2019/1/e13030/
 linkBrand: cardio.jmir.org
 slug: cardio-jmir-achieving-rapid-blood-pressure-control-with-digital-therapeutics-retrospective-cohort-and-machine
-socialScore: 40
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

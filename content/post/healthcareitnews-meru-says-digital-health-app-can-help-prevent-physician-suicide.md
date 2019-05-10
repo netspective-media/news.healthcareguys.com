@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-meru-says-digital-health-app-c
 link: https://www.healthcareitnews.com/video/meru-says-digital-health-app-can-help-prevent-physician-suicide
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-meru-says-digital-health-app-can-help-prevent-physician-suicide
-socialScore: 1
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

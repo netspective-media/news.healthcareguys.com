@@ -13,7 +13,7 @@ featuredImage: /img/content/post/healthcareitnews-interoperability-3-charts-take
 link: https://www.healthcareitnews.com/news/interoperability-3-charts-take-pulse-health-data-sharing-today
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-interoperability-3-charts-take-the-pulse-of-health-data-sharing-today
-socialScore: 45
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

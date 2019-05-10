@@ -9,7 +9,7 @@ featuredImage: /img/content/post/mobihealthnews-in-depth-looking-back-at-10-year
 link: https://www.mobihealthnews.com/content/depth-looking-back-10-years-digital-health-coverage
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-in-depth-looking-back-at-10-years-of-digital-health-coverage
-socialScore: 40
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthmanagement-scribes-improve-emergency-phys
 link: https://healthmanagement.org/c/icu/news/scribes-improve-emergency-physicians-productivity
 linkBrand: healthmanagement.org
 slug: healthmanagement-scribes-improve-emergency-physicians-productivity-healthmanagement-org
-socialScore: 2
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

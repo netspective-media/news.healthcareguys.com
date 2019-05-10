@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-how-patients-really-want-to-co
 link: https://www.healthcareitnews.com/news/how-patients-really-want-communicate-doctors
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-patients-really-want-to-communicate-with-doctors
-socialScore: 21
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

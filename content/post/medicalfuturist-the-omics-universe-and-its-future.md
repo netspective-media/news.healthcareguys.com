@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-the-omics-universe-and-its-futu
 link: https://medicalfuturist.com/the-omics-universe-and-its-future
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-omics-universe-and-its-future
-socialScore: 10
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

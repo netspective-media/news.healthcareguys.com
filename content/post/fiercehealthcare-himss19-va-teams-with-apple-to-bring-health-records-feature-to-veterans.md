@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-va-teams-with-apple-to
 link: https://www.fiercehealthcare.com/tech/himss19-va-teams-apple-to-bring-health-records-feature-to-veterans
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-va-teams-with-apple-to-bring-health-records-feature-to-veterans
-socialScore: 13
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

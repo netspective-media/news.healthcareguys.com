@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-implementation-best-practices-
 link: https://www.healthcareitnews.com/news/implementation-best-practices-launching-clinical-decision-support
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-implementation-best-practices-launching-clinical-decision-support
-socialScore: 22
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

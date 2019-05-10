@@ -8,7 +8,7 @@ featuredImage: /img/content/post/nytimes-when-email-comes-to-the-doctor-s-office
 link: https://www.nytimes.com/2019/03/18/upshot/when-email-comes-to-the-doctors-office-wait-times-decrease.html
 linkBrand: nytimes.com
 slug: nytimes-when-email-comes-to-the-doctor-s-office-wait-times-decrease-the-new-york-times
-socialScore: 43
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-4-tips-on-blockchain-and-gdpr-
 link: https://healthmanagement.org/c/it/news/4-tips-on-blockchain-and-gdpr-compliance
 linkBrand: healthmanagement.org
 slug: healthmanagement-4-tips-on-blockchain-and-gdpr-compliance-healthmanagement-org
-socialScore: 36
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -9,7 +9,7 @@ featuredImage: /img/content/post/medcitynews-4-ways-a-branded-app-can-dramatical
 link: https://medcitynews.com/2019/03/4-ways-a-branded-app-can-dramatically-cut-ed-wait-times-improve-patient-experience/
 linkBrand: medcitynews.com
 slug: medcitynews-4-ways-a-branded-app-can-dramatically-cut-ed-wait-times-improve-patient-experience-medcity-news
-socialScore: 0
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

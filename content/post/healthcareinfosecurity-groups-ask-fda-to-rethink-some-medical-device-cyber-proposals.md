@@ -13,7 +13,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-groups-ask-fda-to-rethin
 link: https://www.healthcareinfosecurity.com/groups-ask-fda-to-rethink-some-medical-device-cyber-proposals-a-12210
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-groups-ask-fda-to-rethink-some-medical-device-cyber-proposals
-socialScore: 45
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-more-consumers-are-using-digital
 link: https://www.mobihealthnews.com/content/more-consumers-are-using-digital-health-manage-complex-health-conditions-rock-health-says
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-more-consumers-are-using-digital-health-to-manage-complex-health-conditions-rock-health-says
-socialScore: 6
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark
