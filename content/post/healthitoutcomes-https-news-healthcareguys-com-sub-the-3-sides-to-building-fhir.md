@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthitoutcomes-https-news-healthcareguys-com-
 link: https://www.healthitoutcomes.com/doc/the-sides-to-building-fhir-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-https-news-healthcareguys-com-sub-the-3-sides-to-building-fhir
-socialScore: 21
+socialScore: 41
 socialScoreSimulated: true
 source:
   name: Dropmark

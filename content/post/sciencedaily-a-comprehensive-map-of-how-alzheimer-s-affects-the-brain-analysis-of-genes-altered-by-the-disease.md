@@ -12,7 +12,7 @@ featuredImage: /img/content/post/sciencedaily-a-comprehensive-map-of-how-alzheim
 link: https://www.sciencedaily.com/releases/2019/05/190501131400.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-a-comprehensive-map-of-how-alzheimer-s-affects-the-brain-analysis-of-genes-altered-by-the-disease
-socialScore: 38
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-implementation-best-practices-
 link: https://www.healthcareitnews.com/news/implementation-best-practices-dealing-complexity-ai
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-implementation-best-practices-dealing-with-the-complexity-of-ai
-socialScore: 8
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

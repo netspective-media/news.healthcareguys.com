@@ -11,7 +11,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17611114
 link: http://www.americanehr.com/blog/2019/01/why-healthcare-needs-the-internet-of-things/
 linkBrand: americanehr.com
 slug: americanehr-why-healthcare-needs-the-internet-of-things
-socialScore: 45
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

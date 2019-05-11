@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-nih-gives-first-look-at-all-of
 link: https://www.fiercehealthcare.com/tech/nih-launches-beta-version-all-us-research-program-health-database
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-nih-gives-first-look-at-all-of-us-precision-medicine-research-health-database
-socialScore: 44
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-report-warns-of-ai-healthcare-
 link: https://healthmanagement.org/c/it/news/report-warns-of-ai-healthcare-limitations
 linkBrand: healthmanagement.org
 slug: healthmanagement-report-warns-of-ai-healthcare-limitations-healthmanagement-org
-socialScore: 14
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

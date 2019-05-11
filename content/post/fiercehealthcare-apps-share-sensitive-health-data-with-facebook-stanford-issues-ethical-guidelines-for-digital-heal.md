@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-apps-share-sensitive-health-da
 link: https://www.fiercehealthcare.com/tech/health-it-roundup-11-5m-healthcare-records-exposed-2018-report-finds-stanford-issues-ethical
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-apps-share-sensitive-health-data-with-facebook-stanford-issues-ethical-guidelines-for-digital-heal
-socialScore: 29
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

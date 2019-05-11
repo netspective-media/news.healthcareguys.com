@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-focus-on-interoperability-what
 link: https://www.healthcareitnews.com/news/focus-interoperability-what-we-learned
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-focus-on-interoperability-what-we-learned
-socialScore: 17
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

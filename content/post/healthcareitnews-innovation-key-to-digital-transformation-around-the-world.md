@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-innovation-key-to-digital-tran
 link: https://www.healthcareitnews.com/video/innovation-key-digital-transformation-around-world
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-innovation-key-to-digital-transformation-around-the-world
-socialScore: 30
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

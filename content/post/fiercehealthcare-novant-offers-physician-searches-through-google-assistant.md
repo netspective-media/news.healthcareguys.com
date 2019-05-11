@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-novant-offers-physician-search
 link: https://www.fiercehealthcare.com/tech/health-it-roundup-novant-offers-physician-searches-through-google-assistant-smart-healthcare
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-novant-offers-physician-searches-through-google-assistant
-socialScore: 24
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

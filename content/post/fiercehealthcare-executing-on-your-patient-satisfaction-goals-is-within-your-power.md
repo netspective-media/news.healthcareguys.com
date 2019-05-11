@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-executing-on-your-patient-sati
 link: https://www.fiercehealthcare.com/hospitals-health-systems/industry-voices-executing-your-patient-satisfaction-goals-within-your
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-executing-on-your-patient-satisfaction-goals-is-within-your-power
-socialScore: 38
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

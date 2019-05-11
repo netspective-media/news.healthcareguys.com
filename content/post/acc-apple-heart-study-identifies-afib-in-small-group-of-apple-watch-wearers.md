@@ -10,7 +10,7 @@ featuredImage: /img/content/post/acc-apple-heart-study-identifies-afib-in-small-
 link: https://www.acc.org/latest-in-cardiology/articles/2019/03/08/15/32/sat-9am-apple-heart-study-acc-2019
 linkBrand: acc.org
 slug: acc-apple-heart-study-identifies-afib-in-small-group-of-apple-watch-wearers
-socialScore: 46
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

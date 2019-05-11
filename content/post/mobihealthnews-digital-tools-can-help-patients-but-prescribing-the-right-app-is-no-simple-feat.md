@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-digital-tools-can-help-patients-
 link: https://www.mobihealthnews.com/content/digital-tools-can-help-patients-prescribing-right-app-no-simple-feat
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-digital-tools-can-help-patients-but-prescribing-the-right-app-is-no-simple-feat
-socialScore: 37
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-himss19-readiness-guide-patien
 link: https://www.healthcareitnews.com/news/sponsored-himss19-readiness-guide-patient-engagement-and-experience
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-readiness-guide-patient-engagement-and-experience
-socialScore: 44
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-facebook-plans-to-launch-blood
 link: https://www.fiercehealthcare.com/tech/health-it-roundup-alphabet-s-verily-building-campus-to-combat-opioid-addiction-healthcare
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-facebook-plans-to-launch-blood-donation-tool-in-the-u-s
-socialScore: 20
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

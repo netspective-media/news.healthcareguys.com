@@ -12,7 +12,7 @@ featuredImage: /img/content/post/wired-ai-could-predict-death-but-what-if-the-al
 link: https://www.wired.com/story/ai-bias-predict-death/
 linkBrand: wired.com
 slug: wired-ai-could-predict-death-but-what-if-the-algorithm-is-biased
-socialScore: 40
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

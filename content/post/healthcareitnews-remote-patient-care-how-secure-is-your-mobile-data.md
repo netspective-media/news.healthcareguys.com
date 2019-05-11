@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-remote-patient-care-how-secure
 link: https://www.healthcareitnews.com/news/remote-patient-care-how-secure-your-mobile-data
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-remote-patient-care-how-secure-is-your-mobile-data
-socialScore: 41
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

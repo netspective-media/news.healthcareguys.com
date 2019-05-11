@@ -8,7 +8,7 @@ featuredImage: /img/content/post/dig-in-how-payers-are-balancing-patient-engagem
 link: https://www.dig-in.com/news/how-payers-are-balancing-patient-engagement-data-security
 linkBrand: dig-in.com
 slug: dig-in-how-payers-are-balancing-patient-engagement-data-security
-socialScore: 25
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

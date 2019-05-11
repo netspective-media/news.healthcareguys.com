@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-3-questions-to-ask-before-putt
 link: https://www.healthcareitnews.com/news/3-questions-ask-putting-healthcare-application-cloud-0
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-3-questions-to-ask-before-putting-a-healthcare-application-in-the-cloud
-socialScore: 17
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

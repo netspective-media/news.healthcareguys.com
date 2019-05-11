@@ -9,7 +9,7 @@ featuredImage: /img/content/post/medinform-jmir-telemonitoring-to-manage-chronic
 link: https://medinform.jmir.org/2019/1/e11496/
 linkBrand: medinform.jmir.org
 slug: medinform-jmir-telemonitoring-to-manage-chronic-obstructive-pulmonary-disease-systematic-literature-review
-socialScore: 34
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

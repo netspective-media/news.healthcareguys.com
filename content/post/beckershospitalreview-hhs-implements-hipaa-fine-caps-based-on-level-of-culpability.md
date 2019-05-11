@@ -9,7 +9,7 @@ featuredImage: /img/content/post/beckershospitalreview-hhs-implements-hipaa-fine
 link: https://www.beckershospitalreview.com/cybersecurity/hhs-implements-hipaa-fine-caps-based-on-level-of-culpability.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-hhs-implements-hipaa-fine-caps-based-on-level-of-culpability
-socialScore: 28
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

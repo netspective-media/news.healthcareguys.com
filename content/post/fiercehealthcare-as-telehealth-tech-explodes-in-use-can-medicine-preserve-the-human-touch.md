@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-as-telehealth-tech-explodes-in
 link: https://www.fiercehealthcare.com/tech/replacing-doctors-technology-feature
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-as-telehealth-tech-explodes-in-use-can-medicine-preserve-the-human-touch
-socialScore: 7
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-infrastructure-overhaul-sets
 link: https://healthtechmagazine.net/article/2019/04/infrastructure-overhaul-sets-future-success-senior-care-infographic
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-infrastructure-overhaul-sets-up-future-success-for-senior-care-infographic
-socialScore: 15
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

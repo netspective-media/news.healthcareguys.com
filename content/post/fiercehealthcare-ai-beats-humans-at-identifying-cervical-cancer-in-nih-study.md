@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-ai-beats-humans-at-identifying
 link: https://www.fiercehealthcare.com/tech/ai-beats-humans-at-identifying-cervical-cancer-nih-study
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-ai-beats-humans-at-identifying-cervical-cancer-in-nih-study
-socialScore: 7
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

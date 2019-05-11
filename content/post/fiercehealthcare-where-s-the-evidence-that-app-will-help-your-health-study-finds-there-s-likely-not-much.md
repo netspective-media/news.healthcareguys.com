@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-where-s-the-evidence-that-app-
 link: https://www.fiercehealthcare.com/tech/despite-growth-digital-health-apps-study-finds-little-evidence-their-effectiveness
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-where-s-the-evidence-that-app-will-help-your-health-study-finds-there-s-likely-not-much
-socialScore: 11
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

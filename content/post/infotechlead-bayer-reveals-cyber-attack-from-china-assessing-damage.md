@@ -10,7 +10,7 @@ featuredImage: /img/content/post/infotechlead-bayer-reveals-cyber-attack-from-ch
 link: https://infotechlead.com/security/bayer-reveals-cyber-attack-from-china-assessing-damage-58164
 linkBrand: infotechlead.com
 slug: infotechlead-bayer-reveals-cyber-attack-from-china-assessing-damage
-socialScore: 1
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

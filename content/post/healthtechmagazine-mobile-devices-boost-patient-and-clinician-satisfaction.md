@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-mobile-devices-boost-patient
 link: https://healthtechmagazine.net/article/2019/03/mobile-devices-boost-patient-and-clinician-satisfaction
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-mobile-devices-boost-patient-and-clinician-satisfaction
-socialScore: 7
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

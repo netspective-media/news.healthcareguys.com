@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-indiana-university-health-wake
 link: https://www.fiercehealthcare.com/tech/university-health-system-wakemed-testing-blockchain-to-track-specialty-prescriptions
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-indiana-university-health-wakemed-testing-blockchain-to-track-specialty-prescriptions
-socialScore: 31
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

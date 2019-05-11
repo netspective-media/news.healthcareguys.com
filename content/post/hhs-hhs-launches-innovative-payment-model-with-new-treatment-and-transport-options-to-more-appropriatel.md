@@ -7,7 +7,7 @@ featuredImage: /img/content/post/hhs-hhs-launches-innovative-payment-model-with-
 link: https://www.hhs.gov/about/news/2019/02/14/hhs-launches-innovative-payment-model-new-treatment-transport-options.html
 linkBrand: hhs.gov
 slug: hhs-hhs-launches-innovative-payment-model-with-new-treatment-and-transport-options-to-more-appropriatel
-socialScore: 26
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

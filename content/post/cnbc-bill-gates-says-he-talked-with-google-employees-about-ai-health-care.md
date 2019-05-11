@@ -11,7 +11,7 @@ featuredImage: /img/content/post/cnbc-bill-gates-says-he-talked-with-google-empl
 link: https://www.cnbc.com/2019/03/18/bill-gates-says-he-talked-with-google-employees-about-ai-health-care.html
 linkBrand: cnbc.com
 slug: cnbc-bill-gates-says-he-talked-with-google-employees-about-ai-health-care
-socialScore: 7
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

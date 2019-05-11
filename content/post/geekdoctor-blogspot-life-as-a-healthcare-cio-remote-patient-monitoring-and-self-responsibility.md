@@ -11,7 +11,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17680288
 link: http://geekdoctor.blogspot.com/2019/02/remote-patient-monitoring-and-self.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-life-as-a-healthcare-cio-remote-patient-monitoring-and-self-responsibility
-socialScore: 26
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

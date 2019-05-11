@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18127958
 link: https://www.imedicalapps.com/2019/03/doctor-nurse-apps-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-apps-doctors-and-nurses-should-download-this-week-imedicalapps
-socialScore: 6
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

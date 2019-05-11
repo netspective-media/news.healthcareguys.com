@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-with-doctored-photos-thi
 link: https://www.healthcareinfosecurity.com/doctored-photos-thieves-try-to-steal-bitcoin-a-12016
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-with-doctored-photos-thieves-try-to-steal-bitcoin
-socialScore: 47
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-what-empowered-patients-need-em
 link: https://medicalfuturist.com/empowered-patients-in-the-digital-age
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-what-empowered-patients-need-empathy-time-and-attention
-socialScore: 44
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

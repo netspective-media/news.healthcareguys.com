@@ -12,7 +12,7 @@ featuredImage: /img/content/post/himss-interoperability-takes-a-village.jpg
 link: https://www.himss.org/news/interoperability-takes-a-village
 linkBrand: himss.org
 slug: himss-interoperability-takes-a-village
-socialScore: 24
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

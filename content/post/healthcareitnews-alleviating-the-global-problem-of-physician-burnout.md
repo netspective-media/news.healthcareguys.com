@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-alleviating-the-global-problem
 link: https://www.healthcareitnews.com/video/sponsored-alleviating-global-problem-physician-burnout
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-alleviating-the-global-problem-of-physician-burnout
-socialScore: 37
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

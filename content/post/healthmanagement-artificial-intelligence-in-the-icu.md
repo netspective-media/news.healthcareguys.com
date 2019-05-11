@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthmanagement-artificial-intelligence-in-the
 link: https://healthmanagement.org/c/icu/news/artificial-intelligence-in-the-icu
 linkBrand: healthmanagement.org
 slug: healthmanagement-artificial-intelligence-in-the-icu
-socialScore: 16
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

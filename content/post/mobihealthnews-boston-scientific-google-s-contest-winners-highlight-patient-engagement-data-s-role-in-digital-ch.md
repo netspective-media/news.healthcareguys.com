@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-boston-scientific-google-s-conte
 link: https://www.mobihealthnews.com/content/boston-scientific-googles-contest-winners-highlight-patient-engagement-datas-role-digital
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-boston-scientific-google-s-contest-winners-highlight-patient-engagement-data-s-role-in-digital-ch
-socialScore: 37
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

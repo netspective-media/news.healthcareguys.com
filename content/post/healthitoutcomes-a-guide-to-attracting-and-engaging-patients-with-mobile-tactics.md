@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthitoutcomes-a-guide-to-attracting-and-enga
 link: https://www.healthitoutcomes.com/doc/a-guide-to-attracting-and-engaging-patients-with-mobile-tactics-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-a-guide-to-attracting-and-engaging-patients-with-mobile-tactics
-socialScore: 4
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -12,7 +12,7 @@ featuredImage: /img/content/post/hcinnovationgroup-one-on-one-with-intermountain
 link: https://www.hcinnovationgroup.com/interoperability-hie/information-blocking/article/21068583/oneonone-with-intermountain-healthcare-cio-marc-probst-at-himss19
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-one-on-one-with-intermountain-healthcare-cio-marc-probst-at-himss19
-socialScore: 37
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

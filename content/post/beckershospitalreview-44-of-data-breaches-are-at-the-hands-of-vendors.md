@@ -8,7 +8,7 @@ featuredImage: /img/content/post/beckershospitalreview-44-of-data-breaches-are-a
 link: https://www.beckershospitalreview.com/cybersecurity/44-of-data-breaches-are-at-the-hands-of-vendors.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-44-of-data-breaches-are-at-the-hands-of-vendors
-socialScore: 13
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

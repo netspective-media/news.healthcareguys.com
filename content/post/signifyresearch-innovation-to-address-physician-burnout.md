@@ -9,7 +9,7 @@ featuredImage: /img/content/post/signifyresearch-innovation-to-address-physician
 link: https://www.signifyresearch.net/digital-health/innovation-address-physician-burnout/
 linkBrand: signifyresearch.net
 slug: signifyresearch-innovation-to-address-physician-burnout
-socialScore: 44
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-how-a-voice-assistant-can-be-a-c
 link: https://www.mobihealthnews.com/content/how-voice-assistant-can-be-constant-companion-hospital-bound-patients
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-how-a-voice-assistant-can-be-a-constant-companion-for-hospital-bound-patients
-socialScore: 28
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

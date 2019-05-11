@@ -9,7 +9,7 @@ featuredImage: /img/content/post/himss-5-ways-to-become-an-influential-woman-in-
 link: https://www.himss.org/news/five-ways-to-become-influential-woman-in-health-it
 linkBrand: himss.org
 slug: himss-5-ways-to-become-an-influential-woman-in-health-it
-socialScore: 46
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

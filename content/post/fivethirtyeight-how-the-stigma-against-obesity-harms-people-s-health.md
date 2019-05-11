@@ -12,7 +12,7 @@ featuredImage: /img/content/post/fivethirtyeight-how-the-stigma-against-obesity-
 link: https://fivethirtyeight.com/features/how-the-stigma-against-obesity-harms-peoples-health/
 linkBrand: fivethirtyeight.com
 slug: fivethirtyeight-how-the-stigma-against-obesity-harms-people-s-health
-socialScore: 20
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

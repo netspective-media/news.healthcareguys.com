@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-digital-transformation-in-heal
 link: https://www.healthcareitnews.com/news/digital-transformation-healthcare-remains-complex-and-challenging
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-digital-transformation-in-healthcare-remains-complex-and-challenging
-socialScore: 45
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

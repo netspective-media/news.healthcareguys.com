@@ -9,7 +9,7 @@ featuredImage: /img/content/post/himss-understanding-your-interoperability-journ
 link: https://www.himss.org/news/understanding-your-interoperability-journey-gaining-insights-through-case-studies
 linkBrand: himss.org
 slug: himss-understanding-your-interoperability-journey-gaining-insights-through-case-studies
-socialScore: 9
+socialScore: 18
 socialScoreSimulated: true
 source:
   name: Dropmark

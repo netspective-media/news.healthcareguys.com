@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-how-can-healthcare-improve-car
 link: https://www.fiercehealthcare.com/practices/how-can-healthcare-improve-care-for-high-need-high-risk-patients-just-ask-them
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-how-can-healthcare-improve-care-for-high-need-high-risk-patients-just-ask-them
-socialScore: 12
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -12,7 +12,7 @@ featuredImage: /img/content/post/medicalfuturist-top-smart-algorithms-in-healthc
 link: https://medicalfuturist.com/
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-top-smart-algorithms-in-healthcare-the-medical-futurist
-socialScore: 21
+socialScore: 39
 socialScoreSimulated: true
 source:
   name: Dropmark

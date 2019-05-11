@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-software-error-caused-7700-sin
 link: https://www.healthcareitnews.com/news/software-error-caused-7700-singaporeans-receive-inaccurate-chas-subsidies-says-singapore%E2%80%99s
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-software-error-caused-7700-singaporeans-to-receive-inaccurate-chas-subsidies-says-singapore-s-he
-socialScore: 44
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

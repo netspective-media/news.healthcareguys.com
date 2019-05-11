@@ -12,7 +12,7 @@ featuredImage: /img/content/post/fiercehealthcare-leading-healthcare-groups-want
 link: https://www.fiercehealthcare.com/tech/health-it-roundup-leading-healthcare-groups-want-more-time-interoperability-rules
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-leading-healthcare-groups-want-more-time-on-interoperability-rules
-socialScore: 7
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

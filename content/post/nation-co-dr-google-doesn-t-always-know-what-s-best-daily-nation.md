@@ -6,11 +6,11 @@ date: 2019-01-29T14:59:42Z
 description: When faced with an actual or potential diagnosis of cancer, most people
   are inclined to consult Dr.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17593042
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/52d2b4c99ff5066fa52d7c0025a766744d1b2185fcb84f1a2cbfcaa280cfd564/thumbnail/D1.jpg?Expires=1557446528&Signature=QWINos2JCtqHtqLEYnlQ5WSdiQUuAXab16tV8i2qgU~1wZr5~r3gmjQHBaaiUkUX3r6YzzmrpvNwevBr7OcKmqx3HxF~sjuX69J6l0oTwWcnCBsSdRH7vqDig7AcAc2xjUOBCgfFf7OlcvU5iUZYzP8AXfIcowAOWIjuKWmIZq9yOmDT3KcSqXrP81pubhw-EHPQzRIDENHvNBgfM~dUFeQSdYGeypSlnrzEigad1WTOuVqN~q0JkKWbOzSZdWv~-MJusZp4SlL7113aX1kghRLkQnrCQsYjLcioVpb12xunJJw4b4DQqBh8x9thUznxDtU0YySNi4DbO1jNx~ssnA__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/nation-co-dr-google-doesn-t-always-know-what-s-best-daily-nation.jpg
 link: https://www.nation.co.ke/lifestyle/health/internet-not-always-best-for-medical-information/1954202-4956104-ruaeh1/index.html
 linkBrand: nation.co.ke
 slug: nation-co-dr-google-doesn-t-always-know-what-s-best-daily-nation
-socialScore: 30
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

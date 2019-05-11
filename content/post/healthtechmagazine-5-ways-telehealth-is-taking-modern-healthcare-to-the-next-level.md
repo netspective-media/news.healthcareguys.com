@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-5-ways-telehealth-is-taking-
 link: https://healthtechmagazine.net/article/2019/04/5-ways-telehealth-taking-modern-healthcare-next-level
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-5-ways-telehealth-is-taking-modern-healthcare-to-the-next-level
-socialScore: 21
+socialScore: 13
 socialScoreSimulated: true
 source:
   name: Dropmark

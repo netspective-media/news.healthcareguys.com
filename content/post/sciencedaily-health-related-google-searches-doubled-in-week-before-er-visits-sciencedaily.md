@@ -11,7 +11,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18062031
 link: https://www.sciencedaily.com/releases/2019/02/190220103415.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-health-related-google-searches-doubled-in-week-before-er-visits-sciencedaily
-socialScore: 47
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

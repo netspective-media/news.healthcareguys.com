@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-the-prospects-of-behavioral-gen
 link: https://medicalfuturist.com/the-prospects-of-behavioral-genetics-bad-genes-behind-crimes-precision-education-and-loosing-free-will
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-prospects-of-behavioral-genetics-bad-genes-behind-crimes-precision-education-and-loosing-free
-socialScore: 10
+socialScore: 21
 socialScoreSimulated: true
 source:
   name: Dropmark

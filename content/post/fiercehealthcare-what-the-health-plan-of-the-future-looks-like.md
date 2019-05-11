@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-what-the-health-plan-of-the-fu
 link: https://www.fiercehealthcare.com/payer/report-what-health-plan-future-looks-like
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-what-the-health-plan-of-the-future-looks-like
-socialScore: 45
+socialScore: 47
 socialScoreSimulated: true
 source:
   name: Dropmark

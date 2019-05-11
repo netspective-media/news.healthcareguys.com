@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-health-secretary-matt-hancock-
 link: https://www.healthcareitnews.com/news/health-secretary-matt-hancock-announces-new-unit-digital-data-and-technology-nhsx
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-health-secretary-matt-hancock-announces-new-unit-for-digital-data-and-technology-nhsx
-socialScore: 25
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

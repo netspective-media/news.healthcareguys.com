@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-depression-smoking-cessation-app
 link: https://www.mobihealthnews.com/content/depression-smoking-cessation-apps-fall-short-privacy-and-data-sharing-transparency
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-depression-smoking-cessation-apps-fall-short-on-privacy-and-data-sharing-transparency
-socialScore: 3
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

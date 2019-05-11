@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthtechmagazine-how-telehealth-programs-can-
 link: https://healthtechmagazine.net/article/2019/03/how-telehealth-programs-can-evolve-meet-patient-demands
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-how-telehealth-programs-can-evolve-to-meet-patient-demands
-socialScore: 17
+socialScore: 2
 socialScoreSimulated: true
 source:
   name: Dropmark

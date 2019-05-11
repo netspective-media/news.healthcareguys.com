@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-john-halamka-japan-to-emerge-a
 link: https://www.healthcareitnews.com/news/john-halamka-japan-emerge-leading-learning-lab-digital-health-innovation
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-john-halamka-japan-to-emerge-as-the-leading-learning-lab-for-digital-health-innovation
-socialScore: 31
+socialScore: 34
 socialScoreSimulated: true
 source:
   name: Dropmark

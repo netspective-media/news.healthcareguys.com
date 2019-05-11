@@ -8,7 +8,7 @@ featuredImage: /img/content/post/npr-why-the-promise-of-electronic-health-record
 link: https://www.npr.org/sections/health-shots/2019/03/18/704475396/why-the-promise-of-electronic-health-records-has-gone-unfulfilled
 linkBrand: npr.org
 slug: npr-why-the-promise-of-electronic-health-records-has-gone-unfulfilled
-socialScore: 6
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

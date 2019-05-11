@@ -8,7 +8,7 @@ featuredImage: /img/content/post/wsj-maryland-takes-step-toward-capping-drug-pri
 link: https://www.wsj.com/articles/maryland-takes-step-toward-capping-drug-prices-11556616600?mod=itp_wsj&mod=&mod=djemITP_h
 linkBrand: wsj.com
 slug: wsj-maryland-takes-step-toward-capping-drug-prices
-socialScore: 37
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

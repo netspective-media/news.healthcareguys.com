@@ -8,7 +8,7 @@ featuredImage: /img/content/post/hitinfrastructure-hhs-issues-documents-to-suppo
 link: https://hitinfrastructure.com/news/hhs-issues-documents-to-support-nationwide-health-data-exchange
 linkBrand: hitinfrastructure.com
 slug: hitinfrastructure-hhs-issues-documents-to-support-nationwide-health-data-exchange
-socialScore: 22
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

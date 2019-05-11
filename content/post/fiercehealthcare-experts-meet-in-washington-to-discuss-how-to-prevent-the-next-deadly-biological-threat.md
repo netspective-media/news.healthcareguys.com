@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-experts-meet-in-washington-to-
 link: https://www.fiercehealthcare.com/hospitals-health-systems/experts-meet-washington-to-discuss-terrifiying-work-preventing-biological
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-experts-meet-in-washington-to-discuss-how-to-prevent-the-next-deadly-biological-threat
-socialScore: 29
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

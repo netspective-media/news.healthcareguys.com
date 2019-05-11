@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/16971452
 link: https://www.healthcareitnews.com/news/how-one-medical-group-uses-ehr-tackle-three-strategic-goals
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-one-medical-group-uses-ehr-to-tackle-three-strategic-goals
-socialScore: 6
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

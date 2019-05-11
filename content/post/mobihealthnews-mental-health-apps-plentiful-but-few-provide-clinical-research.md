@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-mental-health-apps-plentiful-but
 link: https://www.mobihealthnews.com/content/mental-health-apps-plentiful-few-provide-clinical-research
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-mental-health-apps-plentiful-but-few-provide-clinical-research
-socialScore: 9
+socialScore: 40
 socialScoreSimulated: true
 source:
   name: Dropmark

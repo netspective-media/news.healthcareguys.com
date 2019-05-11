@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthtechmagazine-international-women-s-day-3-
 link: https://healthtechmagazine.net/article/2019/03/international-womens-day-3-women-know-health-it
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-international-women-s-day-3-women-to-know-in-health-it
-socialScore: 35
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

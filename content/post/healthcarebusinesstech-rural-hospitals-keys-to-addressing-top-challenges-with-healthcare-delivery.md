@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-rural-hospitals-keys-to-
 link: http://www.healthcarebusinesstech.com/rural-hospitals-healthcare/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-rural-hospitals-keys-to-addressing-top-challenges-with-healthcare-delivery
-socialScore: 23
+socialScore: 44
 socialScoreSimulated: true
 source:
   name: Dropmark

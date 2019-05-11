@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18284825
 link: https://brica.de/alerts/alert/public/1251280/data-breaches-result-in-ceo-pay-rises-study-shows/
 linkBrand: brica.de
 slug: brica-data-breaches-result-in-ceo-pay-rises-study-shows
-socialScore: 33
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

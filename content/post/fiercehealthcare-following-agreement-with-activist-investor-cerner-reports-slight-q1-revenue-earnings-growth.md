@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-following-agreement-with-activ
 link: https://www.fiercehealthcare.com/tech/following-agreement-activist-investor-cerner-reports-slight-q1-revenue-earnings-growth
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-following-agreement-with-activist-investor-cerner-reports-slight-q1-revenue-earnings-growth
-socialScore: 19
+socialScore: 32
 socialScoreSimulated: true
 source:
   name: Dropmark

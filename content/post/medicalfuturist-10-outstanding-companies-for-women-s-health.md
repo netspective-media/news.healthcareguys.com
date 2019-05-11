@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-10-outstanding-companies-for-wo
 link: https://medicalfuturist.com/10-outstanding-companies-for-womens-health
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-10-outstanding-companies-for-women-s-health
-socialScore: 27
+socialScore: 13
 socialScoreSimulated: true
 source:
   name: Dropmark

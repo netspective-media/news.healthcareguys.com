@@ -12,7 +12,7 @@ featuredImage: /img/content/post/thehealthcareblog-facebook-enters-emr-business-
 link: https://thehealthcareblog.com/blog/2019/04/01/scoop-facebook-enters-emr-business/
 linkBrand: thehealthcareblog.com
 slug: thehealthcareblog-facebook-enters-emr-business-the-health-care-blog
-socialScore: 24
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark

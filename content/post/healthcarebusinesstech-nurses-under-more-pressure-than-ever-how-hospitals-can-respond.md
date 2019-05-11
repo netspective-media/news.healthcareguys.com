@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-nurses-under-more-pressu
 link: http://www.healthcarebusinesstech.com/nurses-hospital-respond/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-nurses-under-more-pressure-than-ever-how-hospitals-can-respond
-socialScore: 18
+socialScore: 10
 socialScoreSimulated: true
 source:
   name: Dropmark

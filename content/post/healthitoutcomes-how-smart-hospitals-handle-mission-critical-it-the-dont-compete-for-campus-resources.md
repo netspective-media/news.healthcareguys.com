@@ -10,7 +10,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18226711
 link: https://www.healthitoutcomes.com/doc/how-smart-hospitals-handle-mission-critical-it-they-don-t-compete-for-campus-resources-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-how-smart-hospitals-handle-mission-critical-it-the-dont-compete-for-campus-resources
-socialScore: 8
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -9,7 +9,7 @@ featuredImage: /img/content/post/hcinnovationgroup-key-questions-before-partneri
 link: https://www.hcinnovationgroup.com/population-health-management/telehealth/blog/13031064/key-questions-before-partnering-with-telehealth-specialty-providers
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-key-questions-before-partnering-with-telehealth-specialty-providers
-socialScore: 10
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

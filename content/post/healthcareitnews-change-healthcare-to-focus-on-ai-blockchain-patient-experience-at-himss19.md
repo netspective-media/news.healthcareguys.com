@@ -13,7 +13,7 @@ featuredImage: /img/content/post/healthcareitnews-change-healthcare-to-focus-on-
 link: https://www.healthcareitnews.com/news/change-healthcare-focus-ai-blockchain-patient-experience-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-change-healthcare-to-focus-on-ai-blockchain-patient-experience-at-himss19
-socialScore: 26
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -9,7 +9,7 @@ featuredImage: /img/content/post/mobihealthnews-dr-eric-topol-talks-ai-s-potenti
 link: https://www.mobihealthnews.com/content/dr-eric-topol-talks-ais-potential-personalize-medicine-curb-mistakes-bring-back-human-touch
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-dr-eric-topol-talks-ai-s-potential-to-personalize-medicine-curb-mistakes-bring-back-the-human-to
-socialScore: 21
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

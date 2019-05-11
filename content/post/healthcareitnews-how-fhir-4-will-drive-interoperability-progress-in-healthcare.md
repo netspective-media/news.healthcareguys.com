@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-how-fhir-4-will-drive-interope
 link: https://www.healthcareitnews.com/news/how-fhir-4-will-drive-interoperability-progress-healthcare
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-fhir-4-will-drive-interoperability-progress-in-healthcare
-socialScore: 41
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

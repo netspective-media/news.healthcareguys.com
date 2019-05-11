@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-first-year-doctors-spend-three
 link: https://www.fiercehealthcare.com/tech/first-year-doctors-spend-three-times-more-hours-ehrs-than-patient-care
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-first-year-doctors-spend-three-times-more-hours-on-ehrs-than-patient-care
-socialScore: 23
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

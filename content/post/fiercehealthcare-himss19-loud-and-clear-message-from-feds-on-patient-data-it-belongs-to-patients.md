@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-loud-and-clear-message
 link: https://www.fiercehealthcare.com/tech/himss19-onc-cms-drive-home-message-data-belongs-to-patients
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-loud-and-clear-message-from-feds-on-patient-data-it-belongs-to-patients
-socialScore: 33
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

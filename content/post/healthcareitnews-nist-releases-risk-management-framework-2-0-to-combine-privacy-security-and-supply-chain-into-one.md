@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-nist-releases-risk-management-
 link: https://www.healthcareitnews.com/news/nist-releases-risk-management-framework-20-combine-privacy-security-and-supply-chain-one
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-nist-releases-risk-management-framework-2-0-to-combine-privacy-security-and-supply-chain-into-one
-socialScore: 8
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

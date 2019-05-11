@@ -12,7 +12,7 @@ featuredImage: /img/content/post/cnbc-zocdoc-changes-to-per-patient-booking-fee.
 link: https://www.cnbc.com/2019/01/29/zocdoc-moves-ahead-with-its-new-business-model-change.html
 linkBrand: cnbc.com
 slug: cnbc-zocdoc-changes-to-per-patient-booking-fee
-socialScore: 31
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

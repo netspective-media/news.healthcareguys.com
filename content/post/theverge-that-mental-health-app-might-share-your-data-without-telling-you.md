@@ -12,7 +12,7 @@ featuredImage: /img/content/post/theverge-that-mental-health-app-might-share-you
 link: https://www.theverge.com/2019/4/20/18508382/apps-mental-health-smoking-cessation-data-sharing-privacy-facebook-google-advertising
 linkBrand: theverge.com
 slug: theverge-that-mental-health-app-might-share-your-data-without-telling-you
-socialScore: 43
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

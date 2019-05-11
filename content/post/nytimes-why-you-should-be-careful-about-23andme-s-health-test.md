@@ -10,7 +10,7 @@ featuredImage: /img/content/post/nytimes-why-you-should-be-careful-about-23andme
 link: https://www.nytimes.com/interactive/2019/02/01/opinion/23andme-cancer-dna-test-brca.html
 linkBrand: nytimes.com
 slug: nytimes-why-you-should-be-careful-about-23andme-s-health-test
-socialScore: 31
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-will-2019-finally-be-the
 link: http://www.healthcarebusinesstech.com/will-2019-finally-be-the-year-of-patient-empowerment/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-will-2019-finally-be-the-year-of-patient-empowerment
-socialScore: 11
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

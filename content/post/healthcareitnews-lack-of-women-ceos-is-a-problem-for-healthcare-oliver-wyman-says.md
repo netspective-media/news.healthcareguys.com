@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-lack-of-women-ceos-is-a-proble
 link: https://www.healthcareitnews.com/news/lack-women-ceos-problem-healthcare-oliver-wyman-says
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-lack-of-women-ceos-is-a-problem-for-healthcare-oliver-wyman-says
-socialScore: 48
+socialScore: 42
 socialScoreSimulated: true
 source:
   name: Dropmark

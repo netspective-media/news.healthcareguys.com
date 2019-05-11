@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-health-data-security-the
 link: https://www.healthcareinfosecurity.com/interviews/health-data-security-most-promising-technologies-i-4247
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-health-data-security-the-most-promising-technologies
-socialScore: 30
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

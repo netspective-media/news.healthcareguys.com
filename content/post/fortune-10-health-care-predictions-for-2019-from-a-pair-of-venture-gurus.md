@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fortune-10-health-care-predictions-for-2019-fro
 link: http://fortune.com/2018/12/10/healthcare-predictions-2019-venrock/?fbclid=IwAR1HkxJzL-pGUNdeZHA_K2hxzAp8TzmoXJqHq0dp1lWLg0sz9hW4jC28B5k
 linkBrand: fortune.com
 slug: fortune-10-health-care-predictions-for-2019-from-a-pair-of-venture-gurus
-socialScore: 46
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

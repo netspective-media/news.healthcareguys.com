@@ -12,7 +12,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-attendees-have-sights-
 link: https://www.fiercehealthcare.com/tech/himss19-attendees-have-sights-set-interoperability-and-consumerism
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-attendees-have-sights-set-on-interoperability-and-consumerism
-socialScore: 16
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

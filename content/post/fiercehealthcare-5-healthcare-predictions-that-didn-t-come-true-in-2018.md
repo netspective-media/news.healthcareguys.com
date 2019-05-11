@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-5-healthcare-predictions-that-
 link: https://www.fiercehealthcare.com/tech/health-it-predictions-didn-t-happen-2018
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-5-healthcare-predictions-that-didn-t-come-true-in-2018
-socialScore: 43
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

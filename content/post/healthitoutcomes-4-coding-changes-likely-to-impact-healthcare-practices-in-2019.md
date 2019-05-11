@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17705192
 link: https://www.healthitoutcomes.com/doc/coding-changes-likely-to-impact-healthcare-practices-in-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-4-coding-changes-likely-to-impact-healthcare-practices-in-2019
-socialScore: 47
+socialScore: 28
 socialScoreSimulated: true
 source:
   name: Dropmark

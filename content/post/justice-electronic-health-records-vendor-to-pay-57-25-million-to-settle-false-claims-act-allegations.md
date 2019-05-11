@@ -7,11 +7,10 @@ date: 2019-02-07T10:59:33Z
 description: Greenway Health LLC (Greenway), a Tampa, Florida-based developer of electronic
   health records (EHR) software, will pay $57.
 dropmark.editURL: http://radhikan.dropmark.com/616548/17672703
-featuredImage: ""
 link: https://www.justice.gov/opa/pr/electronic-health-records-vendor-pay-5725-million-settle-false-claims-act-allegations
 linkBrand: justice.gov
 slug: justice-electronic-health-records-vendor-to-pay-57-25-million-to-settle-false-claims-act-allegations
-socialScore: 7
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

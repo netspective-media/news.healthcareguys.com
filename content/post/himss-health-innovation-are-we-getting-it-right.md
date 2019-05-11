@@ -12,7 +12,7 @@ featuredImage: /img/content/post/himss-health-innovation-are-we-getting-it-right
 link: https://www.himss.org/news/health-innovation-are-we-getting-it-right
 linkBrand: himss.org
 slug: himss-health-innovation-are-we-getting-it-right
-socialScore: 35
+socialScore: 5
 socialScoreSimulated: true
 source:
   name: Dropmark

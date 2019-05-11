@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fivethirtyeight-our-organ-donation-system-is-un
 link: https://fivethirtyeight.com/features/our-organ-donation-system-is-unfair-the-solution-might-be-too/
 linkBrand: fivethirtyeight.com
 slug: fivethirtyeight-our-organ-donation-system-is-unfair-the-solution-might-be-too
-socialScore: 10
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

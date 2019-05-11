@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-what-could-a-no-deal-brexit-lo
 link: https://www.healthcareitnews.com/blog/what-could-no-deal-brexit-look-nhs
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-what-could-a-no-deal-brexit-look-like-for-the-nhs
-socialScore: 28
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

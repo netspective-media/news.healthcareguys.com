@@ -12,7 +12,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-qanda-surescripts-ceo-
 link: https://www.fiercehealthcare.com/hospitals-health-systems/himss19-q-a-surescripts-ceo-tom-skelton-from-show-floor
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-qanda-surescripts-ceo-tom-skelton-on-efforts-to-take-on-high-prescription-drug-prices-inter
-socialScore: 6
+socialScore: 17
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthvalue-libsyn-the-node-health-digital-medi
 link: http://healthvalue.libsyn.com/ep211-node-conference-overview
 linkBrand: healthvalue.libsyn.com
 slug: healthvalue-libsyn-the-node-health-digital-medicine-conference-with-jay-erickson-brian-van-winkle-and-shahid-shah
-socialScore: 3
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

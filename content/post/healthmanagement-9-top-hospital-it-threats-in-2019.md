@@ -9,7 +9,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/16971429
 link: https://healthmanagement.org/c/hospital/news/9-top-hospital-it-threats-in-2019
 linkBrand: healthmanagement.org
 slug: healthmanagement-9-top-hospital-it-threats-in-2019
-socialScore: 27
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

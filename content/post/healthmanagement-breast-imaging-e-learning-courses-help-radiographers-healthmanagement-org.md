@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-breast-imaging-e-learning-cour
 link: https://healthmanagement.org/c/imaging/news/breast-imaging-e-learning-courses-help-radiographers
 linkBrand: healthmanagement.org
 slug: healthmanagement-breast-imaging-e-learning-courses-help-radiographers-healthmanagement-org
-socialScore: 34
+socialScore: 15
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/independent-hospital-medical-notes-on-multiple-
 link: https://www.independent.ie/irish-news/health/hospital-medical-notes-on-multiple-patients-found-in-housing-estate-garden-38068370.html
 linkBrand: independent.ie
 slug: independent-hospital-medical-notes-on-multiple-patients-found-in-housing-estate-garden
-socialScore: 12
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

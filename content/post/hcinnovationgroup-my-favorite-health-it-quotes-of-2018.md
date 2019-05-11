@@ -10,7 +10,7 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17161269
 link: https://www.hcinnovationgroup.com/home/blog/13030973/my-favorite-health-it-quotes-of-2018
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-my-favorite-health-it-quotes-of-2018
-socialScore: 39
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

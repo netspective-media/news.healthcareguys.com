@@ -9,7 +9,7 @@ featuredImage: /img/content/post/prnewswire-physician-researcher-awarded-federal
 link: https://www.prnewswire.com/news-releases/physician-researcher-awarded-federal-grant-to-bridge-evidence-and-practice-for-clinicians-via-electronic-medical-record-300829937.html
 linkBrand: prnewswire.com
 slug: prnewswire-physician-researcher-awarded-federal-grant-to-bridge-evidence-and-practice-for-clinicians-via-elect
-socialScore: 16
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -6,11 +6,11 @@ date: 2019-03-06T13:08:09Z
 description: Washington, Google is paying more to women employees than men in the
   "Level 4 Software Engineer" category, according to an internal study.
 dropmark.editURL: http://radhikan.dropmark.com/616548/18146441
-featuredImage: https://cdn2.dropmarkusercontent.com/353804/e47503ea059ffb85adf7d3e75b8a7838a703f2d6e77685dc290ca5f0d1ea3a9c/thumbnail/google-pays-women-more-than-men-in-one-job-category.jpg?Expires=1557446528&Signature=OE9aiLAjETSg8XDeLUjnMKlwWQjX103Me9pIA5pD0~RUolKr~DVTEW-o6dr4dtl7b3~~l9sKue91AP96lyVvanGP82DVZbLlSezF9v0ewvqAdaWYGkXBGelUSDbZoyBK7B4ecRT~2b4akxl5Z~EL8X2Iz5RdwAmYh3jV4oYDaRdBuFejw8c0E2ADCGtfHYXMqRZbuu3PBksXF0B7fjKDXfS2CIHtE1cSwFx0kM6tWIiweMpMqPV2oDMmTTzt7yWrKo1wAhhCLoGr0-O5mBEIm7TzTTsQEtht1DPc9u46IPu21xgs69~TXK1Lf0DISi07MiQ9MZbINv7LhJRJtBxy4g__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
+featuredImage: /img/content/post/health-economictimes-indiatimes-google-pays-women-more-than-men-in-one-job-category-health-news-et-healthworld.jpg
 link: https://health.economictimes.indiatimes.com/news/industry/google-pays-women-more-than-men-in-one-job-category/68279065
 linkBrand: health.economictimes.indiatimes.com
 slug: health-economictimes-indiatimes-google-pays-women-more-than-men-in-one-job-category-health-news-et-healthworld
-socialScore: 19
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

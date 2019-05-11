@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-data-of-45-000-rush-patients-e
 link: https://www.fiercehealthcare.com/tech/data-45-000-rush-patients-exposed-due-to-third-party-breach
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-data-of-45-000-rush-patients-exposed-due-to-third-party-breach
-socialScore: 15
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

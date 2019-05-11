@@ -8,10 +8,10 @@ description: 'This article reviews the new book, Deep Medicine: How Artificial I
   Can Make Healthcare Human Again, by Eric Topol (2019).'
 dropmark.editURL: http://radhikan.dropmark.com/616548/18700363
 featuredImage: /img/content/post/nature-how-algorithms-could-bring-empathy-back-to-medicine.jpg
-link: https://www.nature.com/articles/d41586-019-00708-7?code=df7e7c9f-bf3e-4492-b9f9-7eb9346d2289&error=cookies_not_supported
+link: https://www.nature.com/articles/d41586-019-00708-7?code=507986a5-1b4c-4d6b-b487-736e0f1f5252&error=cookies_not_supported
 linkBrand: nature.com
 slug: nature-how-algorithms-could-bring-empathy-back-to-medicine
-socialScore: 31
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-machine-learning-is-far-from-r
 link: https://www.healthcareitnews.com/video/machine-learning-far-ready-clinical-practice-medicine
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-machine-learning-is-far-from-ready-for-clinical-practice-of-medicine
-socialScore: 6
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

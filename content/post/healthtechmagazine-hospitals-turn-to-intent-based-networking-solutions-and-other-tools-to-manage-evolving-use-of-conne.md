@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthtechmagazine-hospitals-turn-to-intent-bas
 link: https://healthtechmagazine.net/article/2019/02/iot-pushes-healthcare-organizations-boost-network-capacity
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-hospitals-turn-to-intent-based-networking-solutions-and-other-tools-to-manage-evolving-use-of-conne
-socialScore: 7
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

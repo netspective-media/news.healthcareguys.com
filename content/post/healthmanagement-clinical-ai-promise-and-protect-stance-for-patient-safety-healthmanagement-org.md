@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthmanagement-clinical-ai-promise-and-protec
 link: https://healthmanagement.org/c/it/news/clinical-ai-promise-and-protect-stance-for-patient-safety
 linkBrand: healthmanagement.org
 slug: healthmanagement-clinical-ai-promise-and-protect-stance-for-patient-safety-healthmanagement-org
-socialScore: 24
+socialScore: 13
 socialScoreSimulated: true
 source:
   name: Dropmark

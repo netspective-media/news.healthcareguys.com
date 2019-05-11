@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-my-excel-health-what-can-you-le
 link: https://medicalfuturist.com/my-excel-health-what-can-you-learn-from-my-2018-in-numbers
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-my-excel-health-what-can-you-learn-from-my-2018-in-numbers-the-medical-futurist
-socialScore: 17
+socialScore: 36
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-5-steps-to-digital-transformat
 link: https://www.healthcareitnews.com/news/5-steps-digital-transformation-healthcare
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-5-steps-to-digital-transformation-for-healthcare
-socialScore: 9
+socialScore: 26
 socialScoreSimulated: true
 source:
   name: Dropmark

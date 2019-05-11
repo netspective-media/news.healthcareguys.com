@@ -8,7 +8,7 @@ featuredImage: /img/content/post/fiercehealthcare-qanda-new-patient-safety-movem
 link: https://www.fiercehealthcare.com/hospitals-health-systems/new-medstar-exec-name-ceo-patient-safety-movement-foundation
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-qanda-new-patient-safety-movement-foundation-ceo-david-mayer-discusses-need-for-new-laws-roi-of-saf
-socialScore: 18
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

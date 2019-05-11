@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-medicomp-systems-to-debut-new-
 link: https://www.healthcareitnews.com/news/medicomp-systems-debut-new-value-based-care-tech-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-medicomp-systems-to-debut-new-value-based-care-tech-at-himss19
-socialScore: 12
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

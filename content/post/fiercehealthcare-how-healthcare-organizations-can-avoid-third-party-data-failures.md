@@ -8,7 +8,7 @@ featuredImage: /img/content/post/fiercehealthcare-how-healthcare-organizations-c
 link: https://www.fiercehealthcare.com/tech/industry-voices-how-healthcare-organizations-can-avoid-third-party-data-failures
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-how-healthcare-organizations-can-avoid-third-party-data-failures
-socialScore: 48
+socialScore: 20
 socialScoreSimulated: true
 source:
   name: Dropmark

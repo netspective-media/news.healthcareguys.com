@@ -11,7 +11,7 @@ featuredImage: /img/content/post/news-healthcareguys-the-medical-device-and-iot-
 link: https://news.healthcareguys.com/sub/the-medical-device-and-iot-summit/
 linkBrand: news.healthcareguys.com
 slug: news-healthcareguys-the-medical-device-and-iot-summit-23-24-april-2019
-socialScore: 29
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

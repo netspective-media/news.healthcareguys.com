@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-sessions-you-ll-want-t
 link: https://www.fiercehealthcare.com/tech/himss19-sessions-you-ll-want-to-see
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-sessions-you-ll-want-to-check-out-while-you-re-in-orlando
-socialScore: 10
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

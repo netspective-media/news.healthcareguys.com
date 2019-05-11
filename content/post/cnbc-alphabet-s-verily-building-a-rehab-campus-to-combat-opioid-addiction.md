@@ -10,7 +10,7 @@ featuredImage: /img/content/post/cnbc-alphabet-s-verily-building-a-rehab-campus-
 link: https://www.cnbc.com/2019/02/06/alphabets-verily-building-a-rehab-campus-to-combat-opioid-addiction.html
 linkBrand: cnbc.com
 slug: cnbc-alphabet-s-verily-building-a-rehab-campus-to-combat-opioid-addiction
-socialScore: 29
+socialScore: 30
 socialScoreSimulated: true
 source:
   name: Dropmark

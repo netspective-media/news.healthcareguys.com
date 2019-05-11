@@ -12,7 +12,7 @@ import (
 const defaultRepositoryName model.RepositoryName = "news.healthcareguys.com"
 
 func configure() (*model.Configuration, error) {
-	result, err := model.MakeConfiguration()
+	config, err := model.MakeConfiguration()
 	if err != nil {
 		return nil, err
 	}
@@ -35,18 +35,20 @@ func configure() (*model.Configuration, error) {
 		return nil, err
 	}
 
-	settings := result.DefaultBundle()
-	settings.Repositories.All = append(settings.Repositories.All, model.FileRepository{
+	lls := config.LinkLifecyleSettings(model.DefaultSettingsPath)
+	repos := config.Repositories(model.DefaultSettingsPath)
+
+	repos.All = append(repos.All, model.FileRepository{
 		Name:           defaultRepositoryName,
 		URL:            model.URLText("file://" + rootPath),
 		RootPath:       rootPath,
 		CreateRootPath: false})
 
-	settings.Links.TraverseLinks = true
-	settings.Links.ScoreLinks.Score = true
-	settings.Links.ScoreLinks.Simulate = true
+	lls.TraverseLinks = true
+	lls.ScoreLinks.Score = true
+	lls.ScoreLinks.Simulate = true
 
-	return result, nil
+	return config, nil
 }
 
 func main() {
@@ -56,14 +58,10 @@ func main() {
 	}
 
 	input := &model.BookmarksToMarkdownPipelineInput{
-		BookmarksURL:       "https://shah.dropmark.com/616548.json",
-		Flavor:             model.MarkdownFlavorHugoContent,
-		Repository:         defaultRepositoryName,
-		SettingsBundle:     model.DefaultSettingsBundleName,
-		Strategy:           model.PipelineExecutionStrategyAsynchronous,
-		ContentPathRel:     "content/post",
-		ImagesCachePathRel: "static/img/content/post",
-		ImagesCacheRootURL: "/img/content/post"}
+		BookmarksURL: "https://shah.dropmark.com/616548.json",
+		Repository:   defaultRepositoryName,
+		Settings:     model.DefaultSettingsPath,
+		Strategy:     model.PipelineExecutionStrategyAsynchronous}
 
 	task, err := pipeline.NewBookmarksToMarkdown(config, input)
 	if err != nil {

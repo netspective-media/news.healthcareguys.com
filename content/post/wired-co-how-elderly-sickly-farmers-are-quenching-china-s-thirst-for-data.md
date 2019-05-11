@@ -10,7 +10,7 @@ featuredImage: /img/content/post/wired-co-how-elderly-sickly-farmers-are-quenchi
 link: https://www.wired.co.uk/article/china-ai-healthcare
 linkBrand: wired.co.uk
 slug: wired-co-how-elderly-sickly-farmers-are-quenching-china-s-thirst-for-data
-socialScore: 23
+socialScore: 4
 socialScoreSimulated: true
 source:
   name: Dropmark

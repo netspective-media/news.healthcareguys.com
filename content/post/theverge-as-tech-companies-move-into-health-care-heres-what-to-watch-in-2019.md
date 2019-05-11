@@ -11,7 +11,7 @@ featuredImage: /img/content/post/theverge-as-tech-companies-move-into-health-car
 link: https://www.theverge.com/2019/1/3/18166673/technology-health-care-amazon-apple-uber-alphabet-google-verily
 linkBrand: theverge.com
 slug: theverge-as-tech-companies-move-into-health-care-heres-what-to-watch-in-2019
-socialScore: 31
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

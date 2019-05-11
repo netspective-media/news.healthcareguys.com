@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-a-healthcare-data-revolu
 link: http://www.healthcarebusinesstech.com/healthcare-data-visualization/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-a-healthcare-data-revolution-the-case-for-data-visualization
-socialScore: 12
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

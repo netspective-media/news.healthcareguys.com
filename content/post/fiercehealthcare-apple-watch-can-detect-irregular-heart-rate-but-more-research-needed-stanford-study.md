@@ -9,7 +9,7 @@ featuredImage: /img/content/post/fiercehealthcare-apple-watch-can-detect-irregul
 link: https://www.fiercehealthcare.com/tech/apple-watch-can-detect-irregular-heart-rate-but-more-research-needed-stanford-study
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-apple-watch-can-detect-irregular-heart-rate-but-more-research-needed-stanford-study
-socialScore: 40
+socialScore: 43
 socialScoreSimulated: true
 source:
   name: Dropmark

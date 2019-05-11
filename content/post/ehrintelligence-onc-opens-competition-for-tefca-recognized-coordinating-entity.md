@@ -9,7 +9,7 @@ featuredImage: /img/content/post/ehrintelligence-onc-opens-competition-for-tefca
 link: https://ehrintelligence.com/news/onc-opens-competition-for-tefca-recognized-coordinating-entity
 linkBrand: ehrintelligence.com
 slug: ehrintelligence-onc-opens-competition-for-tefca-recognized-coordinating-entity
-socialScore: 36
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

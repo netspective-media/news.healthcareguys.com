@@ -10,7 +10,7 @@ featuredImage: /img/content/post/washingtonpost-the-dangers-of-facial-recognitio
 link: https://www.washingtonpost.com/outlook/2019/02/08/dangers-facial-recognition-software/?noredirect=on
 linkBrand: washingtonpost.com
 slug: washingtonpost-the-dangers-of-facial-recognition-software-the-washington-post
-socialScore: 17
+socialScore: 46
 socialScoreSimulated: true
 source:
   name: Dropmark

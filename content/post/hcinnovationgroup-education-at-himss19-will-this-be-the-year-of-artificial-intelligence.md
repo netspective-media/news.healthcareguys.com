@@ -13,7 +13,7 @@ featuredImage: /img/content/post/hcinnovationgroup-education-at-himss19-will-thi
 link: https://www.hcinnovationgroup.com/analytics-ai/artifical-intelligence-machine-learning/blog/21067975/education-at-himss19-will-this-be-the-year-of-artificial-intelligence
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-education-at-himss19-will-this-be-the-year-of-artificial-intelligence
-socialScore: 40
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

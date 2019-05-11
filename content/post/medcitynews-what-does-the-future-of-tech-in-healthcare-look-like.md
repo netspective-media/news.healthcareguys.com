@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medcitynews-what-does-the-future-of-tech-in-hea
 link: https://medcitynews.com/2018/12/future-of-tech-in-healthcare/
 linkBrand: medcitynews.com
 slug: medcitynews-what-does-the-future-of-tech-in-healthcare-look-like
-socialScore: 36
+socialScore: 33
 socialScoreSimulated: true
 source:
   name: Dropmark

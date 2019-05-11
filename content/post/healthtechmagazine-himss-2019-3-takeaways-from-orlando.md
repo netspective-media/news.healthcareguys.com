@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-3-takeaways-from-
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-3-takeaways-orlando
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-3-takeaways-from-orlando
-socialScore: 24
+socialScore: 11
 socialScoreSimulated: true
 source:
   name: Dropmark

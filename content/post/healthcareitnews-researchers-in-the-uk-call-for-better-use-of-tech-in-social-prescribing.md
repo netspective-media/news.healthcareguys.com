@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcareitnews-researchers-in-the-uk-call-for
 link: https://www.healthcareitnews.com/news/researchers-uk-call-better-use-tech-social-prescribing
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-researchers-in-the-uk-call-for-better-use-of-tech-in-social-prescribing
-socialScore: 3
+socialScore: 35
 socialScoreSimulated: true
 source:
   name: Dropmark

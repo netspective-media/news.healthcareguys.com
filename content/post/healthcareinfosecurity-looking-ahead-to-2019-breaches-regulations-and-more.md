@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareinfosecurity-looking-ahead-to-2019-br
 link: https://www.healthcareinfosecurity.com/blogs/looking-ahead-to-2019-breaches-regulations-more-p-2694
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-looking-ahead-to-2019-breaches-regulations-and-more
-socialScore: 40
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

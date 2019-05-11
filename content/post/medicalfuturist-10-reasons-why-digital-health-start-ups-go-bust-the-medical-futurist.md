@@ -11,7 +11,7 @@ featuredImage: /img/content/post/medicalfuturist-10-reasons-why-digital-health-s
 link: https://medicalfuturist.com/10-reasons-why-digital-health-start-ups-go-bust
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-10-reasons-why-digital-health-start-ups-go-bust-the-medical-futurist
-socialScore: 24
+socialScore: 14
 socialScoreSimulated: true
 source:
   name: Dropmark

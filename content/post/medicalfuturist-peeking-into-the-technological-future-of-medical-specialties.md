@@ -9,7 +9,7 @@ featuredImage: /img/content/post/medicalfuturist-peeking-into-the-technological-
 link: https://medicalfuturist.com/future-of-medical-specialties-e-book
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-peeking-into-the-technological-future-of-medical-specialties
-socialScore: 5
+socialScore: 25
 socialScoreSimulated: true
 source:
   name: Dropmark

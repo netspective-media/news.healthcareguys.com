@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthcarebusinesstech-keeping-protected-health
 link: http://www.healthcarebusinesstech.com/aiuseprotectphi/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-keeping-protected-health-information-private-in-the-era-of-ai
-socialScore: 8
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

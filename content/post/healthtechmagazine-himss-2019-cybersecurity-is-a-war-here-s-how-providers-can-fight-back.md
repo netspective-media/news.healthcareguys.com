@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-cybersecurity-is-
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-cybersecurity-war-heres-how-providers-can-fight-back
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-cybersecurity-is-a-war-here-s-how-providers-can-fight-back
-socialScore: 32
+socialScore: 19
 socialScoreSimulated: true
 source:
   name: Dropmark

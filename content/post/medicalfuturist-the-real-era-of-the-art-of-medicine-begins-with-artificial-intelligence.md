@@ -10,7 +10,7 @@ featuredImage: /img/content/post/medicalfuturist-the-real-era-of-the-art-of-medi
 link: https://medicalfuturist.com/artificial-intelligence-and-the-art-of-medicine
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-real-era-of-the-art-of-medicine-begins-with-artificial-intelligence
-socialScore: 24
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

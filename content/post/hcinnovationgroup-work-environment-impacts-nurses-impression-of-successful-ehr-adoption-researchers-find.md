@@ -12,7 +12,7 @@ featuredImage: /img/content/post/hcinnovationgroup-work-environment-impacts-nurs
 link: https://www.hcinnovationgroup.com/clinical-it/electronic-health-record-electronic-medical-record-ehr-emr/news/21072436/work-environment-impacts-nurses-impression-of-successful-ehr-adoption-researchers-find
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-work-environment-impacts-nurses-impression-of-successful-ehr-adoption-researchers-find
-socialScore: 13
+socialScore: 0
 socialScoreSimulated: true
 source:
   name: Dropmark

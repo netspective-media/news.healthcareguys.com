@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-global-alliance-for-genomics-a
 link: https://www.healthcareitnews.com/news/global-alliance-genomics-and-health-picks-7-data-initiatives-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-global-alliance-for-genomics-and-health-picks-7-data-initiatives-for-2019
-socialScore: 15
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

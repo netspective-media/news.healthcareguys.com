@@ -10,7 +10,7 @@ featuredImage: /img/content/post/hcinnovationgroup-healthcare-s-ehr-usability-pr
 link: https://www.hcinnovationgroup.com/clinical-it/electronic-health-record-electronic-medical-record-ehr-emr/article/21069997/healthcares-ehr-usability-problem-how-new-efforts-are-addressing-the-issueand-potentially-saving-lives
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-healthcare-s-ehr-usability-problem-how-new-efforts-are-addressing-the-issue-and-potentially-sa
-socialScore: 31
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -8,7 +8,7 @@ featuredImage: /img/content/post/content-intland-using-agile-in-medical-device-s
 link: https://content.intland.com/blog/aami-tir45-using-agile-in-medical-device-software-development?hs_amp=true
 linkBrand: content.intland.com
 slug: content-intland-using-agile-in-medical-device-software-development
-socialScore: 44
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

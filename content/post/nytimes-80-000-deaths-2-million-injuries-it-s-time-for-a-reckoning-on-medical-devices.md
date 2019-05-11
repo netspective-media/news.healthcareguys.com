@@ -7,7 +7,7 @@ featuredImage: /img/content/post/nytimes-80-000-deaths-2-million-injuries-it-s-t
 link: https://www.nytimes.com/2019/05/04/opinion/sunday/medical-devices.html?emc=edit_th_190505&nl=todaysheadlines&nlid=239949420505
 linkBrand: nytimes.com
 slug: nytimes-80-000-deaths-2-million-injuries-it-s-time-for-a-reckoning-on-medical-devices
-socialScore: 47
+socialScore: 27
 socialScoreSimulated: true
 source:
   name: Dropmark

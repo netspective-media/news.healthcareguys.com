@@ -10,7 +10,7 @@ featuredImage: /img/content/post/mobihealthnews-robots-can-improve-care-for-kids
 link: https://www.mobihealthnews.com/content/robots-can-improve-care-kids-neurologic-conditions-%E2%80%94-some-risk-dependency
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-robots-can-improve-care-for-kids-with-neurologic-conditions-with-some-risk-of-dependency
-socialScore: 25
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

@@ -11,7 +11,7 @@ featuredImage: /img/content/post/mobihealthnews-google-patent-application-offers
 link: https://www.mobihealthnews.com/content/google-patent-application-offers-new-details-companys-predictive-ehr-aggregation-system
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-google-patent-application-offers-new-details-on-company-s-predictive-ehr-aggregation-system
-socialScore: 36
+socialScore: 7
 socialScoreSimulated: true
 source:
   name: Dropmark

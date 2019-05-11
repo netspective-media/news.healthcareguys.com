@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthcareitnews-an-early-look-at-a-cdc-project
 link: https://www.healthcareitnews.com/news/early-look-cdc-project-digitizing-infectious-disease-guidelines-work-ehrs
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-an-early-look-at-a-cdc-project-digitizing-infectious-disease-guidelines-to-work-in-ehrs
-socialScore: 22
+socialScore: 3
 socialScoreSimulated: true
 source:
   name: Dropmark

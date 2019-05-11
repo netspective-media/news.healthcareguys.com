@@ -7,7 +7,7 @@ featuredImage: /img/content/post/startribune-all-of-records-erased-doctor-s-offi
 link: http://www.startribune.com/all-of-records-erased-doctor-s-office-closes-after-ransomware-attack/508180992/
 linkBrand: startribune.com
 slug: startribune-all-of-records-erased-doctor-s-office-closes-after-ransomware-attack
-socialScore: 44
+socialScore: 31
 socialScoreSimulated: true
 source:
   name: Dropmark

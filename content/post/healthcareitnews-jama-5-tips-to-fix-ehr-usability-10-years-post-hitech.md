@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-jama-5-tips-to-fix-ehr-usabili
 link: https://www.healthcareitnews.com/news/jama-5-tips-fix-ehr-usability-10-years-post-hitech
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-jama-5-tips-to-fix-ehr-usability-10-years-post-hitech
-socialScore: 1
+socialScore: 37
 socialScoreSimulated: true
 source:
   name: Dropmark

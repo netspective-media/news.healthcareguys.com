@@ -9,7 +9,7 @@ featuredImage: /img/content/post/himss-six-pathways-to-interoperability-for-pati
 link: https://www.himss.org/news/six-pathways-interoperability-patient-centered-care
 linkBrand: himss.org
 slug: himss-six-pathways-to-interoperability-for-patient-centered-care
-socialScore: 22
+socialScore: 38
 socialScoreSimulated: true
 source:
   name: Dropmark

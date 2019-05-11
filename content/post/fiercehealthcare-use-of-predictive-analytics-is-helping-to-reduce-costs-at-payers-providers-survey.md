@@ -12,7 +12,7 @@ featuredImage: /img/content/post/fiercehealthcare-use-of-predictive-analytics-is
 link: https://www.fiercehealthcare.com/tech/use-predictive-analytics-helping-to-reduce-costs-at-payers-providers-survey
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-use-of-predictive-analytics-is-helping-to-reduce-costs-at-payers-providers-survey
-socialScore: 10
+socialScore: 19
 socialScoreSimulated: true
 source:
   name: Dropmark

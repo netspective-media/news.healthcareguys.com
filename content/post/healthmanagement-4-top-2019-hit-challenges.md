@@ -9,7 +9,7 @@ featuredImage: /img/content/post/healthmanagement-4-top-2019-hit-challenges.jpg
 link: https://healthmanagement.org/c/it/news/4-top-2019-hit-challenges
 linkBrand: healthmanagement.org
 slug: healthmanagement-4-top-2019-hit-challenges
-socialScore: 17
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

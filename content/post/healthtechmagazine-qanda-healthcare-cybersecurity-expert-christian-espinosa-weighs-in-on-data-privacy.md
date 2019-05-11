@@ -10,7 +10,7 @@ featuredImage: /img/content/post/healthtechmagazine-qanda-healthcare-cybersecuri
 link: https://healthtechmagazine.net/article/2019/01/qa-healthcare-cybersecurity-expert-christian-espinosa-weighs-data-privacy
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-qanda-healthcare-cybersecurity-expert-christian-espinosa-weighs-in-on-data-privacy
-socialScore: 49
+socialScore: 48
 socialScoreSimulated: true
 source:
   name: Dropmark

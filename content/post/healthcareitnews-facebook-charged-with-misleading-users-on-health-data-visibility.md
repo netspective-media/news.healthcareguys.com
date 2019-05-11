@@ -12,7 +12,7 @@ featuredImage: /img/content/post/healthcareitnews-facebook-charged-with-misleadi
 link: https://www.healthcareitnews.com/news/facebook-charged-misleading-users-health-data-visibility
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-facebook-charged-with-misleading-users-on-health-data-visibility
-socialScore: 16
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

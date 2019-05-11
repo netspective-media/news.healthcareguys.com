@@ -14,7 +14,7 @@ featuredImage: /img/content/post/mobihealthnews-blockchain-helping-providers-del
 link: https://www.mobihealthnews.com/content/sponsored-blockchain-helping-providers-deliver-high-quality-care
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-blockchain-helping-providers-deliver-high-quality-care
-socialScore: 12
+socialScore: 6
 socialScoreSimulated: true
 source:
   name: Dropmark

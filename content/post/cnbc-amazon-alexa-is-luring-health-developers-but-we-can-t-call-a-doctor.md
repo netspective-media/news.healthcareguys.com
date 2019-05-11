@@ -10,7 +10,7 @@ featuredImage: /img/content/post/cnbc-amazon-alexa-is-luring-health-developers-b
 link: https://www.cnbc.com/2019/04/14/amazon-alexa-is-luring-health-developers-but-we-cant-call-a-doctor.html?__source=twitter%7Cmain
 linkBrand: cnbc.com
 slug: cnbc-amazon-alexa-is-luring-health-developers-but-we-can-t-call-a-doctor
-socialScore: 49
+socialScore: 9
 socialScoreSimulated: true
 source:
   name: Dropmark

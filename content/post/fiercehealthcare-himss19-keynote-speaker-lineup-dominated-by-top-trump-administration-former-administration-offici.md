@@ -11,7 +11,7 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-keynote-speaker-lineup
 link: https://www.fiercehealthcare.com/tech/himss19-keynote-speakers
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-keynote-speaker-lineup-dominated-by-top-trump-administration-former-administration-offici
-socialScore: 22
+socialScore: 16
 socialScoreSimulated: true
 source:
   name: Dropmark

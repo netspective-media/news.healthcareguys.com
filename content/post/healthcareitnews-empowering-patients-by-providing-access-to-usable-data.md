@@ -11,7 +11,7 @@ featuredImage: /img/content/post/healthcareitnews-empowering-patients-by-providi
 link: https://www.healthcareitnews.com/video/empowering-patients-providing-access-usable-data
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-empowering-patients-by-providing-access-to-usable-data
-socialScore: 26
+socialScore: 23
 socialScoreSimulated: true
 source:
   name: Dropmark
