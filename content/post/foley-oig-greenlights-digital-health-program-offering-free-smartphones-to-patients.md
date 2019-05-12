@@ -13,8 +13,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17654298
 link: https://www.foley.com/en/insights/publications/2019/02/oig-greenlights-digital-health-program-offering-fr
 linkBrand: foley.com
 slug: foley-oig-greenlights-digital-health-program-offering-free-smartphones-to-patients
-socialScore: 17
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

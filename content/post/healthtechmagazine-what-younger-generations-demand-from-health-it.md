@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthtechmagazine-what-younger-generations-dem
 link: https://healthtechmagazine.net/article/2019/03/what-younger-generations-demand-health-it
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-what-younger-generations-demand-from-health-it
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-what-healthcare-o
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-what-healthcare-organizations-should-know-diving-blockchain
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-what-healthcare-organizations-should-know-before-diving-into-blockchain
-socialScore: 25
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

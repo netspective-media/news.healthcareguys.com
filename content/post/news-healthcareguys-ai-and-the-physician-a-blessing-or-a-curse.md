@@ -9,8 +9,6 @@ featuredImage: /img/content/post/news-healthcareguys-ai-and-the-physician-a-bles
 link: https://news.healthcareguys.com/sub/ai-and-the-physician-a-blessing-or-a-curse/
 linkBrand: news.healthcareguys.com
 slug: news-healthcareguys-ai-and-the-physician-a-blessing-or-a-curse
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

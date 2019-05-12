@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-3-charts-show-where-artificial
 link: https://www.healthcareitnews.com/news/3-charts-show-where-artificial-intelligence-making-impact-healthcare-right-now
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-3-charts-show-where-artificial-intelligence-is-making-an-impact-in-healthcare-right-now
-socialScore: 44
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

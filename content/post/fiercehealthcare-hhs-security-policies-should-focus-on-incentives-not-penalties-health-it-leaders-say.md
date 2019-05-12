@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-hhs-security-policies-should-f
 link: https://www.fiercehealthcare.com/tech/hhs-security-policies-should-focus-incentives-not-just-penalties-health-it-leaders-say
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-hhs-security-policies-should-focus-on-incentives-not-penalties-health-it-leaders-say
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

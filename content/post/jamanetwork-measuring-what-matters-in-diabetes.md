@@ -10,8 +10,6 @@ featuredImage: /img/content/post/jamanetwork-measuring-what-matters-in-diabetes.
 link: https://jamanetwork.com/journals/jama/fullarticle/2730954
 linkBrand: jamanetwork.com
 slug: jamanetwork-measuring-what-matters-in-diabetes
-socialScore: 42
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

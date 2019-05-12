@@ -12,8 +12,6 @@ featuredImage: /img/content/post/medicalfuturist-where-is-digital-health-heading
 link: https://medicalfuturist.com/danish-digital-health-strategy
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-where-is-digital-health-heading-in-denmark-the-medical-futurist
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

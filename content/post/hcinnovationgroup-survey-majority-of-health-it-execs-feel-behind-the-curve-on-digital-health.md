@@ -12,8 +12,6 @@ featuredImage: /img/content/post/hcinnovationgroup-survey-majority-of-health-it-
 link: https://www.hcinnovationgroup.com/clinical-it/news/21074830/survey-majority-of-health-it-execs-feel-behind-the-curve-on-digital-health
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-survey-majority-of-health-it-execs-feel-behind-the-curve-on-digital-health
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

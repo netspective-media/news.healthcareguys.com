@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-hl7-gives-a-glimpse-of-fhir-5.
 link: https://www.healthcareitnews.com/news/hl7-gives-glimpse-fhir-5
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-hl7-gives-a-glimpse-of-fhir-5
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

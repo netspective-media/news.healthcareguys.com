@@ -14,8 +14,6 @@ featuredImage: /img/content/post/medicalfuturist-5g-in-healthcare-boosting-remot
 link: https://medicalfuturist.com/5g-in-healthcare-boosting-telehealth-vr-connected-health
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-5g-in-healthcare-boosting-remote-brain-surgeries-connected-health-or-medical-vr
-socialScore: 14
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

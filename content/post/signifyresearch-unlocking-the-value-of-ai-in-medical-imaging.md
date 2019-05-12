@@ -9,8 +9,6 @@ featuredImage: /img/content/post/signifyresearch-unlocking-the-value-of-ai-in-me
 link: https://www.signifyresearch.net/medical-imaging/unlocking-value-ai-medical-imaging/
 linkBrand: signifyresearch.net
 slug: signifyresearch-unlocking-the-value-of-ai-in-medical-imaging
-socialScore: 21
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

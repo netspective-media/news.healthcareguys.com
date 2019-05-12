@@ -9,8 +9,6 @@ featuredImage: /img/content/post/beckershospitalreview-report-clinical-decision-
 link: https://www.beckershospitalreview.com/ehrs/report-clinical-decision-support-tools-may-help-improve-antimicrobial-stewardship-programs.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-report-clinical-decision-support-tools-may-help-improve-antimicrobial-stewardship-programs
-socialScore: 48
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

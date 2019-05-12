@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-where-digital-health-venture-c
 link: https://www.healthcareitnews.com/news/where-digital-health-venture-capitalists-invested-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-where-digital-health-venture-capitalists-invested-in-2019
-socialScore: 26
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

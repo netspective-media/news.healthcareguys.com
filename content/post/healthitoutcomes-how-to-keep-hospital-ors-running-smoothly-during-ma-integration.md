@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17600677
 link: https://www.healthitoutcomes.com/doc/how-to-keep-hospital-ors-running-smoothly-during-m-a-integration-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-how-to-keep-hospital-ors-running-smoothly-during-ma-integration
-socialScore: 44
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

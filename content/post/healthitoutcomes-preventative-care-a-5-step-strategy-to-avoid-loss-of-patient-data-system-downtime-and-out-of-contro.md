@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18085632
 link: https://www.healthitoutcomes.com/doc/preventative-care-a-step-strategy-to-avoid-loss-of-patient-data-system-downtime-and-out-of-control-data-management-costs-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-preventative-care-a-5-step-strategy-to-avoid-loss-of-patient-data-system-downtime-and-out-of-contro
-socialScore: 28
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

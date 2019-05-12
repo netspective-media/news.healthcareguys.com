@@ -11,8 +11,6 @@ featuredImage: /img/content/post/himss-interoperability-the-foundation-of-impact
 link: https://www.himss.org/news/interoperability-foundation-impactful-health-innovation
 linkBrand: himss.org
 slug: himss-interoperability-the-foundation-of-impactful-health-innovation
-socialScore: 42
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

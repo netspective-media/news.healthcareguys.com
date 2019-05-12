@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18520566
 link: https://www.foley.com/en/insights/publications/2019/04/arizona-governor-signs-new-telehealth-insurance-la
 linkBrand: foley.com
 slug: foley-arizona-governor-signs-new-telehealth-insurance-law
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

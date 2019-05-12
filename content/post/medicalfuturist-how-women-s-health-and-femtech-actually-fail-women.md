@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-how-women-s-health-and-femtech-
 link: https://medicalfuturist.com/femtech-womens-health
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-how-women-s-health-and-femtech-actually-fail-women
-socialScore: 9
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

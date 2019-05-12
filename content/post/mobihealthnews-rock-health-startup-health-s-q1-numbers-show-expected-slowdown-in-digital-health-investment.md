@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-rock-health-startup-health-s-q1-
 link: https://www.mobihealthnews.com/content/rock-health-startup-healths-q1-numbers-show-expected-slowdown-digital-health-investment
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-rock-health-startup-health-s-q1-numbers-show-expected-slowdown-in-digital-health-investment
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-interoperability-health-it-s-h
 link: https://www.healthcareitnews.com/projects/interoperability-health-its-hardest-problem-finally-inflection-point
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-interoperability-health-it-s-hardest-problem-is-finally-at-an-inflection-point
-socialScore: 35
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

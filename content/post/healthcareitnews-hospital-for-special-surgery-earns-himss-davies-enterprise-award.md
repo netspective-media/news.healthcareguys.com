@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-hospital-for-special-surgery-e
 link: https://www.healthcareitnews.com/news/hospital-special-surgery-earns-himss-davies-enterprise-award
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-hospital-for-special-surgery-earns-himss-davies-enterprise-award
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

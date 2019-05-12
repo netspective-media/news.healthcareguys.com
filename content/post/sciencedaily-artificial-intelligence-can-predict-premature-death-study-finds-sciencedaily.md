@@ -11,8 +11,6 @@ featuredImage: /img/content/post/sciencedaily-artificial-intelligence-can-predic
 link: https://www.sciencedaily.com/releases/2019/03/190327142032.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-can-predict-premature-death-study-finds-sciencedaily
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

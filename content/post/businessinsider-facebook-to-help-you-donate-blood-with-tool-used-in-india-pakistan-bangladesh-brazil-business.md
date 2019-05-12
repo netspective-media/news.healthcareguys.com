@@ -11,8 +11,6 @@ featuredImage: /img/content/post/businessinsider-facebook-to-help-you-donate-blo
 link: https://www.businessinsider.com/facebook-wants-help-you-give-blood-us-india-brazil-2019-2?r=US&IR=T
 linkBrand: businessinsider.com
 slug: businessinsider-facebook-to-help-you-donate-blood-with-tool-used-in-india-pakistan-bangladesh-brazil-business
-socialScore: 12
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

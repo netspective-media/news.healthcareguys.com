@@ -7,8 +7,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18507882
 link: https://www.nist.gov/itl/ssd/systems-interoperability-group/healthcare-standards-testing
 linkBrand: nist.gov
 slug: nist-nist-healthcare-standards-and-conformance-testing
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

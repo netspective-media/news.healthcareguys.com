@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-fda-commissioner-scott-gottlie
 link: https://www.healthcareitnews.com/news/fda-commissioner-scott-gottlieb-step-down
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-fda-commissioner-scott-gottlieb-to-step-down
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

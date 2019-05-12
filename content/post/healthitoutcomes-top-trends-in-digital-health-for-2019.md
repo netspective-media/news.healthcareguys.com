@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthitoutcomes-top-trends-in-digital-health-f
 link: https://www.healthitoutcomes.com/doc/top-trends-in-digital-health-for-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-top-trends-in-digital-health-for-2019
-socialScore: 19
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

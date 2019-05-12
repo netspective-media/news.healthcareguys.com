@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-hl7-s-grieve-fhir-will-set-dat
 link: https://www.healthcareitnews.com/video/hl7%E2%80%99s-grieve-fhir-will-set-data-free-empowering-both-patients-and-providers
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-hl7-s-grieve-fhir-will-set-data-free-empowering-both-patients-and-providers
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

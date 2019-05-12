@@ -7,8 +7,6 @@ featuredImage: /img/content/post/nytimes-virtual-reality-as-therapy-for-pain.jpg
 link: https://www.nytimes.com/2019/04/29/well/live/virtual-reality-as-therapy-for-pain.html
 linkBrand: nytimes.com
 slug: nytimes-virtual-reality-as-therapy-for-pain
-socialScore: 4
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

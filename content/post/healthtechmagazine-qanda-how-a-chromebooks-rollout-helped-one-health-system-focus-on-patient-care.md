@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthtechmagazine-qanda-how-a-chromebooks-roll
 link: https://healthtechmagazine.net/article/2019/04/qa-how-chromebooks-rollout-helped-one-health-system-focus-patient-care
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-qanda-how-a-chromebooks-rollout-helped-one-health-system-focus-on-patient-care
-socialScore: 7
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

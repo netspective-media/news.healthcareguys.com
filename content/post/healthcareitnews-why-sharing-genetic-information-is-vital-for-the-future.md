@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-why-sharing-genetic-informatio
 link: https://www.healthcareitnews.com/video/why-sharing-genetic-information-vital-future
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-why-sharing-genetic-information-is-vital-for-the-future
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

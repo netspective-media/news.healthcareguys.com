@@ -11,8 +11,6 @@ featuredImage: /img/content/post/securityinfowatch-hospitals-have-holy-grail-of-
 link: https://www.securityinfowatch.com/cybersecurity/information-security/news/21071501/hospitals-have-holy-grail-of-personal-data-yet-their-spending-lags-on-digital-security
 linkBrand: securityinfowatch.com
 slug: securityinfowatch-hospitals-have-holy-grail-of-personal-data-yet-their-spending-lags-on-digital-security
-socialScore: 7
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

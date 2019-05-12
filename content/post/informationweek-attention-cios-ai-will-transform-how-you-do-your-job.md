@@ -8,8 +8,6 @@ featuredImage: /img/content/post/informationweek-attention-cios-ai-will-transfor
 link: https://informationweek.com/strategic-cio/attention-cios-ai-will-transform-how-you-do-your-job/a/d-id/1334538
 linkBrand: informationweek.com
 slug: informationweek-attention-cios-ai-will-transform-how-you-do-your-job
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-how-hies-and-ai-can-work-in-ta
 link: https://www.healthcareitnews.com/news/how-hies-and-ai-can-work-tandem-boost-interoperability-roi
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-hies-and-ai-can-work-in-tandem-to-boost-interoperability-roi
-socialScore: 22
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

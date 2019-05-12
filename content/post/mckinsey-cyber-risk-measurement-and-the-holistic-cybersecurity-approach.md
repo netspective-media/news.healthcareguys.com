@@ -9,7 +9,7 @@ featuredImage: /img/content/post/mckinsey-cyber-risk-measurement-and-the-holisti
 link: https://www.mckinsey.com/business-functions/risk/our-insights/cyber-risk-measurement-and-the-holistic-cybersecurity-approach
 linkBrand: mckinsey.com
 slug: mckinsey-cyber-risk-measurement-and-the-holistic-cybersecurity-approach
-socialScore: 15
+socialScore: 8
 socialScoreSimulated: true
 source:
   name: Dropmark

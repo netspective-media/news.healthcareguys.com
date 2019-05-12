@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-the-herabeat-fetal-heart-monito
 link: https://medicalfuturist.com/herabeat-fetal-heart-monitor-review
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-herabeat-fetal-heart-monitor-review-the-medical-futurist
-socialScore: 45
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

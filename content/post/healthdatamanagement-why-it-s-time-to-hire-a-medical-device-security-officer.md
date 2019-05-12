@@ -7,8 +7,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18685714
 link: https://www.healthdatamanagement.com/opinion/why-its-time-to-hire-a-medical-device-security-officer
 linkBrand: healthdatamanagement.com
 slug: healthdatamanagement-why-it-s-time-to-hire-a-medical-device-security-officer
-socialScore: 48
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

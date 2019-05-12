@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-amazon-alexa-celebrates-hipaa-co
 link: https://www.mobihealthnews.com/content/amazon-alexa-celebrates-hipaa-compliant-data-transfer-six-new-healthcare-skills
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-amazon-alexa-celebrates-hipaa-compliant-data-transfer-with-six-new-healthcare-skills
-socialScore: 35
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

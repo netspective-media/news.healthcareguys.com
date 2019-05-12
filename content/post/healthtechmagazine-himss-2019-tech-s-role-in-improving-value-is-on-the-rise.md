@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-tech-s-role-in-im
 link: https://healthtechmagazine.net/article/2019/01/himss-2019-techs-role-improving-value-rise
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-tech-s-role-in-improving-value-is-on-the-rise
-socialScore: 33
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

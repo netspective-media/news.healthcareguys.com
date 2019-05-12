@@ -11,8 +11,6 @@ featuredImage: /img/content/post/insidesources-should-consumers-be-able-to-opt-o
 link: https://www.insidesources.com/should-consumers-be-forced-to-opt-out-of-data-sharing-by-big-tech/
 linkBrand: insidesources.com
 slug: insidesources-should-consumers-be-able-to-opt-out-of-data-sharing-by-big-tech-insidesources
-socialScore: 7
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

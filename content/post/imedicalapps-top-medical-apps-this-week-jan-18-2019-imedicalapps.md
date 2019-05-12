@@ -10,8 +10,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17353705
 link: https://www.imedicalapps.com/2019/01/top-medical-apps-this-week-jan-18-2019/
 linkBrand: imedicalapps.com
 slug: imedicalapps-top-medical-apps-this-week-jan-18-2019-imedicalapps
-socialScore: 2
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-himss-tv-at-himss19-will-feature
 link: https://www.mobihealthnews.com/content/himss-tv-himss19-will-feature-innovation-leaders-former-us-cto-livongo-ceo-and-more
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-himss-tv-at-himss19-will-feature-innovation-leaders-former-governor-google-cloud-director-and-mo
-socialScore: 0
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

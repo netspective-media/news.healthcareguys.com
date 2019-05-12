@@ -10,8 +10,6 @@ featuredImage: /img/content/post/health-economictimes-indiatimes-google-pays-wom
 link: https://health.economictimes.indiatimes.com/news/industry/google-pays-women-more-than-men-in-one-job-category/68279065
 linkBrand: health.economictimes.indiatimes.com
 slug: health-economictimes-indiatimes-google-pays-women-more-than-men-in-one-job-category-health-news-et-healthworld
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

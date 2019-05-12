@@ -10,8 +10,6 @@ featuredImage: /img/content/post/hcinnovationgroup-social-determinants-of-health
 link: https://www.hcinnovationgroup.com/population-health-management/social-determinants-of-health/article/21067860/social-determinants-of-health-and-the-ehr-one-himss-presenters-story
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-social-determinants-of-health-and-the-ehr-one-himss-presenter-s-story
-socialScore: 28
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

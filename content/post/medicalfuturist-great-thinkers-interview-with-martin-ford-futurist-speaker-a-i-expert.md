@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-great-thinkers-interview-with-m
 link: https://medicalfuturist.com/martin-ford-great-thinkers
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-great-thinkers-interview-with-martin-ford-futurist-speaker-a-i-expert
-socialScore: 0
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -9,8 +9,6 @@ featuredImage: /img/content/post/medicalfuturist-how-to-answer-patient-questions
 link: https://medicalfuturist.com/guide-patient-questions-digital-health
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-how-to-answer-patient-questions-about-digital-health
-socialScore: 19
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

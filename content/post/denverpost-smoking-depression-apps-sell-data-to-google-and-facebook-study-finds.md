@@ -11,8 +11,6 @@ featuredImage: /img/content/post/denverpost-smoking-depression-apps-sell-data-to
 link: https://www.denverpost.com/2019/04/29/smoking-depression-apps-data-google-facebook/
 linkBrand: denverpost.com
 slug: denverpost-smoking-depression-apps-sell-data-to-google-and-facebook-study-finds
-socialScore: 48
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

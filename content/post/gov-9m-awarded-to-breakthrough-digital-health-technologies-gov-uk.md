@@ -11,8 +11,6 @@ featuredImage: /img/content/post/gov-9m-awarded-to-breakthrough-digital-health-t
 link: https://www.gov.uk/government/news/9m-awarded-to-breakthrough-digital-health-technologies
 linkBrand: gov.uk
 slug: gov-9m-awarded-to-breakthrough-digital-health-technologies-gov-uk
-socialScore: 20
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

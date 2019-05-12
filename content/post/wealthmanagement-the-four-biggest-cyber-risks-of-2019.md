@@ -9,7 +9,7 @@ featuredImage: /img/content/post/wealthmanagement-the-four-biggest-cyber-risks-o
 link: https://www.wealthmanagement.com/technology/four-biggest-cyber-risks-2019
 linkBrand: wealthmanagement.com
 slug: wealthmanagement-the-four-biggest-cyber-risks-of-2019
-socialScore: 5
+socialScore: 29
 socialScoreSimulated: true
 source:
   name: Dropmark

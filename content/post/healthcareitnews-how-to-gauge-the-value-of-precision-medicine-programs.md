@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-how-to-gauge-the-value-of-prec
 link: https://www.healthcareitnews.com/news/how-gauge-value-precision-medicine-programs
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-to-gauge-the-value-of-precision-medicine-programs
-socialScore: 5
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

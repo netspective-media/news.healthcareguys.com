@@ -9,8 +9,6 @@ featuredImage: /img/content/post/hhs-ocr-concludes-all-time-record-year-for-hipa
 link: https://www.hhs.gov/about/news/2019/02/07/ocr-concludes-all-time-record-year-for-hipaa-enforcement-with-3-million-cottage-health-settlement.html
 linkBrand: hhs.gov
 slug: hhs-ocr-concludes-all-time-record-year-for-hipaa-enforcement-with-3-million-cottage-health-settlement
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -12,8 +12,6 @@ featuredImage: /img/content/post/fiercehealthcare-harvard-dana-farber-ai-challen
 link: https://www.fiercehealthcare.com/tech/harvard-dana-farber-ai-challenge-produces-promising-results-to-improve-cancer-care
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-harvard-dana-farber-ai-challenge-uses-crowdsourcing-to-improve-cancer-care
-socialScore: 9
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

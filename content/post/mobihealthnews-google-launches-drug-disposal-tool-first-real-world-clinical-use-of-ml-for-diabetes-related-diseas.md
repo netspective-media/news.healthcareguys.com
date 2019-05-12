@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-google-launches-drug-disposal-to
 link: https://www.mobihealthnews.com/content/google-launches-drug-disposal-tool-first-real-world-clinical-use-ml-diabetes-related
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-google-launches-drug-disposal-tool-first-real-world-clinical-use-of-ml-for-diabetes-related-diseas
-socialScore: 22
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

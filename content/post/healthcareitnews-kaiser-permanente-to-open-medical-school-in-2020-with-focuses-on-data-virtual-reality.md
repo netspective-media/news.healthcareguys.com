@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-kaiser-permanente-to-open-medi
 link: https://www.healthcareitnews.com/news/kaiser-permanente-open-medical-school-2020-focuses-data-virtual-reality
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-kaiser-permanente-to-open-medical-school-in-2020-with-focuses-on-data-virtual-reality
-socialScore: 47
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

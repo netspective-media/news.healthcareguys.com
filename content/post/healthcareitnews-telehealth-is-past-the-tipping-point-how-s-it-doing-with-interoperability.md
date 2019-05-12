@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-telehealth-is-past-the-tipping
 link: https://www.healthcareitnews.com/news/telehealth-past-tipping-point-hows-it-doing-interoperability
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-telehealth-is-past-the-tipping-point-how-s-it-doing-with-interoperability
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

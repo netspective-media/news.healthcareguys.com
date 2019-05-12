@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-key-security-considerati
 link: https://www.healthcareinfosecurity.com/interviews/key-security-considerations-for-ai-robotics-i-4258
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-key-security-considerations-for-ai-and-robotics
-socialScore: 0
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

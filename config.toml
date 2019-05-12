@@ -13,4 +13,4 @@ brand = "Digital Health News"
 description = "Netspective Media"
 
 [permalinks]
-post = "/:year/:month/:day/:slug/"
+post = "/post/:year/:month/:day/:slug/"

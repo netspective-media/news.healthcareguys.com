@@ -11,8 +11,6 @@ featuredImage: /img/content/post/digitaltrends-alphabet-s-verily-health-watch-mo
 link: https://www.digitaltrends.com/wearables/alphabet-health-watch-fda/
 linkBrand: digitaltrends.com
 slug: digitaltrends-alphabet-s-verily-health-watch-monitors-your-heart-rate-approved-by-the-fda
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

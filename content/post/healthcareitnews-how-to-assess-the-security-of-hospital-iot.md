@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-how-to-assess-the-security-of-
 link: https://www.healthcareitnews.com/news/how-assess-security-hospital-iot
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-to-assess-the-security-of-hospital-iot
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

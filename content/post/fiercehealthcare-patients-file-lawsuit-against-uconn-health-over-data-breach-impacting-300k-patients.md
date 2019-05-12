@@ -9,8 +9,6 @@ featuredImage: /img/content/post/fiercehealthcare-patients-file-lawsuit-against-
 link: https://www.fiercehealthcare.com/tech/patients-file-lawsuit-against-uconn-health-over-data-breach-impacting-300k-patients
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-patients-file-lawsuit-against-uconn-health-over-data-breach-impacting-300k-patients
-socialScore: 47
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

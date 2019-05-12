@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-himss19-cybersecurity-in
 link: https://www.healthcareinfosecurity.com/blogs/himss19-cybersecurity-in-spotlight-p-2718
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-himss19-cybersecurity-in-the-spotlight-healthcareinfosecurity
-socialScore: 29
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

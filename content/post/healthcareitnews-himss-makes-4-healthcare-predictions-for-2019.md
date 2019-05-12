@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-himss-makes-4-healthcare-predi
 link: https://www.healthcareitnews.com/news/himss-makes-4-healthcare-predictions-2019
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss-makes-4-healthcare-predictions-for-2019
-socialScore: 49
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-vanderbilt-s-ai-powered-ehr-vo
 link: https://www.healthcareitnews.com/news/vanderbilts-ai-powered-ehr-voice-assistant-saves-time-caregivers
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-vanderbilt-s-ai-powered-ehr-voice-assistant-saves-time-for-caregivers
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

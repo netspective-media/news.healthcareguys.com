@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-google-verily-using-ai-to-scre
 link: https://www.healthcareitnews.com/news/google-verily-using-ai-screen-diabetic-retinopathy-india
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-google-verily-using-ai-to-screen-for-diabetic-retinopathy-in-india
-socialScore: 25
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

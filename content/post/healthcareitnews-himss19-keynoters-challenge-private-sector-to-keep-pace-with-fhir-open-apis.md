@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-himss19-keynoters-challenge-pr
 link: https://www.healthcareitnews.com/news/himss19-keynoters-challenge-private-sector-keep-pace-fhir-open-apis
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-keynoters-challenge-private-sector-to-keep-pace-with-fhir-open-apis
-socialScore: 14
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

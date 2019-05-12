@@ -8,8 +8,6 @@ featuredImage: /img/content/post/modernhealthcare-hospital-software-decisions-dr
 link: https://www.modernhealthcare.com/technology/peer-networks-drive-software-decisions-hospital-cios
 linkBrand: modernhealthcare.com
 slug: modernhealthcare-hospital-software-decisions-driven-by-cio-peer-networks
-socialScore: 49
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

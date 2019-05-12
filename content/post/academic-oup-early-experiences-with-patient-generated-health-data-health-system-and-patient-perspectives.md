@@ -10,8 +10,6 @@ featuredImage: /img/content/post/academic-oup-early-experiences-with-patient-gen
 link: https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocz045/5476189?redirectedFrom=fulltext
 linkBrand: academic.oup.com
 slug: academic-oup-early-experiences-with-patient-generated-health-data-health-system-and-patient-perspectives
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

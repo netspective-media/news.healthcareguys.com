@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-perfectserve-acquires-ai-schedul
 link: https://www.mobihealthnews.com/content/perfectserve-acquires-ai-scheduling-technology-physicians-mobile-patient-engagement-tool
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-perfectserve-acquires-ai-scheduling-technology-for-physicians-mobile-patient-engagement-tool
-socialScore: 5
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

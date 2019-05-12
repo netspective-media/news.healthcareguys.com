@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthtechmagazine-qanda-hazel-health-ceo-josh-
 link: https://healthtechmagazine.net/article/2019/01/qa-hazel-health-ceo-josh-golomb-how-telehealth-can-make-difference-schools
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-qanda-hazel-health-ceo-josh-golomb-on-how-telehealth-can-make-a-difference-in-schools
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

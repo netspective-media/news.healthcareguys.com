@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-top-health-it-challenges-right
 link: https://www.healthcareitnews.com/news/top-health-it-challenges-right-now-interoperability-modernization
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-top-health-it-challenges-right-now-interoperability-modernization
-socialScore: 15
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

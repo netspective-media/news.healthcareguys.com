@@ -10,7 +10,7 @@ featuredImage: /img/content/post/ocregister-personal-data-for-1-000-pensioners-a
 link: https://www.ocregister.com/2019/03/11/personal-data-for-1000-pensioners-accessed-from-oc-sanitation-district/
 linkBrand: ocregister.com
 slug: ocregister-personal-data-for-1-000-pensioners-accessed-from-oc-sanitation-district-orange-county-register
-socialScore: 9
+socialScore: 22
 socialScoreSimulated: true
 source:
   name: Dropmark

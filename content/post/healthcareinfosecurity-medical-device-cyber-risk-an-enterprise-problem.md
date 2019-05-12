@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-medical-device-cyber-ris
 link: https://www.healthcareinfosecurity.com/interviews/medical-device-cyber-risk-enterprise-problem-i-4245
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-medical-device-cyber-risk-an-enterprise-problem
-socialScore: 30
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

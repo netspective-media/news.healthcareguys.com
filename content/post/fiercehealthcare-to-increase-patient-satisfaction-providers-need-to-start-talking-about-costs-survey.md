@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-to-increase-patient-satisfacti
 link: https://www.fiercehealthcare.com/finance/to-increase-patient-satisfaction-providers-need-to-start-talking-about-costs-survey
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-to-increase-patient-satisfaction-providers-need-to-start-talking-about-costs-survey
-socialScore: 43
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

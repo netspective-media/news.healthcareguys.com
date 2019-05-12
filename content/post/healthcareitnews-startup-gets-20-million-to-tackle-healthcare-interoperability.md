@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-startup-gets-20-million-to-tac
 link: https://www.healthcareitnews.com/news/startup-gets-20-million-tackle-healthcare-interoperability
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-startup-gets-20-million-to-tackle-healthcare-interoperability
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

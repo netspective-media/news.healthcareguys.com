@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthtechmagazine-hhs-digs-into-how-ai-based-t
 link: https://healthtechmagazine.net/article/2019/03/hhs-digs-how-ai-based-tools-can-help-battle-diseases
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-hhs-digs-into-how-ai-based-tools-can-help-battle-diseases
-socialScore: 18
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

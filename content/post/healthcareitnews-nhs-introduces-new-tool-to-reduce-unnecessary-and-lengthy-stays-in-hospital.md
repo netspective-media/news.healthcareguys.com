@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-nhs-introduces-new-tool-to-red
 link: https://www.healthcareitnews.com/news/nhs-introduces-new-tool-reduce-unnecessary-and-lengthy-stays-hospital
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-nhs-introduces-new-tool-to-reduce-unnecessary-and-lengthy-stays-in-hospital
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

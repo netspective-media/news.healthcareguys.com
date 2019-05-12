@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-why-information-security-shoul
 link: https://www.healthcareitnews.com/news/why-information-security-should-be-every-hospital-ceos-no-2-priority-least-right-now
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-why-information-security-should-be-every-hospital-ceo-s-no-2-priority-at-least-right-now
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

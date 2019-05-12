@@ -9,8 +9,6 @@ featuredImage: /img/content/post/medcitynews-research-shows-most-consumer-behavi
 link: https://medcitynews.com/2019/03/research-shows-most-consumer-behavioral-health-apps-have-no-scientific-backing/?_hsenc=p2ANqtz-_sh8ZEsqtf8W9EN3dg8JK0NjvB7ZK_cdiS_zzM8IhXlMid26DlS0EblGiA8YDi8LdE0xrUwPRxOIFFdoAuVO-CTVY1qQ&_hsmi=71284541
 linkBrand: medcitynews.com
 slug: medcitynews-research-shows-most-consumer-behavioral-health-apps-have-no-scientific-backing
-socialScore: 38
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -7,8 +7,6 @@ featuredImage: /img/content/post/medium-the-corruption-of-evidence-based-medicin
 link: https://medium.com/@drjasonfung/the-corruption-of-evidence-based-medicine-killing-for-profit-41f2812b8704
 linkBrand: medium.com
 slug: medium-the-corruption-of-evidence-based-medicine-killing-for-profit
-socialScore: 15
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

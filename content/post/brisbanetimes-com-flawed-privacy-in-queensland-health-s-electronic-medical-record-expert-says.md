@@ -12,8 +12,6 @@ featuredImage: /img/content/post/brisbanetimes-com-flawed-privacy-in-queensland-
 link: https://www.brisbanetimes.com.au/national/queensland/flawed-privacy-in-queensland-health-s-electronic-medical-record-expert-says-20190131-p50uy5.html
 linkBrand: brisbanetimes.com.au
 slug: brisbanetimes-com-flawed-privacy-in-queensland-health-s-electronic-medical-record-expert-says
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

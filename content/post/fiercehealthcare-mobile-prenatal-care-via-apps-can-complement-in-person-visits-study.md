@@ -10,8 +10,6 @@ featuredImage: /img/content/post/fiercehealthcare-mobile-prenatal-care-via-apps-
 link: https://www.fiercehealthcare.com/tech/mobile-prenatal-care-app-complements-person-visits
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-mobile-prenatal-care-via-apps-can-complement-in-person-visits-study
-socialScore: 29
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -9,8 +9,6 @@ featuredImage: /img/content/post/akingump-top-10-topics-for-directors-in-2019-cy
 link: https://www.akingump.com/en/experience/practices/corporate/ag-deal-diary/top-10-topics-for-directors-in-2019-cybersecurity.html
 linkBrand: akingump.com
 slug: akingump-top-10-topics-for-directors-in-2019-cybersecurity
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

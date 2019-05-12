@@ -10,8 +10,6 @@ featuredImage: /img/content/post/statnews-a-machine-learning-device-meant-for-ch
 link: https://www.statnews.com/2019/04/24/wearable-monitors-chronically-ill-at-home/
 linkBrand: statnews.com
 slug: statnews-a-machine-learning-device-meant-for-chronically-ill-moves-into-homes
-socialScore: 41
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

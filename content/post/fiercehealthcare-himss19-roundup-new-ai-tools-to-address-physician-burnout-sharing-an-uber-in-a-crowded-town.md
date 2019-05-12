@@ -10,8 +10,6 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-roundup-new-ai-tools-t
 link: https://www.fiercehealthcare.com/tech/himss19-roundup
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-roundup-new-ai-tools-to-address-physician-burnout-sharing-an-uber-in-a-crowded-town
-socialScore: 20
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

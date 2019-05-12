@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-ai-and-predictive-analyt
 link: http://www.healthcarebusinesstech.com/ai-and-predictive-analytics-lead-to-improved-delivery-of-healthcare-services/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-ai-and-predictive-analytics-lead-to-improved-delivery-of-healthcare-services
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-health-data-hacking-inci
 link: https://www.healthcareinfosecurity.com/health-data-hacking-incident-affects-400000-a-12122
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-health-data-hacking-incident-affects-400-000-healthcareinfosecurity
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

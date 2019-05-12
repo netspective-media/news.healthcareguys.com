@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthmanagement-hacking-the-ai-to-protect-imag
 link: https://healthmanagement.org/c/imaging/news/hacking-the-ai-to-protect-imaging-devices
 linkBrand: healthmanagement.org
 slug: healthmanagement-hacking-the-ai-to-protect-imaging-devices
-socialScore: 33
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

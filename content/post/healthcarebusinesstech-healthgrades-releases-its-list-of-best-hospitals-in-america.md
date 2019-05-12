@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-healthgrades-releases-it
 link: http://www.healthcarebusinesstech.com/healthgrades-best-hospitals/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-healthgrades-releases-its-list-of-best-hospitals-in-america
-socialScore: 43
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

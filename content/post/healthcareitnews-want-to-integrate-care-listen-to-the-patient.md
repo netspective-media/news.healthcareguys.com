@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-want-to-integrate-care-listen-
 link: https://www.healthcareitnews.com/news/want-integrate-care-listen-patient
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-want-to-integrate-care-listen-to-the-patient
-socialScore: 25
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

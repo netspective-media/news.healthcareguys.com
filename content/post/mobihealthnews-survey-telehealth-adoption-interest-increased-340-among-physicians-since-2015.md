@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-survey-telehealth-adoption-inter
 link: https://www.mobihealthnews.com/content/survey-telehealth-adoption-interest-increased-340-among-physicians-2015
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-survey-telehealth-adoption-interest-increased-340-among-physicians-since-2015
-socialScore: 23
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

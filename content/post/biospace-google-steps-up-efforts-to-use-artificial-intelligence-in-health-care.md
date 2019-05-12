@@ -10,7 +10,7 @@ featuredImage: /img/content/post/biospace-google-steps-up-efforts-to-use-artific
 link: https://www.biospace.com/article/google-steps-up-efforts-to-use-artificial-intelligence-in-health-care/
 linkBrand: biospace.com
 slug: biospace-google-steps-up-efforts-to-use-artificial-intelligence-in-health-care
-socialScore: 30
+socialScore: 12
 socialScoreSimulated: true
 source:
   name: Dropmark

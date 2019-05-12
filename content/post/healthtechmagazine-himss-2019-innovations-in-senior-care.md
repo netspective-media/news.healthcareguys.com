@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-innovations-in-se
 link: https://healthtechmagazine.net/media/video/himss-2019-innovations-drive-enhancements-senior-care
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-innovations-in-senior-care
-socialScore: 44
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

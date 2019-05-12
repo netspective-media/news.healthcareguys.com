@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18062147
 link: https://www.healthitoutcomes.com/doc/less-talk-more-action-ways-himss-is-kickstarting-conversations-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-less-talk-more-action-3-ways-himss19-is-kickstarting-conversations
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

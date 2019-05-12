@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-top-10-digital-health-mergers-a
 link: https://medicalfuturist.com/digital-health-mergers-and-acquisitions-2018
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-top-10-digital-health-mergers-and-acquisitions-show-trends-for-2019
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -9,8 +9,6 @@ featuredImage: /img/content/post/hcinnovationgroup-ai-and-healthcare-cure-all-po
 link: https://www.hcinnovationgroup.com/population-health-management/article/13031016/ai-and-healthcare-cureall-poison-pill-or-simply-smarter-medicine
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-ai-and-healthcare-cure-all-poison-pill-or-simply-smarter-medicine
-socialScore: 12
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

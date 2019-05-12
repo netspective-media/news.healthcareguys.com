@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17263540
 link: http://geekdoctor.blogspot.com/2019/01/choosing-effective-sticky-health-apps_10.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-choosing-effective-sticky-health-apps-part-2
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

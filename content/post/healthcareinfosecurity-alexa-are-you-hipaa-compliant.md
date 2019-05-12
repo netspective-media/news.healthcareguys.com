@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-alexa-are-you-hipaa-comp
 link: https://www.healthcareinfosecurity.com/interviews/alexa-are-you-hipaa-compliant-i-4293
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-alexa-are-you-hipaa-compliant
-socialScore: 26
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

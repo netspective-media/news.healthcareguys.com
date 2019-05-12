@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-out-in-front-using-real-
 link: http://www.healthcarebusinesstech.com/out-in-front-using-real-time-technology-to-get-ahead-of-hospital-crises/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-out-in-front-using-real-time-technology-to-get-ahead-of-hospital-crises
-socialScore: 47
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

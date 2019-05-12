@@ -9,8 +9,6 @@ featuredImage: /img/content/post/fiercehealthcare-telemedicine-linked-to-more-an
 link: https://www.fiercehealthcare.com/tech/telemedicine-linked-to-more-antibiotic-prescriptions-for-children-study-finds
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-telemedicine-linked-to-more-antibiotic-prescriptions-for-children-study-finds
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

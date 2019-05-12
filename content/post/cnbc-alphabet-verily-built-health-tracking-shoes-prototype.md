@@ -11,8 +11,6 @@ featuredImage: /img/content/post/cnbc-alphabet-verily-built-health-tracking-shoe
 link: https://www.cnbc.com/2019/02/01/alphabet-verily-built-health-tracking-shoes-prototype.html
 linkBrand: cnbc.com
 slug: cnbc-alphabet-verily-built-health-tracking-shoes-prototype
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

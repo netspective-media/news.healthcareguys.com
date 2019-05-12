@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-benefits-of-implementing
 link: http://www.healthcarebusinesstech.com/benefits-of-implementing-robotics-in-care-facilities/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-benefits-of-implementing-robotics-in-care-facilities
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

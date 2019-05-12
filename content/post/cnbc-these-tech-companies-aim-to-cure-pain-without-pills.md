@@ -8,8 +8,6 @@ featuredImage: /img/content/post/cnbc-these-tech-companies-aim-to-cure-pain-with
 link: https://www.cnbc.com/amp/2019/03/15/sana-mask-aims-to-cure-pain-without-pills-prevent-opioid-addiction.html
 linkBrand: cnbc.com
 slug: cnbc-these-tech-companies-aim-to-cure-pain-without-pills
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

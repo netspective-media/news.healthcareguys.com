@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-himss19-a-short-guide-to-regio
 link: https://www.healthcareitnews.com/news/himss19-short-guide-regional-workshops
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss19-a-short-guide-to-regional-workshops
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

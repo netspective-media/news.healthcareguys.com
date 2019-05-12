@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18190801
 link: https://www.imedicalapps.com/2019/03/best-android-apps-this-week/
 linkBrand: imedicalapps.com
 slug: imedicalapps-best-android-medical-apps-this-week-imedicalapps
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

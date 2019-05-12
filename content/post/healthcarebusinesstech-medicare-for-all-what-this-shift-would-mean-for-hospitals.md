@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-medicare-for-all-what-th
 link: http://www.healthcarebusinesstech.com/medicare-for-all-hospitals/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-medicare-for-all-what-this-shift-would-mean-for-hospitals
-socialScore: 28
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

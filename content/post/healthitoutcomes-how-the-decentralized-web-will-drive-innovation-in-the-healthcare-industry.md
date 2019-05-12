@@ -11,8 +11,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18004568
 link: https://www.healthitoutcomes.com/doc/how-the-decentralized-web-will-drive-innovation-in-the-healthcare-industry-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-how-the-decentralized-web-will-drive-innovation-in-the-healthcare-industry
-socialScore: 39
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

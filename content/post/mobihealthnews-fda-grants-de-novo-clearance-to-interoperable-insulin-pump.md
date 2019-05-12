@@ -13,8 +13,6 @@ featuredImage: /img/content/post/mobihealthnews-fda-grants-de-novo-clearance-to-
 link: https://www.mobihealthnews.com/content/fda-grants-de-novo-clearance-interoperable-insulin-pump
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-fda-grants-de-novo-clearance-to-interoperable-insulin-pump
-socialScore: 29
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

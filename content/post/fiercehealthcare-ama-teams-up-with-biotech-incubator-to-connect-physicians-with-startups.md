@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-ama-teams-up-with-biotech-incu
 link: https://www.fiercehealthcare.com/tech/ama-teams-up-biotech-incubator-to-connect-physicians-startups
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-ama-teams-up-with-biotech-incubator-to-connect-physicians-with-startups
-socialScore: 35
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

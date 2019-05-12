@@ -10,8 +10,6 @@ featuredImage: /img/content/post/thehealthcareblog-death-by-1000-clicks-redux.jp
 link: https://thehealthcareblog.com/blog/2019/04/08/death-by-1000-clicks-redux/
 linkBrand: thehealthcareblog.com
 slug: thehealthcareblog-death-by-1000-clicks-redux
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

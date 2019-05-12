@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-fda-s-new-draft-guidance-could-h
 link: https://www.mobihealthnews.com/content/fdas-new-draft-guidance-could-hinder-applications-digital-combination-products
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-fda-s-new-draft-guidance-could-hinder-applications-for-digital-combination-products
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

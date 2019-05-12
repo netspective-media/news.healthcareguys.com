@@ -7,8 +7,6 @@ featuredImage: /img/content/post/healthblawg-healthcare-data-analytics-and-insur
 link: https://healthblawg.com/2019/02/data-analytics-insurance.html
 linkBrand: healthblawg.com
 slug: healthblawg-healthcare-data-analytics-and-insurance-system-reform
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

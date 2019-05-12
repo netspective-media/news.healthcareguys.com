@@ -13,8 +13,6 @@ featuredImage: /img/content/post/healthcareitnews-taking-advantage-of-50-billion
 link: https://www.healthcareitnews.com/video/taking-advantage-50-billion-connected-devices-2020
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-taking-advantage-of-50-billion-connected-devices-by-2020
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

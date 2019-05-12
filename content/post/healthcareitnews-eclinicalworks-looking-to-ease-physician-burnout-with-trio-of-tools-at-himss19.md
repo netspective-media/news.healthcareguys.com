@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-eclinicalworks-looking-to-ease
 link: https://www.healthcareitnews.com/news/eclinicalworks-looking-ease-physician-burnout-trio-tools-himss19-0
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-eclinicalworks-looking-to-ease-physician-burnout-with-trio-of-tools-at-himss19
-socialScore: 1
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

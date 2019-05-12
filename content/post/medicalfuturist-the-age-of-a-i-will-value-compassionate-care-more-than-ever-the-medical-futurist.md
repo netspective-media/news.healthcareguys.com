@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-the-age-of-a-i-will-value-compa
 link: https://medicalfuturist.com/the-age-of-a-i-will-value-compassionate-care-more-than-ever
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-age-of-a-i-will-value-compassionate-care-more-than-ever-the-medical-futurist
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -9,8 +9,6 @@ featuredImage: /img/content/post/fiercehealthcare-fiercemadness-health-buzzwords
 link: https://www.fiercehealthcare.com/hospitals-health-systems/fiercemadness-health-buzzwords-grab-a-bracket-and-get-ready-to-vote-for
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-fiercemadness-health-buzzwords-grab-a-bracket-and-vote-for-the-most-overused-buzzword-of-2019
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

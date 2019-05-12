@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-can-ehrs-contributions-to-phys
 link: https://www.healthcareitnews.com/news/can-ehrs%E2%80%99-contributions-physician-burnout-be-cured-mixing-training-can-help
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-can-ehrs-contributions-to-physician-burnout-be-cured-mixing-up-training-can-help
-socialScore: 9
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthtechmagazine-what-computer-vision-is-and-
 link: https://healthtechmagazine.net/article/2019/01/computer-vision-healthcare-what-it-can-offer-providers-perfcon
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-what-computer-vision-is-and-how-it-s-changing-healthcare-healthtech-magazine
-socialScore: 2
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

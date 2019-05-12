@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-onc-here-s-how-hospitals-are-u
 link: https://www.healthcareitnews.com/news/onc-here-s-how-hospitals-are-using-ehr-data-beyond-patient-care
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-onc-here-s-how-hospitals-are-using-ehr-data-beyond-patient-care
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

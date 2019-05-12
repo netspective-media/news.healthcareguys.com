@@ -10,8 +10,6 @@ featuredImage: /img/content/post/hcinnovationgroup-ehr-related-issues-top-patien
 link: https://www.hcinnovationgroup.com/clinical-it/patient-safety/news/21071783/ehrrelated-issues-top-patient-safety-concern-list
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-ehr-related-issues-top-patient-safety-concern-list
-socialScore: 41
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

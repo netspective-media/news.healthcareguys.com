@@ -10,8 +10,6 @@ featuredImage: /img/content/post/beckershospitalreview-telehealth-ehr-optimizati
 link: https://www.beckershospitalreview.com/healthcare-information-technology/telehealth-ehr-optimization-more-see-the-breakdown-of-most-important-trends-in-healthcare.html
 linkBrand: beckershospitalreview.com
 slug: beckershospitalreview-telehealth-ehr-optimization-and-more-see-the-breakdown-of-most-important-trends-in-healthcare
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

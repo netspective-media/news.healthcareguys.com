@@ -10,8 +10,6 @@ featuredImage: /img/content/post/nation-co-dr-google-doesn-t-always-know-what-s-
 link: https://www.nation.co.ke/lifestyle/health/internet-not-always-best-for-medical-information/1954202-4956104-ruaeh1/index.html
 linkBrand: nation.co.ke
 slug: nation-co-dr-google-doesn-t-always-know-what-s-best-daily-nation
-socialScore: 26
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

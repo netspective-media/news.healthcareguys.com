@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthitoutcomes-the-significance-of-a-software
 link: https://www.healthitoutcomes.com/doc/the-significance-of-a-software-testing-tool-in-the-healthcare-industry-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-the-significance-of-a-software-testing-tool-in-the-healthcare-industry
-socialScore: 32
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

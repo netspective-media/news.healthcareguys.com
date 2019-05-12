@@ -11,8 +11,6 @@ featuredImage: /img/content/post/hcinnovationgroup-predicting-where-ai-will-have
 link: https://www.hcinnovationgroup.com/analytics-ai/article/21071336/predicting-where-ai-will-have-the-biggest-impact-on-healthcare
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-predicting-where-ai-will-have-the-biggest-impact-on-healthcare
-socialScore: 11
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

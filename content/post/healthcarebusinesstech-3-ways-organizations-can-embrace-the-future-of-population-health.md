@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-3-ways-organizations-can
 link: http://www.healthcarebusinesstech.com/3-ways-organizations-can-embrace-the-future-of-population-health/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-3-ways-organizations-can-embrace-the-future-of-population-health
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

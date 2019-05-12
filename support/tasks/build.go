@@ -45,7 +45,7 @@ func configure() (*model.Configuration, error) {
 		CreateRootPath: false})
 
 	lls.TraverseLinks = true
-	lls.ScoreLinks.Score = true
+	lls.ScoreLinks.Score = false
 	lls.ScoreLinks.Simulate = true
 
 	return config, nil

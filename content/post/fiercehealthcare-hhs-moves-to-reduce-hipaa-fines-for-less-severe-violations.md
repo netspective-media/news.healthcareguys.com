@@ -12,8 +12,6 @@ featuredImage: /img/content/post/fiercehealthcare-hhs-moves-to-reduce-hipaa-fine
 link: https://www.fiercehealthcare.com/tech/hhs-plans-to-lower-cap-hipaa-fines
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-hhs-moves-to-reduce-hipaa-fines-for-less-severe-violations
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

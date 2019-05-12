@@ -11,7 +11,7 @@ featuredImage: /img/content/post/nextgov-facial-recognition-bill-would-ban-compa
 link: https://www.nextgov.com/emerging-tech/2019/03/facial-recognition-bill-would-ban-companies-sharing-your-face-without-consent/155590/
 linkBrand: nextgov.com
 slug: nextgov-facial-recognition-bill-would-ban-companies-from-sharing-your-face-without-consent-nextgov
-socialScore: 23
+socialScore: 45
 socialScoreSimulated: true
 source:
   name: Dropmark

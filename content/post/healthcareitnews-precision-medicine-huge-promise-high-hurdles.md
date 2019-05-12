@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-precision-medicine-huge-promis
 link: https://www.healthcareitnews.com/news/precision-medicine-huge-promise-high-hurdles
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-precision-medicine-huge-promise-high-hurdles
-socialScore: 17
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

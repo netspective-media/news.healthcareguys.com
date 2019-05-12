@@ -9,8 +9,6 @@ featuredImage: /img/content/post/mobihealthnews-digital-health-funding-hits-1-4b
 link: https://www.mobihealthnews.com/content/digital-health-funding-hits-14b-2019s-first-quarter
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-digital-health-funding-hits-1-4b-in-2019-s-first-quarter
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

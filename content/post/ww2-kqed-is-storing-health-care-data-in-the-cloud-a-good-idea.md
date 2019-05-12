@@ -11,8 +11,6 @@ featuredImage: /img/content/post/ww2-kqed-is-storing-health-care-data-in-the-clo
 link: https://ww2.kqed.org/education/2015/11/18/is-storing-health-care-data-in-the-cloud-a-good-idea/
 linkBrand: ww2.kqed.org
 slug: ww2-kqed-is-storing-health-care-data-in-the-cloud-a-good-idea
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

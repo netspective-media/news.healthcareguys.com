@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthitoutcomes-5-rcm-trends-that-will-define-
 link: https://www.healthitoutcomes.com/doc/rcm-trends-that-will-define-for-medical-practices-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-5-rcm-trends-that-will-define-2019-for-medical-practices
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

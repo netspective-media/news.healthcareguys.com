@@ -10,8 +10,6 @@ featuredImage: /img/content/post/hcinnovationgroup-is-2019-the-year-of-the-patie
 link: https://www.hcinnovationgroup.com/population-health-management/patient-engagement/blog/21072328/is-2019-the-year-of-the-patient-voice
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-is-2019-the-year-of-the-patient-voice
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

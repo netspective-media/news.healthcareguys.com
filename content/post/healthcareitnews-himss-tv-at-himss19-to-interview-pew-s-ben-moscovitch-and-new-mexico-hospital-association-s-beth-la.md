@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-himss-tv-at-himss19-to-intervi
 link: https://www.healthcareitnews.com/news/update-himss-tv-adds-aneesh-chopra-dods-stacy-cummings-himss19-schedule
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-himss-tv-at-himss19-to-interview-pew-s-ben-moscovitch-and-new-mexico-hospital-association-s-beth-la
-socialScore: 34
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

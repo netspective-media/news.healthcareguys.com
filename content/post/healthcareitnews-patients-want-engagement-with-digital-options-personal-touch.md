@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-patients-want-engagement-with-
 link: https://www.healthcareitnews.com/news/patients-want-engagement-digital-options-personal-touch
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-patients-want-engagement-with-digital-options-personal-touch
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

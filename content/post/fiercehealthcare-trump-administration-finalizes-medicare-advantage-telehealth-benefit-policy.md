@@ -12,8 +12,6 @@ featuredImage: /img/content/post/fiercehealthcare-trump-administration-finalizes
 link: https://www.fiercehealthcare.com/payer/trump-administration-finalizes-medicare-advantage-telehealth-benefit-policy
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-trump-administration-finalizes-medicare-advantage-telehealth-benefit-policy
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

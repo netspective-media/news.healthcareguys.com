@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthmanagement-dementia-the-lost-times.png
 link: https://healthmanagement.org/c/hospital/news/dementia-the-lost-times
 linkBrand: healthmanagement.org
 slug: healthmanagement-dementia-the-lost-times
-socialScore: 48
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

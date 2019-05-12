@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthitoutcomes-6-ways-software-test-managemen
 link: https://www.healthitoutcomes.com/doc/ways-software-test-management-solutions-can-enhance-healthcare-apps-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-6-ways-software-test-management-solutions-can-enhance-healthcare-apps
-socialScore: 30
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

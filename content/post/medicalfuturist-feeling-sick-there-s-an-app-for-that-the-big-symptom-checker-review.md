@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-feeling-sick-there-s-an-app-for
 link: https://medicalfuturist.com/the-big-symptom-checker-review
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-feeling-sick-there-s-an-app-for-that-the-big-symptom-checker-review
-socialScore: 25
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

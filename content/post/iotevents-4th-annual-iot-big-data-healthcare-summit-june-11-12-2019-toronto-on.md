@@ -10,8 +10,6 @@ featuredImage: /img/content/post/iotevents-4th-annual-iot-big-data-healthcare-su
 link: https://iotevents.ca/event/healthcare-2019/
 linkBrand: iotevents.ca
 slug: iotevents-4th-annual-iot-big-data-healthcare-summit-june-11-12-2019-toronto-on
-socialScore: 12
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

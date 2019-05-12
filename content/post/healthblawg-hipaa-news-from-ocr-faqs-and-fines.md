@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthblawg-hipaa-news-from-ocr-faqs-and-fines.
 link: https://healthblawg.com/2019/04/hipaa-faqs-fines.html
 linkBrand: healthblawg.com
 slug: healthblawg-hipaa-news-from-ocr-faqs-and-fines
-socialScore: 49
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

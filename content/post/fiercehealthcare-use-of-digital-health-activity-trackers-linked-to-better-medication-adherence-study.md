@@ -10,8 +10,6 @@ featuredImage: /img/content/post/fiercehealthcare-use-of-digital-health-activity
 link: https://www.fiercehealthcare.com/tech/use-digital-health-activity-trackers-linked-to-better-medication-adherence-study
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-use-of-digital-health-activity-trackers-linked-to-better-medication-adherence-study
-socialScore: 20
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -12,8 +12,6 @@ featuredImage: /img/content/post/hcinnovationgroup-blockchain-leaders-disclose-k
 link: https://www.hcinnovationgroup.com/interoperability-hie/blockchain/article/21056240/blockchain-leaders-disclose-key-details-on-provider-data-management-project
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-blockchain-leaders-disclose-key-details-on-provider-data-management-project
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

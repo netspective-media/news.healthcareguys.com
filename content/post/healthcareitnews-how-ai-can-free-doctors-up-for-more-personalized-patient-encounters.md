@@ -9,8 +9,6 @@ featuredImage: /img/content/post/healthcareitnews-how-ai-can-free-doctors-up-for
 link: https://www.healthcareitnews.com/video/how-ai-can-free-doctors-more-personalized-patient-encounters
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-ai-can-free-doctors-up-for-more-personalized-patient-encounters
-socialScore: 17
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

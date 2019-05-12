@@ -8,8 +8,6 @@ featuredImage: /img/content/post/radiologybusiness-new-fda-draft-guidance-examin
 link: https://www.radiologybusiness.com/topics/policy/fda-quantitative-imaging-function-premarket
 linkBrand: radiologybusiness.com
 slug: radiologybusiness-new-fda-draft-guidance-examines-devices-with-quantitative-imaging-functions
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

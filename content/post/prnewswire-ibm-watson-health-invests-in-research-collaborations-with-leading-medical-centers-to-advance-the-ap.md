@@ -9,8 +9,6 @@ featuredImage: /img/content/post/prnewswire-ibm-watson-health-invests-in-researc
 link: https://www.prnewswire.com/news-releases/ibm-watson-health-invests-in-research-collaborations-with-leading-medical-centers-to-advance-the-application-of-ai-to-health-300795155.html
 linkBrand: prnewswire.com
 slug: prnewswire-ibm-watson-health-invests-in-research-collaborations-with-leading-medical-centers-to-advance-the-ap
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

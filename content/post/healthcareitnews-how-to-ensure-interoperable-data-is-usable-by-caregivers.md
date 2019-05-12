@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-how-to-ensure-interoperable-da
 link: https://www.healthcareitnews.com/news/how-ensure-interoperable-data-usable-caregivers
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-how-to-ensure-interoperable-data-is-usable-by-caregivers
-socialScore: 21
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

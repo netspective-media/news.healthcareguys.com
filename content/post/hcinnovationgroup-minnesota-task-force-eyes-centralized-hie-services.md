@@ -9,8 +9,6 @@ featuredImage: /img/content/post/hcinnovationgroup-minnesota-task-force-eyes-cen
 link: https://www.hcinnovationgroup.com/interoperability-hie/article/21045462/minnesota-task-force-eyes-centralized-hie-services
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-minnesota-task-force-eyes-centralized-hie-services
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

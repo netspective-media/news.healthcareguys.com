@@ -14,8 +14,6 @@ haveFrontMatter: true
 link: https://www.expressnews.com/business/article/University-Healthcare-System-to-invest-170-13729660.php
 linkBrand: expressnews.com
 slug: expressnews-university-healthcare-system-to-invest-170-million-in-new-medical-record-technology-expressnews
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -15,8 +15,6 @@ featuredImage: /img/content/post/sciencedaily-artificial-intelligence-applied-to
 link: https://www.sciencedaily.com/releases/2019/01/190116122650.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-applied-to-the-genome-identifies-an-unknown-human-ancestor
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

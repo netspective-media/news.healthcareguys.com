@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthitoutcomes-the-next-step-to-value-based-c
 link: https://www.healthitoutcomes.com/doc/the-next-step-to-value-based-care-activating-healthcare-data-for-physicians-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-the-next-step-to-value-based-care-activating-healthcare-data-for-physicians
-socialScore: 28
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

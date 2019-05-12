@@ -11,8 +11,6 @@ featuredImage: /img/content/post/hcinnovationgroup-the-7-key-factors-for-healthc
 link: https://www.hcinnovationgroup.com/finance-revenue-cycle/mergers-acquisitions/article/21072901/the-7-key-factors-for-healthcare-mergers-and-affiliations
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-the-7-key-factors-for-healthcare-mergers-and-affiliations
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

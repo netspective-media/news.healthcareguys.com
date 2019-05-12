@@ -11,8 +11,6 @@ featuredImage: /img/content/post/theguardian-parenting-club-bounty-fined-400-000
 link: https://www.theguardian.com/technology/2019/apr/12/parenting-club-bounty-fined-selling-users-data
 linkBrand: theguardian.com
 slug: theguardian-parenting-club-bounty-fined-400-000-for-selling-users-data
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-iot-patient-engagement-rcm-gen
 link: https://www.healthcareitnews.com/news/iot-patient-engagement-rcm-genomics-deep-learning-among-new-tech-himss19
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-iot-patient-engagement-rcm-genomics-deep-learning-among-new-tech-at-himss19
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

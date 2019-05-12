@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-google-fit-comes-to-iphones-as-s
 link: https://www.mobihealthnews.com/content/google-fit-comes-iphones-standalone-app
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-google-fit-comes-to-iphones-as-standalone-app
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

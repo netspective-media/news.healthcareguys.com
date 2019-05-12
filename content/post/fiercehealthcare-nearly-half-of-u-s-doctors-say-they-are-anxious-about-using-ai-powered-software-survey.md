@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-nearly-half-of-u-s-doctors-say
 link: https://www.fiercehealthcare.com/practices/nearly-half-u-s-doctors-say-they-are-anxious-about-using-ai-powered-software-survey
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-nearly-half-of-u-s-doctors-say-they-are-anxious-about-using-ai-powered-software-survey
-socialScore: 38
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

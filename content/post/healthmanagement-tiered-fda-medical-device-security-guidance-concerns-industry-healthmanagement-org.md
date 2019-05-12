@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthmanagement-tiered-fda-medical-device-secu
 link: https://healthmanagement.org/c/it/news/tiered-fda-medical-device-security-guidance-concerns-industry
 linkBrand: healthmanagement.org
 slug: healthmanagement-tiered-fda-medical-device-security-guidance-concerns-industry-healthmanagement-org
-socialScore: 45
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

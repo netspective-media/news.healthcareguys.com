@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-what-you-need-to-know-about-he
 link: https://www.healthcareitnews.com/news/what-you-need-know-about-healthcare-apis-and-interoperability
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-what-you-need-to-know-about-healthcare-apis-and-interoperability
-socialScore: 0
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

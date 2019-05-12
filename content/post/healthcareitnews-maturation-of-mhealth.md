@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-maturation-of-mhealth.jpg
 link: https://www.healthcareitnews.com/video/maturation-mhealth
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-maturation-of-mhealth
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

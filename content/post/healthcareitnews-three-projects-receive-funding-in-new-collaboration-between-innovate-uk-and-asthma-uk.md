@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-three-projects-receive-funding
 link: https://www.healthcareitnews.com/news/three-projects-receive-funding-new-collaboration-between-innovate-uk-and-asthma-uk
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-three-projects-receive-funding-in-new-collaboration-between-innovate-uk-and-asthma-uk
-socialScore: 43
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

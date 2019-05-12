@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-digital-health-apps-could-save
 link: https://www.healthcareitnews.com/news/digital-health-apps-could-save-nhs-billions-says-report
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-digital-health-apps-could-save-nhs-billions-says-report
-socialScore: 28
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

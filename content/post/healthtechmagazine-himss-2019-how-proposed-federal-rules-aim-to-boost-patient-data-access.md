@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthtechmagazine-himss-2019-how-proposed-fede
 link: https://healthtechmagazine.net/article/2019/02/himss-2019-how-proposed-federal-rules-aim-boost-patient-data-access
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-himss-2019-how-proposed-federal-rules-aim-to-boost-patient-data-access
-socialScore: 1
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

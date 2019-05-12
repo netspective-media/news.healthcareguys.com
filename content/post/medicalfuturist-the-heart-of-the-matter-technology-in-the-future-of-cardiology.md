@@ -11,8 +11,6 @@ featuredImage: /img/content/post/medicalfuturist-the-heart-of-the-matter-technol
 link: https://medicalfuturist.com/future-of-cardiology
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-heart-of-the-matter-technology-in-the-future-of-cardiology
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

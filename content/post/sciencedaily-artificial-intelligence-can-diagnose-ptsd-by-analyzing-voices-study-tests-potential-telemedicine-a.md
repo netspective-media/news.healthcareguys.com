@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18520561
 link: https://www.sciencedaily.com/releases/2019/04/190422082232.htm
 linkBrand: sciencedaily.com
 slug: sciencedaily-artificial-intelligence-can-diagnose-ptsd-by-analyzing-voices-study-tests-potential-telemedicine-a
-socialScore: 20
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

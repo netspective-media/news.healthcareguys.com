@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-big-pharma-hesitant-to-embrace
 link: https://www.healthcareitnews.com/news/big-pharma-hesitant-embrace-cloud
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-big-pharma-hesitant-to-embrace-cloud
-socialScore: 23
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

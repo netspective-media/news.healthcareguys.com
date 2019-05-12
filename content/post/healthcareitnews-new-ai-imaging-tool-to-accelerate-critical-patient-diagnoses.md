@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-new-ai-imaging-tool-to-acceler
 link: https://www.healthcareitnews.com/news/new-ai-imaging-solution-accelerate-critical-patient-diagnoses
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-new-ai-imaging-tool-to-accelerate-critical-patient-diagnoses
-socialScore: 20
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

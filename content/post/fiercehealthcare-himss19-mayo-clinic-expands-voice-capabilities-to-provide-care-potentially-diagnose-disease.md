@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-himss19-mayo-clinic-expands-vo
 link: https://www.fiercehealthcare.com/tech/mayo-clinic-expands-voice-capabilities-to-provide-care-potentially-diagnose-disease
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-himss19-mayo-clinic-expands-voice-capabilities-to-provide-care-potentially-diagnose-disease
-socialScore: 22
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

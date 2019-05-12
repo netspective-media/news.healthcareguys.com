@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-infant-maternal-mortality-how-co
 link: https://www.mobihealthnews.com/content/infant-maternal-mortality-how-community-input-tool-development-could-save-lives
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-infant-maternal-mortality-how-community-input-in-tool-development-could-save-lives
-socialScore: 23
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

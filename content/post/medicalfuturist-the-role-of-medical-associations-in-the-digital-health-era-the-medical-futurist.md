@@ -12,8 +12,6 @@ featuredImage: /img/content/post/medicalfuturist-the-role-of-medical-association
 link: https://medicalfuturist.com/the-role-of-medical-associations-in-the-digital-health-era
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-role-of-medical-associations-in-the-digital-health-era-the-medical-futurist
-socialScore: 44
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

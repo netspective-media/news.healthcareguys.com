@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-venrock-ai-finding-its-place-b
 link: https://www.healthcareitnews.com/news/venrock-ai-finding-its-place-blockchain-may-never-matter
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-venrock-ai-finding-its-place-blockchain-may-never-matter
-socialScore: 9
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

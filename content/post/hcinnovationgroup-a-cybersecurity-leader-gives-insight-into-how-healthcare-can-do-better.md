@@ -11,8 +11,6 @@ featuredImage: /img/content/post/hcinnovationgroup-a-cybersecurity-leader-gives-
 link: https://www.hcinnovationgroup.com/cybersecurity/article/13030979/a-cybersecurity-leader-gives-insight-into-how-healthcare-can-do-better
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-a-cybersecurity-leader-gives-insight-into-how-healthcare-can-do-better
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

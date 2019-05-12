@@ -12,7 +12,7 @@ featuredImage: /img/content/post/changehealthcare-change-healthcare-releases-the
 link: https://www.changehealthcare.com/press-room/press-releases/detail/change-healthcare-releases-the-9th-annual-industry-pulse-survey
 linkBrand: changehealthcare.com
 slug: changehealthcare-change-healthcare-releases-the-9th-annual-industry-pulse-survey
-socialScore: 22
+socialScore: 1
 socialScoreSimulated: true
 source:
   name: Dropmark

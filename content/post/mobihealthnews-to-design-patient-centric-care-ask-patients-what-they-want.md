@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-to-design-patient-centric-care-a
 link: https://www.mobihealthnews.com/content/design-patient-centric-care-ask-patients-what-they-want
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-to-design-patient-centric-care-ask-patients-what-they-want
-socialScore: 42
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

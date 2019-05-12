@@ -13,8 +13,6 @@ featuredImage: /img/content/post/healthtechmagazine-3-ways-to-manage-the-cyber-r
 link: https://healthtechmagazine.net/article/2019/03/3-ways-manage-cyber-risk-posed-connected-medical-devices
 linkBrand: healthtechmagazine.net
 slug: healthtechmagazine-3-ways-to-manage-the-cyber-risk-posed-by-connected-medical-devices
-socialScore: 1
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

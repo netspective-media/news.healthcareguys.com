@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-tracking-common-causes-o
 link: https://www.healthcareinfosecurity.com/tracking-common-causes-recent-health-data-breaches-a-12307
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-tracking-common-causes-of-recent-health-data-breaches
-socialScore: 32
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

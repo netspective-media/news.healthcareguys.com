@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-why-home-healthcare-workers-ne
 link: https://www.healthcareitnews.com/news/why-home-healthcare-workers-need-access-hospital-ehrs
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-why-home-healthcare-workers-need-access-to-hospital-ehrs
-socialScore: 4
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

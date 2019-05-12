@@ -10,7 +10,7 @@ featuredImage: /img/content/post/fastcompany-why-gene-therapies-don-t-work-for-e
 link: https://www.fastcompany.com/90294414/gene-therapies-can-be-a-miracle-cure-except-when-our-immune-systems-wont-let-them?amp=&amp=&amp=&amp=&amp=&campaign_date=01192019&partner=newsletter&position=2
 linkBrand: fastcompany.com
 slug: fastcompany-why-gene-therapies-don-t-work-for-everyone
-socialScore: 14
+socialScore: 24
 socialScoreSimulated: true
 source:
   name: Dropmark

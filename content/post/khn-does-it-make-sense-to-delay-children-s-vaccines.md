@@ -11,8 +11,6 @@ featuredImage: /img/content/post/khn-does-it-make-sense-to-delay-children-s-vacc
 link: https://khn.org/news/does-it-make-sense-to-delay-childrens-vaccines/
 linkBrand: khn.org
 slug: khn-does-it-make-sense-to-delay-children-s-vaccines
-socialScore: 22
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

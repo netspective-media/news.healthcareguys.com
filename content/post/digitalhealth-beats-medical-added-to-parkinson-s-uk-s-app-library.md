@@ -11,8 +11,6 @@ featuredImage: /img/content/post/digitalhealth-beats-medical-added-to-parkinson-
 link: https://www.digitalhealth.net/2019/01/beats-medical-parkinsons-uks-app-library/
 linkBrand: digitalhealth.net
 slug: digitalhealth-beats-medical-added-to-parkinson-s-uk-s-app-library
-socialScore: 21
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

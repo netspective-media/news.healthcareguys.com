@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-mergers-and-acquisitions-not-l
 link: https://www.healthcareitnews.com/news/mergers-and-acquisitions-not-leading-promised-ehr-integration
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-mergers-and-acquisitions-not-leading-to-promised-ehr-integration
-socialScore: 22
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

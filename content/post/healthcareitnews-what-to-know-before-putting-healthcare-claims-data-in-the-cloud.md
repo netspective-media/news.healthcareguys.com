@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-what-to-know-before-putting-he
 link: https://www.healthcareitnews.com/news/what-know-putting-healthcare-claims-data-cloud
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-what-to-know-before-putting-healthcare-claims-data-in-the-cloud
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

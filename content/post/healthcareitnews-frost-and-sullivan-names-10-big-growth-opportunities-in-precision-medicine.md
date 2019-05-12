@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcareitnews-frost-and-sullivan-names-10-bi
 link: https://www.healthcareitnews.com/news/frost-sullivan-names-10-big-growth-opportunities-precision-medicine
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-frost-and-sullivan-names-10-big-growth-opportunities-in-precision-medicine
-socialScore: 37
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

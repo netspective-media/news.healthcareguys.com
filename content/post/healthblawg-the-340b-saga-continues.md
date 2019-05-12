@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthblawg-the-340b-saga-continues.jpg
 link: https://healthblawg.com/2019/05/340b-saga-continues.html
 linkBrand: healthblawg.com
 slug: healthblawg-the-340b-saga-continues
-socialScore: 47
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

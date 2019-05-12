@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-patient-engagement-s-role-in-g
 link: https://www.healthcareitnews.com/video/patient-engagements-role-getting-fee-service-value-based-care
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-patient-engagement-s-role-in-getting-from-fee-for-service-to-value-based-care
-socialScore: 21
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

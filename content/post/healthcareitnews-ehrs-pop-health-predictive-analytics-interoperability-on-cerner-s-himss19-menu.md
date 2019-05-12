@@ -9,8 +9,6 @@ featuredImage: /img/content/post/healthcareitnews-ehrs-pop-health-predictive-ana
 link: https://www.healthcareitnews.com/news/ehrs-pop-health-predictive-analytics-interoperability-cerner%E2%80%99s-himss19-menu
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-ehrs-pop-health-predictive-analytics-interoperability-on-cerner-s-himss19-menu
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

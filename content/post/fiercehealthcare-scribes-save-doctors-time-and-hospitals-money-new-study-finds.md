@@ -9,8 +9,6 @@ featuredImage: /img/content/post/fiercehealthcare-scribes-save-doctors-time-and-
 link: https://www.fiercehealthcare.com/practices/scribes-save-doctors-time-and-hospitals-money-new-study-finds
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-scribes-save-doctors-time-and-hospitals-money-new-study-finds
-socialScore: 19
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

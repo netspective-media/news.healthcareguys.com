@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-nurses-generally-satisfied-wit
 link: https://www.healthcareitnews.com/news/nurses-generally-satisfied-ehrs-key-pain-points-persist
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-nurses-generally-satisfied-with-ehrs-but-key-pain-points-persist
-socialScore: 43
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

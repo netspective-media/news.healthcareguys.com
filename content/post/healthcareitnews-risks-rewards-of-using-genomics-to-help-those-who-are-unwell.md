@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-risks-rewards-of-using-genomic
 link: https://www.healthcareitnews.com/video/risks-rewards-using-genomics-help-those-who-are-unwell
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-risks-rewards-of-using-genomics-to-help-those-who-are-unwell
-socialScore: 31
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

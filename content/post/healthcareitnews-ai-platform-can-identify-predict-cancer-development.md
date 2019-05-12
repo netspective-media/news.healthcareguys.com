@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-ai-platform-can-identify-predi
 link: https://www.healthcareitnews.com/news/ai-platform-can-identify-predict-cancer-development
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-ai-platform-can-identify-predict-cancer-development
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

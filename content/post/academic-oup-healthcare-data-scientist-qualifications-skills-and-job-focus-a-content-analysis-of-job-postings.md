@@ -8,8 +8,6 @@ featuredImage: /img/content/post/academic-oup-healthcare-data-scientist-qualific
 link: https://academic.oup.com/jamia/article/26/5/383/5369358?searchresult=1
 linkBrand: academic.oup.com
 slug: academic-oup-healthcare-data-scientist-qualifications-skills-and-job-focus-a-content-analysis-of-job-postings
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

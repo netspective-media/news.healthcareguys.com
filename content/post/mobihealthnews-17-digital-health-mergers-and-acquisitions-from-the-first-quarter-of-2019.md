@@ -10,8 +10,6 @@ featuredImage: /img/content/post/mobihealthnews-17-digital-health-mergers-and-ac
 link: https://www.mobihealthnews.com/content/17-digital-health-mergers-and-acquisitions-first-quarter-2019
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-17-digital-health-mergers-and-acquisitions-from-the-first-quarter-of-2019
-socialScore: 49
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

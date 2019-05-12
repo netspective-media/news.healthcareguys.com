@@ -10,8 +10,6 @@ featuredImage: /img/content/post/narcity-health-canada-is-warning-of-a-second-da
 link: https://www.narcity.com/news/health-canada-is-warning-of-a-second-dangerous-salmonella-outbreak-in-canada
 linkBrand: narcity.com
 slug: narcity-health-canada-is-warning-of-a-second-dangerous-salmonella-outbreak-in-canada-narcity
-socialScore: 13
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

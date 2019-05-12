@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-physicians-enthusiastic-about-
 link: https://www.healthcareitnews.com/news/physicians-enthusiastic-about-how-ai-can-help-digital-diagnostics
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-physicians-enthusiastic-about-how-ai-can-help-with-digital-diagnostics
-socialScore: 47
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

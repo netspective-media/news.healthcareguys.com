@@ -12,8 +12,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18364903
 link: https://www.foley.com/en/insights/publications/2019/04/maryland-proposes-new-telehealth-psychology-and-th
 linkBrand: foley.com
 slug: foley-maryland-proposes-new-telehealth-psychology-and-therapy-rules
-socialScore: 14
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

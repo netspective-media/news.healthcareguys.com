@@ -10,8 +10,6 @@ featuredImage: /img/content/post/himss-interoperability-and-putting-the-patient-
 link: https://www.himss.org/news/interoperability-and-putting-patient-center-discussion
 linkBrand: himss.org
 slug: himss-interoperability-and-putting-the-patient-at-the-center-of-the-discussion
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

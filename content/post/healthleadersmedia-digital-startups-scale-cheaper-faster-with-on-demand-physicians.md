@@ -8,8 +8,6 @@ featuredImage: /img/content/post/healthleadersmedia-digital-startups-scale-cheap
 link: https://www.healthleadersmedia.com/innovation/digital-startups-scale-cheaper-faster-demand-physicians
 linkBrand: healthleadersmedia.com
 slug: healthleadersmedia-digital-startups-scale-cheaper-faster-with-on-demand-physicians
-socialScore: 7
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

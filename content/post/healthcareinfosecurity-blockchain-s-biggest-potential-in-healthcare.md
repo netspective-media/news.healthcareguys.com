@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-blockchain-s-biggest-pot
 link: https://www.healthcareinfosecurity.com/interviews/blockchains-biggest-potential-in-healthcare-i-4215
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-blockchain-s-biggest-potential-in-healthcare
-socialScore: 43
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

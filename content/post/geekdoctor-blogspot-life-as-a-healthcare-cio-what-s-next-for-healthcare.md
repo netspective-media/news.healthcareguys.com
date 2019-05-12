@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/17600675
 link: http://geekdoctor.blogspot.com/2019/01/whats-next-for-healthcare.html
 linkBrand: geekdoctor.blogspot.com
 slug: geekdoctor-blogspot-life-as-a-healthcare-cio-what-s-next-for-healthcare
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -10,8 +10,6 @@ featuredImage: /img/content/post/hcinnovationgroup-on-national-nurses-day-a-char
 link: https://www.hcinnovationgroup.com/population-health-management/care-management/blog/21079417/on-national-nurses-day-a-charge-for-the-future
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-on-national-nurses-day-a-charge-for-the-future
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

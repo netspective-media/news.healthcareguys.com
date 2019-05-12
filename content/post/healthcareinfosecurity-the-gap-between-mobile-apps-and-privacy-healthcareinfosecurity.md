@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareinfosecurity-the-gap-between-mobile-a
 link: https://www.healthcareinfosecurity.com/blogs/gap-between-mobile-apps-privacy-p-2725
 linkBrand: healthcareinfosecurity.com
 slug: healthcareinfosecurity-the-gap-between-mobile-apps-and-privacy-healthcareinfosecurity
-socialScore: 3
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

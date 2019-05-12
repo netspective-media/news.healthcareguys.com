@@ -9,8 +9,6 @@ featuredImage: /img/content/post/healthitoutcomes-improving-healthcare-s-6-billi
 link: https://www.healthitoutcomes.com/doc/improving-healthcare-s-billion-patient-matching-problem-0001
 linkBrand: healthitoutcomes.com
 slug: healthitoutcomes-improving-healthcare-s-6-billion-patient-matching-problem
-socialScore: 40
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

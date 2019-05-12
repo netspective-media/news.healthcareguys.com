@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18016214
 link: https://www.healthit.gov/buzz-blog/interoperability/oncs-proposed-rule-will-connect-people-to-their-care
 linkBrand: healthit.gov
 slug: healthit-onc-s-proposed-rule-will-connect-people-to-their-care
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-centene-to-invest-100m-in-alzh
 link: https://www.fiercehealthcare.com/hospitals-health-systems/centene-to-fund-100m-alzheimer-s-diabetes-research-at-washington
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-centene-to-invest-100m-in-alzheimer-s-diabetes-research-at-washington-university
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

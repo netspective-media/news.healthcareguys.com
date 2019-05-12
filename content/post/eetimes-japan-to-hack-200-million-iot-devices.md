@@ -10,8 +10,6 @@ featuredImage: /img/content/post/eetimes-japan-to-hack-200-million-iot-devices.j
 link: https://www.eetimes.com/author.asp?section_id=36&doc_id=1334266
 linkBrand: eetimes.com
 slug: eetimes-japan-to-hack-200-million-iot-devices
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

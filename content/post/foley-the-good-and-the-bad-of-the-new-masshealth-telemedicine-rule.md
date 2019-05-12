@@ -9,8 +9,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18128078
 link: https://www.foley.com/en/insights/publications/2019/03/the-good-and-the-bad-of-the-new-masshealth-telemed
 linkBrand: foley.com
 slug: foley-the-good-and-the-bad-of-the-new-masshealth-telemedicine-rule
-socialScore: 6
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-mitigating-ediscovery-ch
 link: http://www.healthcarebusinesstech.com/mitigating-ediscovery-challenges-in-the-healthcare-industry/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-mitigating-ediscovery-challenges-in-the-healthcare-industry
-socialScore: 24
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

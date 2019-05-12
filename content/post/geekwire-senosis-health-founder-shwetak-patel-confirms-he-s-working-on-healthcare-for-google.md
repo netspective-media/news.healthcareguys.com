@@ -11,8 +11,6 @@ featuredImage: /img/content/post/geekwire-senosis-health-founder-shwetak-patel-c
 link: https://www.geekwire.com/2019/senosis-health-founder-shwetak-patel-confirms-hes-working-healthcare-google/
 linkBrand: geekwire.com
 slug: geekwire-senosis-health-founder-shwetak-patel-confirms-he-s-working-on-healthcare-for-google
-socialScore: 45
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

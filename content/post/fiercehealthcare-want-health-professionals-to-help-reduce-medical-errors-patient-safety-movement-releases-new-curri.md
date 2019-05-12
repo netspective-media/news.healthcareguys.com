@@ -11,8 +11,6 @@ featuredImage: /img/content/post/fiercehealthcare-want-health-professionals-to-h
 link: https://www.fiercehealthcare.com/hospitals-health-systems/new-patient-safety-curriculum-released-at-patient-safety-movement-summit
 linkBrand: fiercehealthcare.com
 slug: fiercehealthcare-want-health-professionals-to-help-reduce-medical-errors-patient-safety-movement-releases-new-curri
-socialScore: 1
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

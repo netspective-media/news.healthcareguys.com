@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-eric-topol-ehrs-have-taken-us-
 link: https://www.healthcareitnews.com/news/eric-topol-ehrs-have-taken-us-astray-ai-could-fix-healthcare-meaningful-and-positive-way
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-eric-topol-ehrs-have-taken-us-astray-but-ai-could-fix-healthcare-in-a-meaningful-and-positive
-socialScore: 33
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

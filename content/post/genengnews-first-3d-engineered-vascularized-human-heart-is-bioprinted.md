@@ -10,8 +10,6 @@ featuredImage: /img/content/post/genengnews-first-3d-engineered-vascularized-hum
 link: https://www.genengnews.com/news/first-3d-engineered-vascularized-human-heart-is-bioprinted/?amp=&amp=&amp=&amp=&oly_enc_id=5901D8426578G1Y
 linkBrand: genengnews.com
 slug: genengnews-first-3d-engineered-vascularized-human-heart-is-bioprinted
-socialScore: 45
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

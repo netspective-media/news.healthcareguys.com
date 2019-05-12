@@ -12,8 +12,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-byod-policies-can-improv
 link: http://www.healthcarebusinesstech.com/byod-communication/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-byod-policies-can-improve-communication-patient-treatment
-socialScore: 46
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

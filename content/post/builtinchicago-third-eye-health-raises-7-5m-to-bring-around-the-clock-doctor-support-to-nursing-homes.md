@@ -11,8 +11,6 @@ featuredImage: /img/content/post/builtinchicago-third-eye-health-raises-7-5m-to-
 link: https://www.builtinchicago.org/2019/02/18/third-eye-health-series-a
 linkBrand: builtinchicago.org
 slug: builtinchicago-third-eye-health-raises-7-5m-to-bring-around-the-clock-doctor-support-to-nursing-homes
-socialScore: 32
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

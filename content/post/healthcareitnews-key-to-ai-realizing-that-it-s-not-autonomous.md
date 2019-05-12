@@ -11,8 +11,6 @@ featuredImage: /img/content/post/healthcareitnews-key-to-ai-realizing-that-it-s-
 link: https://www.healthcareitnews.com/video/key-ai-realizing-it-s-not-autonomous
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-key-to-ai-realizing-that-it-s-not-autonomous
-socialScore: 10
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

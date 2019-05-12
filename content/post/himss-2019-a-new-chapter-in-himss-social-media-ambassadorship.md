@@ -10,8 +10,6 @@ featuredImage: /img/content/post/himss-2019-a-new-chapter-in-himss-social-media-
 link: https://www.himss.org/news/new-chapter-himss-social-media-ambassadorship
 linkBrand: himss.org
 slug: himss-2019-a-new-chapter-in-himss-social-media-ambassadorship
-socialScore: 16
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

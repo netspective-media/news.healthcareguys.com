@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcareitnews-hipaa-how-much-it-needs-to-cha
 link: https://www.healthcareitnews.com/video/hipaa-how-much-it-needs-change-digital-age
 linkBrand: healthcareitnews.com
 slug: healthcareitnews-hipaa-how-much-it-needs-to-change-for-the-digital-age
-socialScore: 8
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -11,8 +11,6 @@ featuredImage: /img/content/post/mobihealthnews-ahrq-launches-app-to-help-patien
 link: https://www.mobihealthnews.com/content/ahrq-launches-app-help-patients-preplan-questions-doctors
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-ahrq-launches-app-to-help-patients-preplan-questions-for-doctors
-socialScore: 30
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

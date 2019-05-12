@@ -12,8 +12,6 @@ featuredImage: /img/content/post/medicalfuturist-healthcare-and-medicine-needs-a
 link: https://medicalfuturist.com/healthcare-and-medicine-needs-a-global-fda
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-healthcare-and-medicine-needs-a-global-fda
-socialScore: 38
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

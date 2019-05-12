@@ -9,8 +9,6 @@ featuredImage: /img/content/post/hcinnovationgroup-is-physician-adoption-of-tele
 link: https://www.hcinnovationgroup.com/population-health-management/telehealth/news/21076616/is-physician-adoption-of-telehealth-at-an-inflection-point
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-is-physician-adoption-of-telehealth-at-an-inflection-point
-socialScore: 34
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

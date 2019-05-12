@@ -9,8 +9,6 @@ featuredImage: /img/content/post/mhealthintelligence-arizona-s-new-telemedicine-
 link: https://mhealthintelligence.com/news/arizonas-new-telemedicine-law-expands-coverage-adds-platforms
 linkBrand: mhealthintelligence.com
 slug: mhealthintelligence-arizona-s-new-telemedicine-law-expands-coverage-adds-platforms
-socialScore: 21
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

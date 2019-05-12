@@ -10,8 +10,6 @@ featuredImage: /img/content/post/digitalhealth-nhs-digital-to-appoint-robin-hood
 link: https://www.digitalhealth.net/2019/03/nhs-digital-to-appoint-robin-hood-of-data-as-interim-chief-medical-officer/
 linkBrand: digitalhealth.net
 slug: digitalhealth-nhs-digital-to-appoint-robin-hood-of-data-as-interim-chief-medical-officer
-socialScore: 14
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

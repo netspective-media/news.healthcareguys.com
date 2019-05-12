@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthmanagement-new-ai-tool-predicts-breast-ca
 link: https://healthmanagement.org/c/imaging/news/new-ai-tool-predicts-breast-cancer-risk
 linkBrand: healthmanagement.org
 slug: healthmanagement-new-ai-tool-predicts-breast-cancer-risk
-socialScore: 23
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

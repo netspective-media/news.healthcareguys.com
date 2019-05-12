@@ -9,8 +9,6 @@ featuredImage: /img/content/post/mobihealthnews-how-well-designed-tech-can-help-
 link: https://www.mobihealthnews.com/content/how-well-designed-tech-can-help-medical-professionals-avoid-burnout
 linkBrand: mobihealthnews.com
 slug: mobihealthnews-how-well-designed-tech-can-help-medical-professionals-avoid-burnout
-socialScore: 27
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

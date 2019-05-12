@@ -10,8 +10,6 @@ featuredImage: /img/content/post/healthcarebusinesstech-security-approaches-can-
 link: http://www.healthcarebusinesstech.com/security-approaches-can-help-keep-patients-data-safe/
 linkBrand: healthcarebusinesstech.com
 slug: healthcarebusinesstech-security-approaches-can-help-keep-patients-data-safe
-socialScore: 36
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

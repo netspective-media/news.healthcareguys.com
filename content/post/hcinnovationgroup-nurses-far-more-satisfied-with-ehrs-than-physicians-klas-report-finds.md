@@ -12,8 +12,6 @@ featuredImage: /img/content/post/hcinnovationgroup-nurses-far-more-satisfied-wit
 link: https://www.hcinnovationgroup.com/clinical-it/nursing/news/21073897/nurses-far-more-satisfied-with-ehrs-than-physicians-klas-report-finds
 linkBrand: hcinnovationgroup.com
 slug: hcinnovationgroup-nurses-far-more-satisfied-with-ehrs-than-physicians-klas-report-finds
-socialScore: 9
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

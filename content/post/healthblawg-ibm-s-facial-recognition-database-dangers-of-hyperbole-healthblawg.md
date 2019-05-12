@@ -8,8 +8,6 @@ dropmark.editURL: http://radhikan.dropmark.com/616548/18215015
 link: https://healthblawg.com/2019/03/ibm-facial-recognition.html
 linkBrand: healthblawg.com
 slug: healthblawg-ibm-s-facial-recognition-database-dangers-of-hyperbole-healthblawg
-socialScore: 12
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

@@ -10,8 +10,6 @@ featuredImage: /img/content/post/medicalfuturist-the-good-the-bad-and-the-weird-
 link: https://medicalfuturist.com/the-good-the-bad-and-the-weird-health-tech-from-ces-2019
 linkBrand: medicalfuturist.com
 slug: medicalfuturist-the-good-the-bad-and-the-weird-health-tech-from-ces-2019
-socialScore: 26
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json

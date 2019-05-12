@@ -7,8 +7,6 @@ featuredImage: /img/content/post/freep-why-more-people-are-using-cvs-walgreens-i
 link: https://www.freep.com/story/news/local/michigan/oakland/2019/04/17/pharmacy-cvs-minute-clinic-walgreens-doctor/3421057002/
 linkBrand: freep.com
 slug: freep-why-more-people-are-using-cvs-walgreens-instead-of-family-doctor
-socialScore: 0
-socialScoreSimulated: true
 source:
   name: Dropmark
   apiendpoint: https://shah.dropmark.com/616548.json
