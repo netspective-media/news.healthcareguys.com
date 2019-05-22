@@ -13,6 +13,7 @@ github.com/h2non/filetype v1.0.8/go.mod h1:isekKqOuhMj+s/7r3rIeTErIRy4Rub5uBWHfv
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/pty v1.1.4/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
 github.com/lectio/dropmark v0.0.0-20190519023059-5c80931b795a h1:jVaypYcWJ1tB+N4aWpf8Vq8z+1P66Fw2CjBTwUU/Ap4=
@@ -26,6 +27,8 @@ github.com/lectio/properties v0.0.0-20190521140923-2ce6b5dc77ff h1:wrOYTYhD/3wDp
 github.com/lectio/properties v0.0.0-20190521140923-2ce6b5dc77ff/go.mod h1:AkQXvaSCSejnOBoEceee1hT0NL5k+4rzU2Cf0UYIoeg=
 github.com/lectio/publish v0.0.0-20190521155142-88014d1eb71f h1:0UoLnxHA3taSqXjYTnQRHhUc1Dyw/5HaFxh5mFm+yno=
 github.com/lectio/publish v0.0.0-20190521155142-88014d1eb71f/go.mod h1:IzqiNyy3j6fYDqZLgvwQ2+hyOm9Pjn6D8njmPSn7ups=
+github.com/lectio/publish v0.0.0-20190522023126-7a6fc8bd2afd h1:/SD8k+x+0FoA5RCkB0huf8+ALTxcXwUYrSPGuQQ5J2c=
+github.com/lectio/publish v0.0.0-20190522023126-7a6fc8bd2afd/go.mod h1:IzqiNyy3j6fYDqZLgvwQ2+hyOm9Pjn6D8njmPSn7ups=
 github.com/lectio/resource v0.0.0-20190517204755-9aeb4e95c938/go.mod h1:c82gS6EeErp1IHBu34CjHhU6aolbK890RMh6m64iICE=
 github.com/lectio/resource v0.0.0-20190519022640-f60af9ad6c81/go.mod h1:EoEtIXX2xInL5Lz1P2cPiypELT0MYRRsTAeQ2hCR/NY=
 github.com/lectio/resource v0.0.0-20190520235426-9f95474d1b29 h1:FfFWbqyBZ8F7OXoW4P0eH3x3cIyS5c5YIMqFDTE7UJU=
@@ -41,6 +44,7 @@ github.com/mattn/go-colorable v0.1.1/go.mod h1:FuOcm+DKB9mbwrcAfNl7/TZVBZ6rcncea
 github.com/mattn/go-isatty v0.0.5/go.mod h1:Iq45c/XA43vh69/j3iqttzPXn0bhXyGjM0Hdxcsrc5s=
 github.com/mattn/go-isatty v0.0.7 h1:UvyT9uN+3r7yLEYSlJsbQGdsaB/a0DlgWP3pql6iwOc=
 github.com/mattn/go-isatty v0.0.7/go.mod h1:Iq45c/XA43vh69/j3iqttzPXn0bhXyGjM0Hdxcsrc5s=
+github.com/mattn/go-isatty v0.0.8/go.mod h1:Iq45c/XA43vh69/j3iqttzPXn0bhXyGjM0Hdxcsrc5s=
 github.com/mattn/go-runewidth v0.0.4 h1:2BvfKmzob6Bmd4YsL0zygOqfdFnK7GR4QL06Do4/p7Y=
 github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
@@ -74,6 +78,7 @@ golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
 golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
 golang.org/x/tools v0.0.0-20190517183331-d88f79806bbd/go.mod h1:RgjU9mgBXZiqYHBnxXauZ1Gv1EHHAz9KjViQ78xBX0Q=
 golang.org/x/tools v0.0.0-20190520220859-26647e34d3c0/go.mod h1:RgjU9mgBXZiqYHBnxXauZ1Gv1EHHAz9KjViQ78xBX0Q=
+golang.org/x/tools v0.0.0-20190521203540-521d6ed310dd/go.mod h1:RgjU9mgBXZiqYHBnxXauZ1Gv1EHHAz9KjViQ78xBX0Q=
 golang.org/x/xerrors v0.0.0-20190513163551-3ee3066db522 h1:bhOzK9QyoD0ogCnFro1m2mz41+Ib0oOhfJnBp5MR4K4=
 golang.org/x/xerrors v0.0.0-20190513163551-3ee3066db522/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=

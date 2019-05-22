@@ -51,7 +51,7 @@ func main() {
 	bpc := markdown.NewBasePathConfigurator(basePath)
 	linkFactory := link.NewFactory()
 
-	publisher, err := publish.NewMarkdownPublisher(ctx, true, linkFactory, bpc, &publish.CommandLineProgressReporter{})
+	publisher, err := publish.NewMarkdownPublisher(ctx, 25, linkFactory, bpc, &publish.CommandLineProgressReporter{})
 	if err != nil {
 		panic(err)
 	}
